@@ -1,0 +1,1386 @@
+,Status,Appointment On,Treatment Name,Customer Name
+0,No Show,12/22/2023 13:45,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1,Paid/Complete,12/29/2023 10:15,Deep Tissue Massage (90 min),DANISE HUME
+2,Paid/Complete,12/18/2023 10:00,Swedish Massage (60 min),Hope Griffiths
+3,Paid/Complete,12/22/2023 10:00,Deep Tissue Massage (60 min),Joe Snapp
+4,Paid/Complete,12/29/2023 12:00,Swedish Massage (90 min),Robin Tremper
+5,Paid/Complete,12/12/2023 14:30,Swedish Massage (60 min),Emily Gonzales
+6,Paid/Complete,12/22/2023 12:30,Swedish Massage (60 min),Tracy McCarthy
+7,Paid/Complete,12/12/2023 11:00,Swedish Massage (60 min),Nancy McCaughey
+8,Paid/Complete,12/22/2023 11:15,Swedish Massage (60 min),Lauren Yarberry
+9,Paid/Complete,12/11/2023 13:15,Deep Tissue Massage (60 min),Hillary Scheer
+10,Paid/Complete,12/8/2023 15:00,Deep Tissue Massage (60 min),Anne Pomerantz
+11,Paid/Complete,12/19/2023 11:15,Hot Stone Massage,Saffronia Baldwin
+12,Paid/Complete,12/8/2023 12:30,Swedish Massage (60 min),Cathy Shattuck
+13,Paid/Complete,12/11/2023 11:15,Swedish Massage (90 min),Jen Wallerich*
+14,Cancelled,12/11/2023 11:15,Swedish Massage (60 min),Jen Wallerich*
+15,Cancelled,12/8/2023 12:30,Deep Tissue Massage (60 min),Shadi Araghi
+16,Cancelled,12/12/2023 10:00,Deep Tissue Massage (90 min),Alexandria Erps
+17,Paid/Complete,12/19/2023 10:00,Swedish Massage (60 min),Lauren Groves
+18,Paid/Complete,12/5/2023 14:00,Signature Aromatherapy Massage,Krysia Crabtree
+19,Paid/Complete,12/15/2023 12:00,Deep Tissue Massage (60 min),Mark Herrmann
+20,Paid/Complete,12/5/2023 12:15,Deep Tissue Massage (90 min),Jenn Herrmann *****
+21,Paid/Complete,12/1/2023 15:00,Deep Tissue Massage (60 min),Jenn Herrmann *****
+22,Cancelled,12/29/2023 11:30,Deep Tissue Massage (60 min),Lindsey Pehrson *
+23,Cancelled,12/11/2023 11:15,Deep Tissue Massage (60 min),Hillary Scheer
+24,Paid/Complete,12/5/2023 11:30,Back & Shoulder Massage,Rebecca 'Rayne' Lacko **
+25,Paid/Complete,12/19/2023 13:00,Swedish Massage (60 min),Stephanie Miller
+26,Cancelled,12/15/2023 12:00,Deep Tissue Massage (60 min),Lindsey Pehrson *
+27,Cancelled,12/15/2023 11:15,Back & Shoulder Massage,Daniel McKeon
+28,Paid/Complete,11/28/2023 11:00,Swedish Massage (90 min),Rachel Snelson
+29,Cancelled,12/8/2023 12:30,Deep Tissue Massage (60 min),Lindsey Pehrson *
+30,Cancelled,12/8/2023 11:15,Swedish Massage (60 min),Jenn Miranda
+31,Paid/Complete,11/27/2023 13:30,Back & Shoulder Massage,Daniel McKeon
+32,Paid/Complete,11/28/2023 12:45,Deep Tissue Massage (90 min),William marshall
+33,Paid/Complete,11/21/2023 11:15,Back & Shoulder Massage,Daniel McKeon
+34,Paid/Complete,11/20/2023 14:45,100 Acres of Relaxation Cannabis Cure Massage,Maggie Messerly
+35,Paid/Complete,11/17/2023 12:00,Deep Tissue Massage (60 min),Audrey Flour
+36,Cancelled,11/17/2023 12:00,Deep Tissue Massage (60 min),Leela Riquelme
+37,Paid/Complete,11/17/2023 10:45,Deep Tissue Massage (60 min),Cori OBrien *
+38,Cancelled,12/15/2023 11:30,Deep Tissue Massage (90 min),Lindsey Pehrson *
+39,Paid/Complete,11/27/2023 14:30,Deep Tissue Massage (60 min),Shelby Welty
+40,Confirmed,11/21/2023 10:00,Back & Shoulder Massage,Trisha Wolf *
+41,Paid/Complete,11/27/2023 11:15,Deep Tissue Massage (60 min),Jenna McDonald ***
+42,Paid/Complete,12/4/2023 11:15,Swedish Massage (60 min),Lauren Groves
+43,Cancelled,11/17/2023 10:15,Signature Aromatherapy Massage,Evin Chanatry
+44,No Show,12/4/2023 14:15,Swedish Massage (60 min),Tina Pujolar ***
+45,Cancelled,11/20/2023 14:45,Swedish Massage (60 min),Sara Siri
+46,Paid/Complete,11/20/2023 13:00,Deep Tissue Massage (90 min),Brian Strully
+47,Paid/Complete,12/18/2023 11:15,Swedish Massage (60 min),Pam Opalski
+48,Paid/Complete,11/14/2023 11:45,Deep Tissue Massage (60 min),Taryn Names
+49,Paid/Complete,11/14/2023 13:00,Swedish Massage (60 min),Lauren Groves
+50,Cancelled,11/21/2023 10:45,Deep Tissue Massage (90 min),Lindsey Pehrson *
+51,Paid/Complete,11/21/2023 12:45,100 Acres of Relaxation Cannabis Cure Massage,Beth Donahoe
+52,Paid/Complete,11/14/2023 10:00,Swedish Massage (90 min),Christina Gould
+53,Paid/Complete,11/10/2023 10:00,Prenatal Massage,Tricia Becker *
+54,Paid/Complete,11/28/2023 14:30,Deep Tissue Massage (60 min),Kay Roach
+55,Paid/Complete,11/14/2023 14:15,Swedish Massage (90 min),Morgan Smart
+56,Paid/Complete,11/7/2023 11:15,Deep Tissue Massage (90 min),Kerry Schultz
+57,Paid/Complete,11/10/2023 11:15,Hot Stone Massage,Cindy Johnson
+58,Paid/Complete,11/10/2023 15:00,Deep Tissue Massage (60 min),Laura Quinn
+59,Paid/Complete,11/4/2023 11:00,Swedish Massage (60 min),Linda Winter
+60,Paid/Complete,11/4/2023 12:15,Hot Stone Massage,Linda Winter
+61,Paid/Complete,11/17/2023 15:00,Warm Winter Glow CBD Massage,Amy Neimann
+62,Cancelled,11/7/2023 10:00,Swedish Massage (60 min),Lori Blevins-Schilling
+63,Paid/Complete,11/7/2023 10:00,Swedish Massage (60 min),Lori Blevins-Schilling
+64,Paid/Complete,12/8/2023 11:15,Swedish Massage (60 min),Lauren Yarberry
+65,Paid/Complete,12/1/2023 11:15,Deep Tissue Massage (90 min),Micah Strom
+66,Cancelled,11/21/2023 14:00,Deep Tissue Massage (90 min),Erica Cooper
+67,Paid/Complete,10/31/2023 10:30,Deep Tissue Massage (60 min),Leah Williams
+68,Paid/Complete,12/19/2023 14:15,Swedish Massage (90 min),Margaret Bushnell
+69,Paid/Complete,10/27/2023 11:15,Swedish Massage (60 min),Christina Skoglund
+70,Cancelled,11/6/2023 10:00,Swedish Massage (60 min),Jen Wallerich*
+71,Paid/Complete,11/3/2023 12:00,Swedish Massage (60 min),Lauren Yarberry
+72,Paid/Complete,10/27/2023 10:00,Warm Winter Glow CBD Massage,Dalah Ostara
+73,Paid/Complete,10/31/2023 11:45,Deep Tissue Massage (60 min),Kim Goerlitz
+74,Paid/Complete,10/31/2023 13:00,Warm Winter Glow CBD Massage,Jan Smiley
+75,Paid/Complete,11/3/2023 10:00,Deep Tissue Massage (90 min),Scar Monk
+76,Paid/Complete,11/20/2023 11:15,Swedish Massage (90 min),Makenzie Williamson
+77,Paid/Complete,10/24/2023 12:30,Deep Tissue Massage (90 min),Kathryn Koehn
+78,Paid/Complete,10/30/2023 12:30,Swedish Massage (60 min),Emma Spatz
+79,Cancelled,10/24/2023 12:30,Himalayan Hot Stone Massage ,Amber Litz
+80,Paid/Complete,10/24/2023 11:15,Deep Tissue Massage (60 min),Claire Kayacik
+81,Paid/Complete,12/5/2023 10:15,Deep Tissue Massage (60 min),Elizabeth Zaroff
+82,Cancelled,11/3/2023 10:00,Swedish Massage (60 min),Patricia Hinds
+83,Paid/Complete,10/30/2023 11:15,Swedish Massage (60 min),Brooke Raynor
+84,Paid/Complete,10/23/2023 11:15,Swedish Massage (90 min),Makenzie Williamson
+85,Paid/Complete,10/16/2023 14:15,Swedish Massage (60 min),Kelly Zwicker
+86,Confirmed,10/16/2023 12:30,Deep Tissue Massage (90 min),Jilliane Wygant**
+87,Paid/Complete,10/17/2023 10:15,Back & Shoulder Massage,Sophia Kasper
+88,Paid/Complete,10/31/2023 14:15,Deep Tissue Massage (90 min),Jessica Anderson **
+89,Paid/Complete,11/13/2023 14:15,Swedish Massage (60 min),Pam Opalski
+90,Paid/Complete,11/6/2023 14:15,Deep Tissue Massage (90 min),Tessa Blumenthal
+91,Paid/Complete,10/6/2023 11:45,Swedish Massage (90 min),Kris Bjorklund
+92,Paid/Complete,10/10/2023 13:30,Deep Tissue Massage (90 min),Kris Rosentrater
+93,Paid/Complete,10/27/2023 15:00,Swedish Massage (60 min),Margaret Bushnell
+94,Cancelled,10/10/2023 13:30,Back & Shoulder Massage,Amelia Bates
+95,Paid/Complete,10/27/2023 12:30,Deep Tissue Massage (60 min),Drew Markham
+96,Paid/Complete,10/10/2023 11:45,Signature Aromatherapy Massage,Jennifer Poper
+97,Paid/Complete,10/9/2023 11:45,Back & Shoulder Massage,Joseph Olson
+98,Paid/Complete,10/16/2023 11:15,Deep Tissue Massage (60 min),Paul Ryder
+99,Paid/Complete,10/3/2023 11:15,Foot and Leg Therapy,Jody Truitt
+100,Paid/Complete,10/3/2023 12:00,Deep Tissue Massage (90 min),Lara Deits
+101,Paid/Complete,12/29/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+102,Cancelled,12/22/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+103,Paid/Complete,12/15/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+104,Paid/Complete,12/8/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+105,Paid/Complete,12/1/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+106,Paid/Complete,11/17/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+107,Paid/Complete,11/10/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+108,Paid/Complete,10/27/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+109,Paid/Complete,11/3/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+110,Paid/Complete,10/13/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+111,Paid/Complete,10/3/2023 10:00,Swedish Massage (60 min),Danielle Warman
+112,Paid/Complete,10/3/2023 13:45,Deep Tissue Massage (90 min),izzy antonino
+113,Cancelled,11/17/2023 15:00,Warm Winter Glow CBD Massage,Jill Cody
+114,Paid/Complete,10/23/2023 13:45,Swedish Massage (90 min),Rebecca Smith
+115,Paid/Complete,9/29/2023 14:45,Deep Tissue Massage (60 min),Stacy Hemingway ******
+116,Paid/Complete,12/11/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+117,Paid/Complete,12/18/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+118,Paid/Complete,9/29/2023 11:15,Swedish Massage (60 min),Joseph Lacko
+119,Paid/Complete,11/6/2023 11:15,Deep Tissue Massage (60 min),Shirley Whitaker
+120,Paid/Complete,9/26/2023 10:00,Deep Tissue Massage (60 min),Anne Pomerantz
+121,Paid/Complete,12/29/2023 15:00,Warm Winter Glow CBD Massage,Amy Niemann
+122,Paid/Complete,12/22/2023 15:00,Warm Winter Glow CBD Massage,Amy Niemann
+123,Paid/Complete,12/15/2023 15:00,Warm Winter Glow CBD Massage,Amy Niemann
+124,Paid/Complete,10/10/2023 10:00,Swedish Massage (90 min),Katie Mann
+125,Paid/Complete,9/25/2023 11:15,Deep Tissue Massage (60 min),Hildja Saas
+126,Paid/Complete,9/22/2023 11:15,Deep Tissue Massage (60 min),Samantha Bloink
+127,Cancelled,9/26/2023 14:00,Deep Tissue Massage (90 min),Ingrid Pultz
+128,Paid/Complete,10/9/2023 14:45,Swedish Massage (60 min),Pam Opalski
+129,Paid/Complete,9/26/2023 12:45,Deep Tissue Massage (60 min),Jen Tanguay
+130,Paid/Complete,9/26/2023 11:30,Deep Tissue Massage (60 min),Sara Daubenberger
+131,Paid/Complete,9/19/2023 10:00,Back & Shoulder Massage,Kerry Alexander *
+132,Paid/Complete,9/19/2023 12:00,Deep Tissue Massage (90 min),Chloe Dale *
+133,Paid/Complete,9/19/2023 10:45,Deep Tissue Massage (60 min),Carrie Sellers
+134,Paid/Complete,9/25/2023 14:15,Deep Tissue Massage (90 min),Kari Siceloff
+135,Paid/Complete,9/18/2023 13:30,Deep Tissue Massage (60 min),Ticia Marie Stafford
+136,Paid/Complete,9/15/2023 15:00,Swedish Massage (60 min),Thomas Lowell
+137,Paid/Complete,9/18/2023 11:30,Swedish Massage (90 min),Margaret Bushnell
+138,Cancelled,11/3/2023 13:45,Warm Winter Glow CBD Massage,Amy Niemann
+139,Paid/Complete,11/3/2023 15:00,Warm Winter Glow CBD Massage,Amy Niemann
+140,Paid/Complete,10/30/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+141,Paid/Complete,9/15/2023 11:45,Back & Shoulder Massage,Danielle Ledbetter
+142,Paid/Complete,9/19/2023 14:15,Swedish Massage (90 min),Biz Dailey
+143,Paid/Complete,9/15/2023 10:00,Deep Tissue Massage (60 min),Sandra Kapral
+144,Paid/Complete,10/24/2023 10:00,100 Acres of Relaxation Cannabis Cure Massage,Melody Maleitzke
+145,Paid/Complete,9/22/2023 10:00,100 Acres of Relaxation Cannabis Cure Massage,Melody Maleitzke
+146,Paid/Complete,9/11/2023 10:00,Swedish Massage (90 min),Jen Wallerich*
+147,Paid/Complete,9/12/2023 13:00,Prenatal Massage,Lucia Foster
+148,Paid/Complete,9/12/2023 11:15,Deep Tissue Massage (90 min),Chloe Dale *
+149,Paid/Complete,9/11/2023 12:30,Deep Tissue Massage (60 min),Paola Olivia  Veeder
+150,Paid/Complete,9/11/2023 14:15,Swedish Massage (90 min),Megan Keaty
+151,Cancelled,10/17/2023 14:30,100 Acres of Relaxation Cannabis Cure Massage,Frankie Minore
+152,Cancelled,9/15/2023 15:00,Deep Tissue Massage (60 min),Geeta Vandemark
+153,Paid/Complete,9/5/2023 11:15,Swedish Massage (90 min),Yasmin Guggenheimer
+154,Paid/Complete,10/6/2023 14:45,Deep Tissue Massage (90 min),Tessa Blumenthal
+155,Paid/Complete,9/5/2023 10:00,Back & Shoulder Massage,Margaret Bushnell
+156,Paid/Complete,8/29/2023 11:45,Swedish Massage (60 min),Kendra Curtain
+157,Cancelled,9/5/2023 10:00,Deep Tissue Massage (60 min),Valeri Terentyeva
+158,Paid/Complete,9/18/2023 14:45,Swedish Massage (60 min),Pam Opalski
+159,Paid/Complete,9/8/2023 12:00,Deep Tissue Massage (90 min),Amy Pinker
+160,Paid/Complete,8/25/2023 12:30,Deep Tissue Massage (60 min),Amy Pinker
+161,Paid/Complete,9/1/2023 11:15,100 Acres of Relaxation Cannabis Cure Massage,Lydia Deng
+162,Paid/Complete,9/4/2023 14:15,Swedish Massage (60 min),Allison Handy
+163,Paid/Complete,9/8/2023 10:15,Deep Tissue Massage (90 min),Caroline Halter
+164,Cancelled,9/5/2023 11:15,Deep Tissue Massage (90 min),Meredyth Yund
+165,Paid/Complete,8/22/2023 14:45,Deep Tissue Massage (60 min),Laura Francis
+166,Paid/Complete,8/22/2023 14:00,Back & Shoulder Massage,bryna ross
+167,Paid/Complete,8/18/2023 13:45,Swedish Massage (60 min),Brigette Yates
+168,Cancelled,8/29/2023 12:00,Deep Tissue Massage (60 min),Sandra Mehta
+169,Cancelled,8/29/2023 12:00,Deep Tissue Massage (60 min),Sandra Mehta
+170,Cancelled,8/25/2023 12:30,100 Acres of Relaxation Cannabis Cure Massage,Jenean Brady
+171,Paid/Complete,9/4/2023 11:15,Warm Winter Glow CBD Massage,Marjorie Sherman
+172,Paid/Complete,8/29/2023 10:00,Swedish Massage (90 min),Hillary Scheer
+173,Paid/Complete,10/13/2023 11:15,100 Acres of Relaxation Cannabis Cure Massage,Melody Maleitzke
+174,Paid/Complete,9/12/2023 10:00,100 Acres of Relaxation Cannabis Cure Massage,Melody Maleitzke
+175,Paid/Complete,12/18/2023 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+176,Paid/Complete,12/4/2023 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+177,Paid/Complete,11/13/2023 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+178,Paid/Complete,11/6/2023 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+179,Paid/Complete,10/9/2023 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+180,Paid/Complete,9/25/2023 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+181,Paid/Complete,9/25/2023 10:00,Deep Tissue Massage (60 min),Shirley Whitaker
+182,Paid/Complete,8/18/2023 12:00,Deep Tissue Massage (90 min),Tricia Minnett
+183,Paid/Complete,8/28/2023 13:00,Swedish Massage (60 min),Kathy Dernbach
+184,Paid/Complete,8/11/2023 15:00,Deep Tissue Massage (60 min),Shelley Kilbourn **
+185,Paid/Complete,9/8/2023 15:00,Warm Winter Glow CBD Massage,Amy Niemann
+186,Paid/Complete,8/25/2023 15:00,Warm Winter Glow CBD Massage,Amy Niemann
+187,Paid/Complete,8/18/2023 15:00,Warm Winter Glow CBD Massage,Amy Niemann
+188,Cancelled,8/28/2023 11:15,Swedish Massage (90 min),Emily Gonzales
+189,Paid/Complete,8/22/2023 12:15,Deep Tissue Massage (90 min),Brenda Huson
+190,Paid/Complete,8/22/2023 10:30,Swedish Massage (90 min),Liz Joss
+191,Cancelled,8/22/2023 14:00,Deep Tissue Massage (90 min),Meloni Courtway
+192,Paid/Complete,8/29/2023 13:15,Deep Tissue Massage (60 min),Jori Maurer
+193,Cancelled,8/21/2023 11:15,Deep Tissue Massage (60 min),Joie Olsen *
+194,Cancelled,8/29/2023 10:00,Deep Tissue Massage (60 min),Andrea Hoskins
+195,Paid/Complete,8/1/2023 12:00,Deep Tissue Massage (90 min),Robin Tremper
+196,Paid/Complete,9/1/2023 15:00,Deep Tissue Massage (60 min),Tessa Blumenthal
+197,Cancelled,9/22/2023 15:00,Swedish Massage (60 min),Angela Burkland
+198,Paid/Complete,7/31/2023 14:45,Warm Winter Glow CBD Massage,Terra Claiborne
+199,Cancelled,8/15/2023 11:00,Deep Tissue Massage (60 min),Sandra Mehta
+200,Paid/Complete,8/21/2023 13:30,Warm Winter Glow CBD Massage,Amy Niemann
+201,Paid/Complete,8/21/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+202,Paid/Complete,7/28/2023 15:00,Deep Tissue Massage (60 min),Tessa Blumenthal
+203,Paid/Complete,8/4/2023 11:15,Swedish Massage (60 min),Sara Kuethe
+204,Cancelled,9/22/2023 11:30,Swedish Massage (90 min),Lindsey Allen
+205,Paid/Complete,8/14/2023 11:15,Deep Tissue Massage (60 min),Shirley Whitaker
+206,Paid/Complete,8/1/2023 10:00,Deep Tissue Massage (60 min),Brian Skare
+207,Cancelled,7/24/2023 10:00,Warm Winter Glow CBD Massage,Marjorie Sherman
+208,Paid/Complete,7/31/2023 13:15,100 Acres of Relaxation Cannabis Cure Massage,Christina Segan
+209,Cancelled,8/15/2023 12:15,Deep Tissue Massage (90 min),Marlen Allen *
+210,Paid/Complete,7/18/2023 15:00,Back & Shoulder Massage,Kristy Sambor
+211,Paid/Complete,7/18/2023 13:30,Prenatal Massage,Margaret Bushnell
+212,Cancelled,7/18/2023 13:30,Prenatal Massage,Add Name
+213,Paid/Complete,7/17/2023 14:00,Back & Shoulder Massage,Shirley Whitaker
+214,Paid/Complete,7/17/2023 12:30,Deep Tissue Massage (60 min),Brian Skare
+215,Paid/Complete,7/14/2023 13:15,Deep Tissue Massage (60 min),Mollie Beal
+216,Cancelled,7/25/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+217,Cancelled,7/21/2023 13:00,Warm Winter Glow CBD Massage,Amy Niemann
+218,Paid/Complete,7/17/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+219,Paid/Complete,7/18/2023 11:45,Swedish Massage (60 min),Eling Chang
+220,Paid/Complete,7/18/2023 10:00,Swedish Massage (90 min),Leeanna Butcher
+221,Paid/Complete,7/10/2023 11:15,Back & Shoulder Massage,Sara Bantle
+222,Paid/Complete,7/11/2023 10:00,Swedish Massage (90 min),Malea Brunner
+223,Paid/Complete,8/4/2023 14:15,Himalayan Hot Stone Massage ,Patricia Robinson
+224,Paid/Complete,7/10/2023 12:15,Deep Tissue Massage (60 min),Judy Kimelman
+225,Paid/Complete,7/17/2023 11:15,Swedish Massage (60 min),Deborah Day
+226,Paid/Complete,8/25/2023 11:15,Deep Tissue Massage (60 min),Lou Ventino
+227,Cancelled,7/24/2023 14:45,Deep Tissue Massage (60 min),Lou Ventino
+228,Paid/Complete,7/31/2023 12:00,Swedish Massage (60 min),Jane Ekstrand
+229,Paid/Complete,8/1/2023 13:45,Swedish Massage (60 min),Carolyn Burger
+230,Cancelled,8/18/2023 11:15,Warm Winter Glow CBD Massage,RACHAEL REESE
+231,Paid/Complete,6/30/2023 14:45,Deep Tissue Massage (60 min),Lou Ventino
+232,Paid/Complete,6/27/2023 14:15,100 Acres of Relaxation Cannabis Cure Massage,Christina Segan
+233,Cancelled,6/26/2023 12:00,Back & Shoulder Massage,Brian Dutt
+234,Paid/Complete,6/26/2023 14:30,Deep Tissue Massage (60 min),Jessica Malouf *
+235,Cancelled,7/24/2023 11:15,Deep Tissue Massage (90 min),Nicole Wingfield
+236,Cancelled,7/21/2023 10:00,Swedish Massage (60 min),ROSEMARY HOLLINGER
+237,Cancelled,7/21/2023 14:15,Deep Tissue Massage (90 min),Tessa Blumenthal
+238,Paid/Complete,6/26/2023 10:15,Foot and Leg Therapy,Katherine Sloat ***
+239,Paid/Complete,6/19/2023 11:30,Back & Shoulder Massage,Nick Schmitt
+240,Paid/Complete,7/3/2023 11:30,Swedish Massage (60 min),Rebecca Spears
+241,Paid/Complete,8/29/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+242,Cancelled,8/22/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+243,Cancelled,8/15/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+244,Paid/Complete,9/5/2023 13:00,Warm Winter Glow CBD Massage,Amy Niemann
+245,Paid/Complete,9/1/2023 12:30,Warm Winter Glow CBD Massage,Amy Niemann
+246,Cancelled,9/8/2023 12:30,Warm Winter Glow CBD Massage,Amy Niemann
+247,Cancelled,8/25/2023 12:30,Warm Winter Glow CBD Massage,Amy Niemann
+248,Cancelled,8/18/2023 12:30,Warm Winter Glow CBD Massage,Amy Niemann
+249,Cancelled,9/15/2023 12:30,Warm Winter Glow CBD Massage,Amy Niemann
+250,Paid/Complete,6/26/2023 11:15,Back & Shoulder Massage,Karen Fredrichs
+251,Paid/Complete,6/16/2023 11:30,Back & Shoulder Massage,Michael Dressler
+252,Paid/Complete,6/27/2023 12:30,Swedish Massage (90 min),Brooke Kim
+253,Paid/Complete,6/27/2023 10:30,Deep Tissue Massage (90 min),Samantha Olson
+254,Paid/Complete,8/14/2023 14:15,100 Acres of Relaxation Cannabis Cure Massage,Melody Maleitzke
+255,Paid/Complete,9/4/2023 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+256,Paid/Complete,8/14/2023 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+257,Cancelled,6/12/2023 11:15,Deep Tissue Massage (90 min),Jilliane Wygant**
+258,Paid/Complete,7/11/2023 13:00,Deep Tissue Massage (60 min),Winifred Perkins
+259,Paid/Complete,7/7/2023 11:15,Swedish Massage (90 min),Jen Wallerich*
+260,Paid/Complete,6/26/2023 12:45,Himalayan Hot Stone Massage ,Justine Vega
+261,Cancelled,8/4/2023 11:15,100 Acres of Relaxation Cannabis Cure Massage,Kerry Alexander *
+262,Cancelled,6/27/2023 12:45,Foot and Leg Therapy,Add Name #2
+263,Cancelled,6/27/2023 13:30,Back & Shoulder Massage,Add Name #2
+264,Paid/Complete,6/13/2023 12:15,Back & Shoulder Massage,Karen Fredrichs
+265,Cancelled,6/6/2023 10:00,Back & Shoulder Massage,Karen Fredrichs
+266,Paid/Complete,8/11/2023 11:30,Swedish Massage (60 min),Brooke Raynor
+267,Paid/Complete,7/28/2023 11:30,Swedish Massage (90 min),Brooke Raynor
+268,Paid/Complete,7/14/2023 11:30,Swedish Massage (90 min),Brooke Raynor
+269,Paid/Complete,6/30/2023 11:30,Swedish Massage (90 min),Brooke Raynor
+270,Cancelled,10/10/2023 14:15,Deep Tissue Massage (90 min),Brenda Huson
+271,Paid/Complete,9/5/2023 14:15,Deep Tissue Massage (90 min),Brenda Huson
+272,Cancelled,8/8/2023 14:15,Deep Tissue Massage (90 min),Brenda Huson
+273,Paid/Complete,7/11/2023 14:15,Deep Tissue Massage (90 min),Brenda Huson
+274,Cancelled,6/27/2023 14:15,Deep Tissue Massage (90 min),Brenda Huson
+275,Paid/Complete,6/2/2023 11:30,Swedish Massage (90 min),Chelsie Bialkowsky
+276,Cancelled,6/12/2023 15:00,Back & Shoulder Massage,Marina Davis
+277,Paid/Complete,6/20/2023 13:45,Himalayan Hot Stone Massage ,Julie Evans
+278,Paid/Complete,6/2/2023 15:15,Back & Shoulder Massage,Sarah Schachman
+279,Paid/Complete,6/2/2023 9:00,Swedish Massage (60 min),Jenn Herrmann *****
+280,Paid/Complete,7/10/2023 13:30,Prenatal Massage,Amy Niemann
+281,Paid/Complete,10/6/2023 13:30,Swedish Massage (60 min),Peter Murchie **
+282,Paid/Complete,9/29/2023 13:30,Swedish Massage (60 min),Peter Murchie **
+283,Paid/Complete,9/22/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+284,Paid/Complete,9/15/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+285,Paid/Complete,9/8/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+286,Cancelled,9/1/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+287,Paid/Complete,8/25/2023 13:45,Swedish Massage (60 min),Pam Opalski
+288,Cancelled,8/18/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+289,Paid/Complete,8/11/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+290,Paid/Complete,7/28/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+291,Cancelled,7/14/2023 13:15,Swedish Massage (60 min),Peter Murchie **
+292,Paid/Complete,7/7/2023 13:15,Swedish Massage (60 min),Peter Murchie **
+293,Paid/Complete,6/30/2023 13:30,Deep Tissue Massage (60 min),Peter Murchie **
+294,Paid/Complete,6/6/2023 12:30,Himalayan Hot Stone Massage ,Cheryl Davide
+295,Paid/Complete,6/16/2023 12:15,Deep Tissue Massage (90 min),Meredyth Yund
+296,Paid/Complete,6/20/2023 12:00,Swedish Massage (90 min),Nicole Wingfield
+297,Paid/Complete,6/19/2023 12:15,Deep Tissue Massage (90 min),Tessa Blumenthal
+298,Cancelled,7/24/2023 13:00,Deep Tissue Massage (90 min),Rachel Evans *
+299,Paid/Complete,6/20/2023 10:00,Swedish Massage (60 min),ROSEMARY HOLLINGER
+300,Paid/Complete,6/5/2023 12:45,Deep Tissue Massage (90 min),Rachel Schaefer
+301,Paid/Complete,6/6/2023 14:15,Swedish Massage (90 min),Karen Booth
+302,Cancelled,6/9/2023 12:45,Swedish Massage (60 min),Angela Burkland
+303,Paid/Complete,6/13/2023 13:30,Deep Tissue Massage (60 min),Sarah Cash
+304,Paid/Complete,5/19/2023 9:30,Deep Tissue Massage (60 min),Olivia Vessenes
+305,Paid/Complete,6/16/2023 14:00,Deep Tissue Massage (90 min),Mairead Shutt
+306,Cancelled,6/3/2023 16:45,Deep Tissue Massage (60 min),Bri Schoeneman
+307,Cancelled,6/26/2023 14:00,Prenatal Massage,Chloe Dale *
+308,Cancelled,6/19/2023 14:00,Prenatal Massage,Chloe Dale *
+309,Cancelled,6/5/2023 11:30,Prenatal Massage,Chloe Dale *
+310,Paid/Complete,6/3/2023 11:45,Swedish Massage (60 min),Brooke Raynor
+311,Paid/Complete,5/27/2023 10:00,Swedish Massage (60 min),Andrea  Peck
+312,Paid/Complete,5/15/2023 16:15,Swedish Massage (60 min),Julia Bucy
+313,Paid/Complete,5/13/2023 16:30,Swedish Massage (60 min),Kristi Nelson *
+314,Cancelled,5/13/2023 16:30,Deep Tissue Massage (60 min),Angela Burkland
+315,Paid/Complete,6/3/2023 15:00,Deep Tissue Massage (90 min),Emily Murthy
+316,Paid/Complete,5/13/2023 14:00,Deep Tissue Massage (60 min),Wiebke Lips
+317,Paid/Complete,5/19/2023 12:00,Deep Tissue Massage (90 min),Bridger Cabe
+318,Paid/Complete,5/20/2023 10:00,Deep Tissue Massage (90 min),Wiebke Lips
+319,Paid/Complete,5/27/2023 16:00,Swedish Massage (90 min),Shannon Gates
+320,Cancelled,7/14/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+321,Paid/Complete,7/10/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+322,Paid/Complete,7/7/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+323,Paid/Complete,7/3/2023 12:45,Warm Winter Glow CBD Massage,Amy Niemann
+324,Paid/Complete,6/6/2023 11:15,Deep Tissue Massage (60 min),Sandra Mehta
+325,Paid/Complete,5/6/2023 15:00,Swedish Massage (60 min),Emily Marsden
+326,Cancelled,5/26/2023 11:30,Prenatal Massage,Jessie McGrath
+327,Paid/Complete,5/13/2023 15:15,Prenatal Massage,Jessie McGrath
+328,Paid/Complete,5/27/2023 14:45,Deep Tissue Massage (60 min),Zachary Gregory
+329,Cancelled,8/8/2023 12:15,100 Acres of Relaxation Cannabis Cure Massage,Kerry Alexander *
+330,Paid/Complete,5/26/2023 10:45,Foot and Leg Therapy,Meghan Carpenito*
+331,Paid/Complete,5/8/2023 13:45,Deep Tissue Massage (90 min),Sandra Mehta
+332,Paid/Complete,7/3/2023 14:00,Deep Tissue Massage (90 min),Rachel Evans *
+333,Paid/Complete,6/13/2023 11:00,100 Acres of Relaxation Cannabis Cure Massage,Melody Maleitzke
+334,Paid/Complete,5/27/2023 11:15,Warm Winter Glow CBD Massage,Frankie Minore
+335,Paid/Complete,5/5/2023 15:00,Back & Shoulder Massage,Amy Niemann
+336,Cancelled,5/8/2023 14:00,Deep Tissue Massage (60 min),Carolyn OBrien
+337,Paid/Complete,5/20/2023 16:15,Swedish Massage (90 min),Karen Booth
+338,Paid/Complete,5/22/2023 11:15,Swedish Massage (90 min),Christina Reiher
+339,Paid/Complete,5/27/2023 12:30,Deep Tissue Massage (90 min),Josh Traver
+340,Paid/Complete,5/19/2023 10:45,Deep Tissue Massage (60 min),Katherine Baals
+341,Paid/Complete,4/28/2023 15:15,Back & Shoulder Massage,Karen Fredrichs
+342,Paid/Complete,5/22/2023 10:00,Swedish Massage (60 min),ROSEMARY HOLLINGER
+343,Paid/Complete,5/22/2023 14:45,Deep Tissue Massage (60 min),Tessa Blumenthal
+344,Paid/Complete,6/19/2023 14:00,Deep Tissue Massage (90 min),Michelee Scott
+345,Cancelled,7/21/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+346,Paid/Complete,7/7/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+347,Cancelled,6/23/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+348,Paid/Complete,6/9/2023 9:45,Warm Winter Glow CBD Massage,Ed Fontecha ****
+349,Cancelled,12/29/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+350,Cancelled,12/22/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+351,Cancelled,12/18/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+352,Cancelled,12/15/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+353,Cancelled,12/11/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+354,Cancelled,12/8/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+355,Cancelled,12/4/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+356,Cancelled,12/1/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+357,Cancelled,11/27/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+358,Cancelled,11/24/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+359,Paid/Complete,11/20/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+360,Cancelled,11/17/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+361,Paid/Complete,11/13/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+362,Cancelled,11/10/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+363,Cancelled,11/6/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+364,Cancelled,11/3/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+365,Paid/Complete,10/30/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+366,Cancelled,10/27/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+367,Paid/Complete,10/23/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+368,Cancelled,10/20/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+369,Cancelled,10/16/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+370,Paid/Complete,10/13/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+371,Paid/Complete,10/9/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+372,Paid/Complete,10/6/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+373,Cancelled,10/2/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+374,Paid/Complete,9/29/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+375,Cancelled,9/25/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+376,Cancelled,9/22/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+377,Cancelled,9/18/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+378,Cancelled,9/15/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+379,Cancelled,9/11/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+380,Cancelled,9/8/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+381,Paid/Complete,9/4/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+382,Paid/Complete,9/1/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+383,Paid/Complete,8/28/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+384,Paid/Complete,8/25/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+385,Cancelled,8/21/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+386,Paid/Complete,8/18/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+387,Paid/Complete,8/14/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+388,Paid/Complete,8/4/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+389,Cancelled,5/20/2023 10:00,Swedish Massage (90 min),Add Name #2
+390,Paid/Complete,6/20/2023 11:15,Back & Shoulder Massage,Ryan Hume
+391,Paid/Complete,4/22/2023 16:00,Back & Shoulder Massage,Jennifer Kim
+392,Paid/Complete,5/8/2023 16:45,Warm Winter Glow CBD Massage,Amy Niemann
+393,Paid/Complete,5/20/2023 14:00,Deep Tissue Massage (60 min),Megan Lindsay
+394,Paid/Complete,5/13/2023 10:45,Swedish Massage (60 min),Sydney Tooze
+395,Paid/Complete,4/24/2023 10:00,Deep Tissue Massage (60 min),Erin Isley **
+396,Cancelled,5/6/2023 15:00,Swedish Massage (60 min),Emily Marsden
+397,Paid/Complete,6/3/2023 10:00,Deep Tissue Massage (90 min),Brenda Huson
+398,Paid/Complete,6/9/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+399,Paid/Complete,4/21/2023 15:00,Back & Shoulder Massage,Ryan Hume
+400,Paid/Complete,6/9/2023 11:00,Swedish Massage (90 min),Jen Wallerich*
+401,Paid/Complete,5/5/2023 12:15,Deep Tissue Massage (60 min),Jen Wallerich*
+402,Paid/Complete,8/4/2023 12:30,100 Acres of Relaxation Cannabis Cure Massage,Kerry Alexander *
+403,Cancelled,8/4/2023 11:00,100 Acres of Relaxation Cannabis Cure Massage,Kerry Alexander *
+404,Paid/Complete,4/17/2023 13:30,Swedish Massage (60 min),John Neigel
+405,Cancelled,4/17/2023 16:00,Back & Shoulder Massage,Ryan Hume
+406,Paid/Complete,5/22/2023 16:00,Swedish Massage (90 min),Nicole Wingfield
+407,Cancelled,4/17/2023 12:30,Deep Tissue Massage (60 min),Barbara Zaroff
+408,Paid/Complete,5/1/2023 11:15,100 Acres of Relaxation Cannabis Cure Massage,Melody Maleitzke
+409,Paid/Complete,4/22/2023 14:15,Deep Tissue Massage (90 min),Mary Jensen*
+410,Paid/Complete,4/14/2023 10:45,Warm Winter Glow CBD Massage,Janet Ferguson Hart
+411,Paid/Complete,4/24/2023 13:00,Deep Tissue Massage (90 min),Michelee Scott
+412,Paid/Complete,5/6/2023 10:00,Swedish Massage (60 min),Sharon Noble
+413,No Show,6/3/2023 13:15,Swedish Massage (90 min),Tyler Nix
+414,Paid/Complete,4/24/2023 14:45,Deep Tissue Massage (60 min),Tessa Blumenthal
+415,Paid/Complete,6/12/2023 13:00,Deep Tissue Massage (90 min),Rachel Evans *
+416,Paid/Complete,5/22/2023 13:00,Deep Tissue Massage (90 min),Rachel Evans *
+417,Paid/Complete,4/24/2023 11:15,Deep Tissue Massage (90 min),Lara Deits
+418,Paid/Complete,4/24/2023 16:00,Swedish Massage (90 min),Jenn Herrmann *****
+419,Paid/Complete,5/20/2023 12:00,100 Acres of Relaxation Cannabis Cure Massage,Abby Hawley
+420,Paid/Complete,4/21/2023 9:00,Deep Tissue Massage (60 min),tim Shaffer
+421,Paid/Complete,4/28/2023 10:15,Swedish Massage (90 min),Taylor Wheeler
+422,Paid/Complete,4/7/2023 9:00,Deep Tissue Massage (60 min),tim Shaffer
+423,Paid/Complete,5/8/2023 12:30,Deep Tissue Massage (60 min),Jeremiah Aden
+424,Paid/Complete,4/21/2023 11:30,Swedish Massage (90 min),Keely Sawyer
+425,Cancelled,6/12/2023 11:15,Warm Winter Glow CBD Massage,Rebecca Strejc*
+426,Cancelled,5/26/2023 9:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+427,Paid/Complete,5/12/2023 9:30,Warm Winter Glow CBD Massage,Ed Fontecha ****
+428,Paid/Complete,4/17/2023 14:45,100 Acres of Relaxation Cannabis Cure Massage,Anne Ruud
+429,Cancelled,4/14/2023 10:30,100 Acres of Relaxation Cannabis Cure Massage,Shelley Kilbourn **
+430,Cancelled,5/12/2023 10:45,Swedish Massage (60 min),Aubri Margason
+431,Paid/Complete,4/17/2023 11:15,Swedish Massage (60 min),Kaye Bjur
+432,Paid/Complete,4/7/2023 13:30,Deep Tissue Massage (90 min),Annette Maxson
+433,Paid/Complete,4/8/2023 16:30,Swedish Massage (60 min),Brooke Raynor
+434,Cancelled,5/6/2023 13:30,Swedish Massage (60 min),Peggy Warnock
+435,Cancelled,7/17/2023 11:15,Prenatal Massage,Chloe Dale *
+436,Cancelled,7/10/2023 11:15,Prenatal Massage,Chloe Dale *
+437,Paid/Complete,5/15/2023 15:00,Prenatal Massage,Chloe Dale *
+438,Paid/Complete,5/8/2023 15:30,Prenatal Massage,Chloe Dale *
+439,Paid/Complete,4/28/2023 9:00,Prenatal Massage,Chloe Dale *
+440,Paid/Complete,4/3/2023 13:30,Prenatal Massage,Chloe Dale *
+441,Paid/Complete,4/8/2023 11:45,100 Acres of Relaxation Cannabis Cure Massage,Kerry Alexander *
+442,Paid/Complete,4/8/2023 13:00,Deep Tissue Massage (90 min),Abigail Nix
+443,Cancelled,3/24/2023 14:45,Back & Shoulder Massage,Karen Fredrichs
+444,Paid/Complete,3/31/2023 15:30,Swedish Massage (60 min),Wes Kim
+445,Paid/Complete,4/8/2023 10:00,Deep Tissue Massage (90 min),Wiebke Lips
+446,Paid/Complete,5/6/2023 12:15,Swedish Massage (60 min),Tessa Steranko
+447,Paid/Complete,3/27/2023 16:45,Deep Tissue Massage (60 min),Katherine Baals
+448,Cancelled,3/24/2023 9:00,Deep Tissue Massage (60 min),Gigi Michaels
+449,Paid/Complete,4/22/2023 11:45,Warm Winter Glow CBD Massage,Terra Claiborne
+450,Paid/Complete,3/27/2023 11:15,Himalayan Hot Stone Massage ,Ralph Derrickson
+451,Cancelled,3/24/2023 14:45,100 Acres of Relaxation Cannabis Cure Massage,Anne Ruud
+452,Paid/Complete,4/8/2023 14:45,Deep Tissue Massage (90 min),Monica Bernhard
+453,Paid/Complete,4/22/2023 10:00,Deep Tissue Massage (90 min),Mallory Hall
+454,Paid/Complete,4/14/2023 15:00,Back & Shoulder Massage,Chelsea Winer
+455,Paid/Complete,5/1/2023 16:45,Warm Winter Glow CBD Massage,Amy Niemann
+456,Paid/Complete,6/13/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+457,Paid/Complete,6/5/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+458,Paid/Complete,4/18/2023 14:00,Warm Winter Glow CBD Massage,Amy Niemann
+459,Paid/Complete,5/6/2023 16:45,Warm Winter Glow CBD Massage,Amy Niemann
+460,Paid/Complete,4/22/2023 16:45,Warm Winter Glow CBD Massage,Amy Niemann
+461,Paid/Complete,5/15/2023 13:15,100 Acres of Relaxation Cannabis Cure Massage,Melody Maleitzke
+462,Paid/Complete,4/10/2023 14:45,100 Acres of Relaxation Cannabis Cure Massage,Melody Maleitzke
+463,Paid/Complete,5/15/2023 11:30,Deep Tissue Massage (90 min),Sue Bailey
+464,Cancelled,6/12/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+465,Cancelled,6/5/2023 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+466,Paid/Complete,4/22/2023 13:00,Swedish Massage (60 min),Emily Browne
+467,Paid/Complete,3/17/2023 11:15,Back & Shoulder Massage,Chelsea Winer
+468,Cancelled,3/13/2023 11:15,Deep Tissue Massage (90 min),Jilliane Wygant**
+469,Paid/Complete,3/17/2023 9:30,Himalayan Hot Stone Massage ,Patricia Robinson
+470,Paid/Complete,3/17/2023 12:30,Deep Tissue Massage (60 min),Mallory Hall
+471,Paid/Complete,4/14/2023 12:00,Swedish Massage (90 min),Nicole Wingfield
+472,Paid/Complete,4/3/2023 14:45,Warm Winter Glow CBD Massage,Rebecca Strejc*
+473,Cancelled,5/5/2023 15:00,Back & Shoulder Massage,Amy Niemann
+474,Cancelled,4/28/2023 15:00,Back & Shoulder Massage,Amy Niemann
+475,Cancelled,4/21/2023 15:00,Back & Shoulder Massage,Amy Niemann
+476,Paid/Complete,4/10/2023 11:15,Warm Winter Glow CBD Massage,Marjorie Sherman
+477,Paid/Complete,3/10/2023 15:00,Back & Shoulder Massage,Karen Fredrichs
+478,Paid/Complete,3/31/2023 12:30,Back & Shoulder Massage,Jess Henderson
+479,No Show,3/31/2023 9:00,Hot Stone Massage,Tara Graf **
+480,Cancelled,4/14/2023 11:45,Swedish Massage (90 min),Add Name
+481,Paid/Complete,3/3/2023 10:45,Back & Shoulder Massage,Karen Fredrichs
+482,Paid/Complete,5/1/2023 13:00,Deep Tissue Massage (90 min),Rachel Evans *
+483,Paid/Complete,4/10/2023 13:00,Deep Tissue Massage (90 min),Rachel Evans *
+484,Cancelled,3/20/2023 11:15,Deep Tissue Massage (90 min),Rachel Evans *
+485,Paid/Complete,3/6/2023 11:45,Himalayan Hot Stone Massage ,Jennifer Poper
+486,Paid/Complete,4/28/2023 12:00,Swedish Massage (90 min),Karen Booth
+487,Paid/Complete,3/6/2023 14:15,Swedish Massage (90 min),Karen Booth
+488,Cancelled,3/20/2023 14:45,100 Acres of Relaxation Cannabis Cure Massage,Anne Ruud
+489,Cancelled,4/21/2023 9:00,Swedish Massage (60 min),Add Name
+490,Paid/Complete,2/24/2023 9:00,Prenatal Massage,Chloe Dale *
+491,Paid/Complete,2/24/2023 11:30,Deep Tissue Massage (60 min),Martha Greenawalt
+492,Paid/Complete,3/31/2023 10:45,Deep Tissue Massage (60 min),Joseph McLaughlin
+493,Paid/Complete,3/10/2023 9:00,Warm Winter Glow CBD Massage,Anne Pomerantz
+494,Cancelled,3/10/2023 9:00,Warm Winter Glow CBD Massage,Add Name
+495,Paid/Complete,2/17/2023 15:15,Back & Shoulder Massage,Emily Norman
+496,Paid/Complete,3/13/2023 14:15,Deep Tissue Massage (90 min),Sue Bailey
+497,Paid/Complete,2/17/2023 14:00,Deep Tissue Massage (60 min),Lauren DeStefano
+498,Paid/Complete,2/17/2023 9:45,Swedish Massage (60 min),Kathy Pisarcik
+499,Paid/Complete,2/17/2023 9:00,Back & Shoulder Massage,Patricia Hennessy
+500,Paid/Complete,3/10/2023 12:00,Swedish Massage (90 min),Nicole Wingfield
+501,Paid/Complete,2/10/2023 11:45,Swedish Massage (90 min),Nicole Wingfield
+502,Paid/Complete,4/7/2023 12:15,Deep Tissue Massage (60 min),Jenn Fosnot
+503,Paid/Complete,3/3/2023 9:00,Swedish Massage (90 min),Katie Mann
+504,Paid/Complete,2/6/2023 14:30,Deep Tissue Massage (60 min),Lindsay Smith
+505,Paid/Complete,2/17/2023 13:00,Foot and Leg Therapy,Stephanie Gottesman
+506,Paid/Complete,2/13/2023 13:00,Back & Shoulder Massage,Bob Moore
+507,Paid/Complete,2/27/2023 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+508,Paid/Complete,2/10/2023 9:00,Swedish Massage (60 min),John Neigel
+509,Paid/Complete,2/3/2023 12:15,Deep Tissue Massage (60 min),Debbie Stroud
+510,Paid/Complete,2/10/2023 14:45,Swedish Massage (60 min),Tina Crawford
+511,Paid/Complete,2/13/2023 14:00,Deep Tissue Massage (60 min),Mary Najar
+512,Cancelled,2/17/2023 11:45,Deep Tissue Massage (60 min),Diane Baldi
+513,Paid/Complete,2/20/2023 13:00,Deep Tissue Massage (60 min),Robyn Howisey
+514,Paid/Complete,2/27/2023 11:15,Deep Tissue Massage (60 min),Emily Wooton
+515,Paid/Complete,2/20/2023 11:15,Warm Winter Glow CBD Massage,Marjorie Sherman
+516,Paid/Complete,1/26/2023 15:15,Hot Stone Massage,Claire Kayacik
+517,Paid/Complete,1/26/2023 13:30,Hot Stone Massage,Claire Kayacik
+518,Cancelled,1/27/2023 16:00,Back & Shoulder Massage,Add Name
+519,Paid/Complete,1/27/2023 14:15,Swedish Massage (60 min),Danielle Ledbetter
+520,Paid/Complete,2/13/2023 11:15,Swedish Massage (90 min),Shae Daberkow
+521,Paid/Complete,4/14/2023 9:00,Swedish Massage (60 min),Diana Cohen
+522,Cancelled,2/17/2023 10:00,Himalayan Hot Stone Massage ,Marie Gensler
+523,Paid/Complete,1/27/2023 11:30,Deep Tissue Massage (60 min),Elizabeth Hogger
+524,Cancelled,2/17/2023 9:30,Swedish Massage (60 min),Sarah Martin
+525,Cancelled,8/7/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+526,Paid/Complete,7/31/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+527,Paid/Complete,8/11/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+528,Paid/Complete,7/28/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+529,Paid/Complete,7/14/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+530,Paid/Complete,6/30/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+531,Paid/Complete,6/16/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+532,Cancelled,6/2/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+533,Cancelled,5/19/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+534,Cancelled,5/5/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+535,Paid/Complete,4/21/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+536,Paid/Complete,4/7/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+537,Cancelled,3/24/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+538,Cancelled,7/24/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+539,Paid/Complete,7/3/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+540,Cancelled,6/26/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+541,Paid/Complete,7/17/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+542,Paid/Complete,6/12/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+543,Paid/Complete,7/10/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+544,Cancelled,5/29/2023 10:00,Warm Winter Glow CBD Massage,Add Name #2
+545,Cancelled,5/22/2023 10:00,Warm Winter Glow CBD Massage,Add Name
+546,Cancelled,5/15/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+547,Cancelled,5/8/2023 10:00,Warm Winter Glow CBD Massage,Add Name
+548,Paid/Complete,5/1/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+549,Paid/Complete,4/3/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+550,Cancelled,3/20/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+551,Paid/Complete,3/6/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+552,Paid/Complete,2/20/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+553,Paid/Complete,6/19/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+554,Paid/Complete,6/5/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+555,Cancelled,5/22/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+556,Paid/Complete,5/8/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+557,Paid/Complete,4/17/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+558,Paid/Complete,4/10/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+559,Paid/Complete,3/27/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+560,Paid/Complete,3/13/2023 13:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+561,Paid/Complete,2/27/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+562,Paid/Complete,2/13/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+563,Paid/Complete,1/27/2023 9:15,Back & Shoulder Massage,Joseph Spitz
+564,Cancelled,2/6/2023 10:00,Back & Shoulder Massage,Wendy Tyner
+565,Cancelled,2/3/2023 12:15,Swedish Massage (60 min),Lauren Yarberry
+566,Paid/Complete,1/20/2023 13:15,Deep Tissue Massage (90 min),Ann Lachenbruch
+567,Cancelled,1/20/2023 13:45,Swedish Massage (60 min),Madeline Reeves **
+568,Paid/Complete,1/26/2023 12:30,Foot and Leg Therapy,Kathy Myers
+569,Paid/Complete,1/24/2023 10:00,Swedish Massage (90 min),Sherry Pariser
+570,Cancelled,2/10/2023 11:45,Deep Tissue Massage (90 min),Annette Maxson
+571,Paid/Complete,1/30/2023 11:15,Swedish Massage (90 min),Andrew Peters
+572,Paid/Complete,1/24/2023 11:45,Deep Tissue Massage (90 min),Valerie Tweiten
+573,Cancelled,3/13/2023 11:15,Deep Tissue Massage (90 min),Sue Bailey
+574,Paid/Complete,1/23/2023 11:15,100 Acres of Relaxation Cannabis Cure Massage,Sarah Quainton
+575,Cancelled,1/30/2023 11:15,Himalayan Hot Stone Massage ,Sarah Quainton
+576,Paid/Complete,1/24/2023 13:30,Signature Aromatherapy Massage,Margaret Jackson
+577,Paid/Complete,1/30/2023 13:00,Deep Tissue Massage (60 min),Katie Pearson
+578,Paid/Complete,1/17/2023 10:15,Swedish Massage (90 min),Kathleen Peters
+579,Paid/Complete,5/26/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+580,Paid/Complete,5/19/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+581,Paid/Complete,5/12/2023 13:00,Swedish Massage (60 min),Peter Murchie **
+582,Paid/Complete,5/5/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+583,Paid/Complete,4/28/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+584,Paid/Complete,4/21/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+585,Paid/Complete,4/14/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+586,Cancelled,4/7/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+587,Paid/Complete,3/31/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+588,Cancelled,3/24/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+589,Paid/Complete,3/17/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+590,Paid/Complete,3/10/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+591,Paid/Complete,3/3/2023 13:15,Swedish Massage (60 min),Peter Murchie **
+592,Cancelled,2/24/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+593,Cancelled,2/17/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+594,Paid/Complete,2/10/2023 13:30,Deep Tissue Massage (60 min),Stephanie Farquhar
+595,Paid/Complete,1/30/2023 14:15,Deep Tissue Massage (90 min),Mary Jensen*
+596,Paid/Complete,2/6/2023 11:00,Deep Tissue Massage (60 min),Rima Mehta
+597,Paid/Complete,1/20/2023 10:45,Foot and Leg Therapy,Carol Nakhuda
+598,Paid/Complete,1/20/2023 9:30,Deep Tissue Massage (60 min),Holly Rohrbacher
+599,Paid/Complete,1/13/2023 9:00,Swedish Massage (60 min),Jen Wallerich*
+600,Paid/Complete,1/12/2023 12:15,Deep Tissue Massage (90 min),Ericha Oberg
+601,Paid/Complete,1/12/2023 14:30,Swedish Massage (60 min),Leslie Torres **
+602,Paid/Complete,1/17/2023 14:45,Deep Tissue Massage (60 min),Tessa Blumenthal
+603,Cancelled,1/12/2023 12:15,Swedish Massage (60 min),Danielle Ledbetter
+604,Paid/Complete,1/17/2023 12:00,Deep Tissue Massage (90 min),Suzanna Anderson
+605,Paid/Complete,1/12/2023 9:00,Deep Tissue Massage (60 min),Shaun Morber
+606,Paid/Complete,1/20/2023 12:00,Swedish Massage (60 min),Lauren Yarberry
+607,Paid/Complete,1/10/2023 10:00,Deep Tissue Massage (60 min),Theona Jundanian
+608,Cancelled,1/9/2023 16:30,Eyebrow Waxing,Lori Gatto ****
+609,Cancelled,1/12/2023 13:15,Swedish Massage (60 min),Mary Tolbert
+610,No Show,2/3/2023 9:45,Deep Tissue Massage (60 min),Amanda Kasuboski *
+611,Paid/Complete,1/9/2023 11:15,Himalayan Hot Stone Massage ,Bonnie Harrison
+612,Cancelled,1/12/2023 14:30,Swedish Massage (60 min),Leslie Torres **
+613,Paid/Complete,1/6/2023 13:45,Deep Tissue Massage (60 min),Sarah Cash
+614,Paid/Complete,1/26/2023 11:15,Swedish Massage (60 min),Brooke Raynor
+615,Paid/Complete,1/12/2023 11:00,Swedish Massage (60 min),Brooke Raynor
+616,Paid/Complete,1/10/2023 13:00,Swedish Massage (90 min),John Neigel
+617,Paid/Complete,1/20/2023 15:00,Back & Shoulder Massage,Sarah Fitch
+618,Confirmed,1/5/2023 13:00,Back & Shoulder Massage,Emily Norman
+619,Paid/Complete,1/26/2023 10:00,Deep Tissue Massage (60 min),Meghan Carpenito*
+620,Paid/Complete,1/10/2023 14:45,Warm Winter Glow CBD Massage,Kelly Shields
+621,Paid/Complete,1/10/2023 11:15,Deep Tissue Massage (90 min),Stephanie Page
+622,Cancelled,1/5/2023 13:00,Back & Shoulder Massage,Dixie Moore**
+623,Paid/Complete,1/23/2023 10:00,Deep Tissue Massage (60 min),Kim Thomas
+624,Paid/Complete,1/16/2023 14:30,Prenatal Massage,Elizabeth Zaroff
+625,Cancelled,1/10/2023 10:00,Deep Tissue Massage (60 min),Daniel Borg
+626,Confirmed,1/5/2023 9:00,Deep Tissue Massage (60 min),Ryan Montecucco
+627,Cancelled,2/6/2023 12:30,Deep Tissue Massage (90 min),Sean Halligan
+628,Paid/Complete,1/6/2023 10:15,Deep Tissue Massage (90 min),Rebecca Smith
+629,Cancelled,1/5/2023 9:00,Swedish Massage (60 min),Abby Miske
+630,Paid/Complete,1/9/2023 13:00,Hot Stone Massage,Melinda Iler
+631,Cancelled,2/13/2023 15:15,Back & Shoulder Massage,Kathie Barbaro
+632,Cancelled,1/16/2023 15:15,Back & Shoulder Massage,Kathie Barbaro
+633,No Show,2/3/2023 15:15,Back & Shoulder Massage,Kathie Barbaro
+634,Paid/Complete,1/24/2023 15:15,Back & Shoulder Massage,Kathie Barbaro
+635,Paid/Complete,1/9/2023 15:15,Back & Shoulder Massage,Kathie Barbaro
+636,Paid/Complete,1/3/2023 13:30,Warm Winter Glow CBD Massage,Jenean Brady
+637,Cancelled,1/12/2023 10:15,Swedish Massage (60 min),Add Name
+638,Paid/Complete,1/27/2023 13:00,Prenatal Massage,Stephanie Hecht
+639,Cancelled,2/24/2023 13:00,Warm Winter Glow CBD Massage,Diana Ishak
+640,Cancelled,1/27/2023 14:45,Warm Winter Glow CBD Massage,Diana Ishak
+641,Cancelled,1/13/2023 9:00,Warm Winter Glow CBD Massage,Diana Ishak
+642,Paid/Complete,1/3/2023 11:45,Deep Tissue Massage (90 min),Lisbet Halvorsen
+643,Paid/Complete,1/3/2023 14:45,Swedish Massage (60 min),Katie Weed
+644,Paid/Complete,1/3/2023 10:00,Deep Tissue Massage (90 min),Anna Martin
+645,Paid/Complete,2/3/2023 11:00,Deep Tissue Massage (60 min),Emily Neer
+646,Paid/Complete,2/3/2023 13:30,Hot Stone Massage,Paula Beadle*
+647,Cancelled,1/6/2023 11:30,Deep Tissue Massage (60 min),Paula Beadle*
+648,Paid/Complete,1/6/2023 9:00,Deep Tissue Massage (60 min),Amanda Kasuboski *
+649,Cancelled,1/23/2023 12:30,Hot Stone Massage,Charlie Novak
+650,Confirmed,1/5/2023 10:15,Swedish Massage (90 min),Sherry Pariser
+651,Confirmed,1/5/2023 12:00,Foot and Leg Therapy,Sherry Pariser
+652,Paid/Complete,3/3/2023 14:30,Swedish Massage (90 min),Amy Niemann
+653,Paid/Complete,2/27/2023 14:45,Swedish Massage (60 min),Amy Niemann
+654,Paid/Complete,2/24/2023 14:45,Swedish Massage (60 min),Amy Niemann
+655,Paid/Complete,2/20/2023 14:45,Swedish Massage (60 min),Amy Niemann
+656,Paid/Complete,3/3/2023 11:30,Swedish Massage (90 min),Emily Smiley
+657,Confirmed,1/5/2023 14:00,Swedish Massage (60 min),Leslie Torres **
+658,Paid/Complete,1/2/2023 11:15,Deep Tissue Massage (60 min),Jeni Hawkes
+659,Paid/Complete,1/16/2023 12:45,Deep Tissue Massage (90 min),Sue Bailey
+660,Cancelled,1/13/2023 12:30,Warm Winter Glow CBD Massage,Rebecca Strejc*
+661,Paid/Complete,1/23/2023 14:15,Deep Tissue Massage (90 min),Theona Jundanian
+662,Paid/Complete,1/2/2023 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+663,Paid/Complete,1/16/2023 11:30,Swedish Massage (60 min),Anita Bennett
+664,Paid/Complete,1/6/2023 12:00,Himalayan Hot Stone Massage ,Alice Levisay
+665,Cancelled,3/2/2023 11:00,Deep Tissue Massage (90 min),Claire Oleary
+666,Paid/Complete,3/10/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+667,Paid/Complete,2/24/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+668,Paid/Complete,2/10/2023 10:30,Warm Winter Glow CBD Massage,Ed Fontecha ****
+669,Paid/Complete,1/27/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+670,Paid/Complete,1/13/2023 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+671,Paid/Complete,1/16/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+672,Paid/Complete,1/9/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+673,Cancelled,1/2/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+674,Cancelled,2/6/2023 14:15,Deep Tissue Massage (90 min),Chloe Dale *
+675,Paid/Complete,1/2/2023 14:15,Deep Tissue Massage (90 min),Chloe Dale *
+676,Cancelled,1/12/2023 13:15,Deep Tissue Massage (90 min),Abigail Nix
+677,Paid/Complete,1/13/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+678,Cancelled,1/6/2023 13:45,Swedish Massage (60 min),Peter Murchie **
+679,Cancelled,1/12/2023 11:30,Swedish Massage (90 min),Add Name
+680,Paid/Complete,1/30/2023 10:00,Deep Tissue Massage (60 min),Diane Baldi
+681,Cancelled,4/24/2023 10:00,Deep Tissue Massage (60 min),Diane Baldi
+682,Paid/Complete,3/13/2023 10:00,Deep Tissue Massage (60 min),Diane Baldi
+683,Paid/Complete,12/27/2022 14:15,Swedish Massage (60 min),Carrie Greer
+684,Paid/Complete,12/30/2022 12:00,Warm Winter Glow CBD Massage,Diana Ishak
+685,Paid/Complete,12/30/2022 10:30,Deep Tissue Massage (60 min),Laura Quinn
+686,Confirmed,12/23/2022 15:00,Back & Shoulder Massage,Erin Walsh
+687,Paid/Complete,12/19/2022 10:00,Back & Shoulder Massage,Jeff Trabucco
+688,Paid/Complete,12/27/2022 13:00,Swedish Massage (60 min),Cynti Oshin
+689,Cancelled,12/27/2022 13:00,Swedish Massage (60 min),Cynti Oshin
+690,Cancelled,12/27/2022 14:15,Deep Tissue Massage (60 min),Katelyn Simon
+691,Paid/Complete,12/27/2022 11:45,Back & Shoulder Massage,Katelyn Simon
+692,Paid/Complete,12/27/2022 10:00,Hot Stone Massage,Cheryl Johnson
+693,Paid/Complete,12/15/2022 14:45,Swedish Massage (60 min),Jenn Nelson
+694,Cancelled,12/15/2022 13:30,Deep Tissue Massage (90 min),Kathleen Calkins
+695,Paid/Complete,12/12/2022 16:00,Back & Shoulder Massage,Teagan Shepardson
+696,Paid/Complete,12/15/2022 11:45,Deep Tissue Massage (90 min),Iliana Pacheco
+697,Paid/Complete,12/16/2022 9:15,Back & Shoulder Massage,Amanda Kasuboski *
+698,Paid/Complete,12/9/2022 13:30,Prenatal Massage,Katie Vreedenburgh
+699,No Show,12/12/2022 11:45,Deep Tissue Massage (60 min),Caitlin Kogan *
+700,Paid/Complete,12/8/2022 10:45,Swedish Massage (60 min),Barbara Michael
+701,Confirmed,12/20/2022 10:00,Deep Tissue Massage (90 min),Kili Jones
+702,Paid/Complete,12/30/2022 15:00,Deep Tissue Massage (60 min),Jeni Hawkes
+703,Paid/Complete,12/30/2022 9:00,Deep Tissue Massage (60 min),Jeni Hawkes
+704,Paid/Complete,1/2/2023 11:15,Deep Tissue Massage (60 min),Jeni Hawkes
+705,Paid/Complete,12/1/2022 13:15,Swedish Massage (60 min),Natalie Phelps
+706,Paid/Complete,12/15/2022 10:30,Deep Tissue Massage (60 min),Alexander Riley
+707,Paid/Complete,12/16/2022 10:00,Back & Shoulder Massage,Dixie Moore**
+708,Paid/Complete,12/9/2022 12:15,Back & Shoulder Massage,Dixie Moore**
+709,Paid/Complete,12/1/2022 9:15,Back & Shoulder Massage,Dixie Moore**
+710,Cancelled,12/8/2022 10:45,Warm Winter Glow CBD Massage,Shirley Whitaker
+711,Cancelled,12/30/2022 13:15,Swedish Massage (90 min),Nicole Wingfield
+712,Paid/Complete,12/8/2022 13:45,Swedish Massage (90 min),Brooke Raynor
+713,Paid/Complete,12/15/2022 9:00,Deep Tissue Massage (60 min),Samantha Olson
+714,Paid/Complete,11/21/2022 12:30,Swedish Massage (90 min),Stacy Marchesano
+715,Paid/Complete,12/2/2022 15:00,Foot and Leg Therapy,Amy Niemann
+716,Paid/Complete,11/28/2022 14:45,Warm Winter Glow CBD Massage,Karen Fredrichs
+717,Cancelled,12/1/2022 11:45,Deep Tissue Massage (60 min),Alexander Riley
+718,Paid/Complete,12/2/2022 11:30,Deep Tissue Massage (90 min),Kim Jage
+719,Cancelled,11/28/2022 14:45,Deep Tissue Massage (60 min),Alexander Riley
+720,Paid/Complete,12/5/2022 13:00,Swedish Massage (60 min),Eva Grenier
+721,Cancelled,12/9/2022 10:15,Deep Tissue Massage (90 min),Amanda Kasuboski *
+722,Paid/Complete,11/15/2022 13:30,Deep Tissue Massage (60 min),Amanda Kasuboski *
+723,Guest Checked-in,12/20/2022 12:15,Swedish Massage (60 min),McKenzie Zajonc
+724,Paid/Complete,12/16/2022 13:30,Deep Tissue Massage (60 min),Diana Ishak
+725,Cancelled,12/15/2022 12:00,Deep Tissue Massage (60 min),Emma Sellers
+726,Paid/Complete,11/15/2022 10:00,Back & Shoulder Massage,Lia Uhrin
+727,Paid/Complete,12/16/2022 11:30,Deep Tissue Massage (90 min),Sarah McGee
+728,Paid/Complete,12/5/2022 11:15,Swedish Massage (90 min),Emily Smiley
+729,Paid/Complete,12/19/2022 12:30,Hot Stone Massage,Natalie Gaggini
+730,Paid/Complete,11/21/2022 11:15,Swedish Massage (60 min),Ashley Wellington Bieschke
+731,Guest Checked-in (In Service),12/8/2022 9:00,Hot Stone Massage,Ella Magal
+732,Paid/Complete,1/2/2023 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+733,No Show,12/12/2022 14:15,Deep Tissue Massage (90 min),Rachel Evans *
+734,Paid/Complete,12/12/2022 13:00,Swedish Massage (60 min),David Deckers
+735,Paid/Complete,11/15/2022 11:45,Deep Tissue Massage (90 min),Sean Ambrose
+736,Paid/Complete,11/8/2022 11:45,Back & Shoulder Massage,David Simpson
+737,Paid/Complete,11/22/2022 10:00,Swedish Massage (60 min),Lisa Deen
+738,Paid/Complete,11/22/2022 11:15,Swedish Massage (60 min),Lisa Deen
+739,Paid/Complete,11/1/2022 13:00,Deep Tissue Massage (60 min),Angela Stapleton
+740,Cancelled,12/9/2022 13:00,Swedish Massage (90 min),MacKenna Lang
+741,Cancelled,11/15/2022 10:00,Signature Aromatherapy Massage,Alicia van Thiel
+742,Paid/Complete,12/5/2022 14:15,Swedish Massage (90 min),Amy Niemann
+743,Paid/Complete,12/2/2022 9:00,Warm Winter Glow CBD Massage,Amy Niemann
+744,Cancelled,12/1/2022 13:15,Warm Winter Glow CBD Massage,Amy Niemann
+745,Paid/Complete,12/1/2022 14:30,Swedish Massage (60 min),Leslie Torres **
+746,Paid/Complete,11/14/2022 13:00,Warm Winter Glow CBD Massage,Alexa Sinclair
+747,Paid/Complete,11/28/2022 13:00,Swedish Massage (90 min),Nicole Wingfield
+748,Paid/Complete,12/19/2022 14:15,Signature Aromatherapy Massage,Kelly Warga
+749,Confirmed,12/23/2022 13:15,Himalayan Hot Stone Massage ,Mindy Iler
+750,Paid/Complete,12/16/2022 14:45,Swedish Massage (60 min),Lauren Yarberry
+751,Paid/Complete,12/9/2022 14:45,Deep Tissue Massage (60 min),Natalie Stephenson
+752,Cancelled,11/1/2022 10:00,Deep Tissue Massage (90 min),Ericha Oberg
+753,Paid/Complete,11/11/2022 10:30,Swedish Massage (90 min),Jen Wallerich*
+754,Paid/Complete,11/14/2022 11:15,Deep Tissue Massage (60 min),Katja Hord
+755,Confirmed,12/23/2022 9:45,Hot Stone Massage,Sara McCulloch
+756,Cancelled,12/9/2022 9:00,Warm Winter Glow CBD Massage,Shirley Whitaker
+757,Paid/Complete,10/24/2022 12:30,Swedish Massage (90 min),Eva Grenier
+758,Cancelled,11/15/2022 14:30,Deep Tissue Massage (60 min),Diana Ishak
+759,Paid/Complete,10/24/2022 11:15,Swedish Massage (60 min),Richard Mitchell
+760,Paid/Complete,10/22/2022 14:45,Swedish Massage (60 min),Jill Trekell
+761,Paid/Complete,10/22/2022 11:00,Signature Aromatherapy Massage,Cynthia Adams
+762,Paid/Complete,10/22/2022 13:00,Swedish Massage (90 min),Kirsten Martel
+763,Paid/Complete,11/14/2022 14:15,Swedish Massage (90 min),Joan Severson
+764,Paid/Complete,11/22/2022 13:00,Deep Tissue Massage (90 min),Sue Bailey
+765,Paid/Complete,11/21/2022 14:15,Deep Tissue Massage (90 min),Rachel Evans *
+766,Paid/Complete,10/21/2022 15:15,Back & Shoulder Massage,Jessica Malouf *
+767,Cancelled,10/14/2022 15:30,Deep Tissue Massage (60 min),Sarah McGee
+768,Cancelled,11/21/2022 12:45,Back & Shoulder Massage,Laura Hall
+769,Cancelled,11/8/2022 12:45,Deep Tissue Massage (60 min),Claire Oleary
+770,Cancelled,11/8/2022 11:45,Signature Aromatherapy Massage,Kelsey Bernert
+771,Paid/Complete,11/8/2022 14:00,Swedish Massage (90 min),Emily Smiley
+772,Cancelled,11/8/2022 11:45,Deep Tissue Massage (90 min),Cindy Law *
+773,Paid/Complete,12/1/2022 10:00,Deep Tissue Massage (90 min),Jeni Hawkes
+774,Paid/Complete,11/8/2022 10:00,Deep Tissue Massage (90 min),Jeni Hawkes
+775,Paid/Complete,11/18/2022 9:00,Warm Winter Glow CBD Massage,Rebecca Strejc*
+776,Paid/Complete,11/1/2022 14:15,Swedish Massage (90 min),Margaret Bushnell
+777,Cancelled,11/21/2022 11:30,Swedish Massage (60 min),Anne Sehm
+778,Paid/Complete,11/18/2022 12:00,Swedish Massage (90 min),MacKenna Lang
+779,Paid/Complete,11/11/2022 9:15,Prenatal Massage,Elizabeth Zaroff
+780,Paid/Complete,10/7/2022 15:00,Warm Winter Glow CBD Massage,Rebecca Strejc*
+781,Paid/Complete,10/7/2022 10:30,Swedish Massage (90 min),Margaret Bushnell
+782,Paid/Complete,10/8/2022 10:00,Deep Tissue Massage (60 min),Karin Luvaas
+783,Paid/Complete,10/31/2022 13:30,100 Acres of Relaxation Cannabis Cure Massage,Cathy Shattuck
+784,Paid/Complete,10/31/2022 11:15,Signature Aromatherapy Massage,MacKenna Lang
+785,Paid/Complete,10/8/2022 11:30,Deep Tissue Massage (60 min),Jeni Hawkes
+786,Paid/Complete,10/8/2022 13:00,100 Acres of Relaxation Cannabis Cure Massage,Marjorie Sherman
+787,Paid/Complete,10/28/2022 10:45,Swedish Massage (90 min),Nicole Wingfield
+788,Paid/Complete,12/2/2022 13:15,Signature Aromatherapy Massage,Sarah Archibald
+789,Paid/Complete,10/28/2022 12:30,Deep Tissue Massage (60 min),Sarah Archibald
+790,Cancelled,10/24/2022 14:45,Swedish Massage (60 min),Kate Cressall
+791,Paid/Complete,11/4/2022 9:00,Prenatal Massage,Mallory Hall
+792,Paid/Complete,11/4/2022 12:00,Deep Tissue Massage (90 min),Amy Niemann
+793,Paid/Complete,10/31/2022 14:45,Warm Winter Glow CBD Massage,Amy Niemann
+794,Cancelled,10/10/2022 13:45,Swedish Massage (60 min),Diane Henry
+795,Cancelled,10/24/2022 13:00,Swedish Massage (90 min),Sarah Wilson *
+796,Paid/Complete,9/26/2022 14:30,Swedish Massage (60 min),Fran Moyer**
+797,Cancelled,12/30/2022 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+798,Cancelled,12/16/2022 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+799,Paid/Complete,12/2/2022 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+800,Paid/Complete,11/18/2022 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+801,Paid/Complete,11/4/2022 10:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+802,No Show,12/19/2022 11:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+803,Cancelled,12/12/2022 11:45,Warm Winter Glow CBD Massage,Ed Fontecha ****
+804,Cancelled,1/2/2023 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+805,Paid/Complete,12/5/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+806,Paid/Complete,11/28/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+807,Paid/Complete,11/21/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+808,Paid/Complete,11/14/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+809,Paid/Complete,11/7/2022 14:15,Swedish Massage (60 min),Ed Fontecha ****
+810,Paid/Complete,10/21/2022 12:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+811,Paid/Complete,10/17/2022 14:45,100 Acres of Relaxation Cannabis Cure Massage,Jeni Hawkes
+812,Paid/Complete,11/11/2022 12:30,Deep Tissue Massage (60 min),Katherine Baals
+813,Paid/Complete,10/3/2022 14:45,Deep Tissue Massage (60 min),Michelee Scott
+814,Paid/Complete,9/23/2022 14:00,Swedish Massage (60 min),Ken Skrien
+815,Paid/Complete,9/30/2022 15:00,Deep Tissue Massage (60 min),Amanda Kasuboski *
+816,Cancelled,10/7/2022 10:30,Deep Tissue Massage (60 min),Margaret Bushnell
+817,Paid/Complete,9/23/2022 11:00,Swedish Massage (60 min),Joanne Hebert
+818,Paid/Complete,10/17/2022 11:15,Hot Stone Massage,Sandra Mehta
+819,Paid/Complete,10/14/2022 12:30,Swedish Massage (60 min),Ann Morford
+820,Cancelled,10/14/2022 12:30,Swedish Massage (60 min),Dana Fisher *
+821,Cancelled,10/10/2022 13:45,Swedish Massage (60 min),Add Name
+822,Cancelled,11/1/2022 11:45,Deep Tissue Massage (90 min),Kristina Oldani
+823,Paid/Complete,10/14/2022 15:45,Deep Tissue Massage (60 min),Caitlin Kogan *
+824,Paid/Complete,10/21/2022 10:30,Himalayan Hot Stone Massage ,Kelli Koontz *
+825,Paid/Complete,9/16/2022 16:45,Deep Tissue Massage (60 min),Angela Burkland
+826,Paid/Complete,10/10/2022 13:45,Deep Tissue Massage (90 min),Emily Smiley
+827,Cancelled,12/23/2022 11:30,Signature Aromatherapy Massage,michelle larson
+828,Paid/Complete,11/28/2022 11:15,Signature Aromatherapy Massage,michelle larson
+829,Cancelled,10/24/2022 11:15,Signature Aromatherapy Massage,michelle larson
+830,Paid/Complete,11/7/2022 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+831,Paid/Complete,10/17/2022 13:00,Deep Tissue Massage (90 min),Rachel Evans *
+832,Paid/Complete,1/2/2023 14:15,Deep Tissue Massage (90 min),Chloe Dale *
+833,Paid/Complete,12/12/2022 10:30,Prenatal Massage,Chloe Dale *
+834,Cancelled,11/7/2022 11:15,Swedish Massage (60 min),Joanne Croghan *
+835,Paid/Complete,10/3/2022 11:15,Swedish Massage (60 min),Joanne Croghan *
+836,Paid/Complete,9/9/2022 16:45,Deep Tissue Massage (60 min),Leah Williams
+837,Paid/Complete,9/9/2022 15:00,Swedish Massage (90 min),Brooke Raynor
+838,Cancelled,12/30/2022 11:15,Hot Stone Massage,Add Name
+839,Cancelled,12/15/2022 14:00,Swedish Massage (60 min),Linda Weiss
+840,Paid/Complete,9/9/2022 11:45,Deep Tissue Massage (90 min),Jeremy Walker
+841,Paid/Complete,9/9/2022 13:30,Warm Winter Glow CBD Massage,Linda Marcus
+842,Paid/Complete,9/12/2022 14:15,Deep Tissue Massage (60 min),Kristina Durickas
+843,No Show,12/8/2022 12:00,Deep Tissue Massage (90 min),Abigail Nix
+844,Paid/Complete,10/7/2022 12:30,Back & Shoulder Massage,Diana Ishak
+845,Paid/Complete,10/10/2022 11:15,Hot Stone Massage,Lia Uhrin
+846,Paid/Complete,10/10/2022 13:00,Back & Shoulder Massage,Lia Uhrin
+847,Paid/Complete,9/30/2022 10:45,Deep Tissue Massage (60 min),Amy Niemann
+848,Paid/Complete,10/21/2022 16:00,Deep Tissue Massage (90 min),Wiebke Lips
+849,Paid/Complete,10/28/2022 15:30,Warm Winter Glow CBD Massage,Amy Niemann
+850,Paid/Complete,10/7/2022 13:15,Swedish Massage (60 min),Peter Murchie **
+851,Cancelled,12/30/2022 13:45,Swedish Massage (60 min),Peter Murchie **
+852,Cancelled,12/23/2022 13:45,Swedish Massage (60 min),Peter Murchie **
+853,Cancelled,12/16/2022 13:45,Swedish Massage (60 min),Peter Murchie **
+854,Cancelled,12/9/2022 13:45,Swedish Massage (60 min),Peter Murchie **
+855,Cancelled,12/2/2022 13:45,Swedish Massage (60 min),Peter Murchie **
+856,Paid/Complete,11/18/2022 13:45,Swedish Massage (60 min),Peter Murchie **
+857,No Show,11/8/2022 12:45,Swedish Massage (60 min),Peter Murchie **
+858,Paid/Complete,11/4/2022 13:45,Swedish Massage (60 min),Peter Murchie **
+859,Paid/Complete,10/28/2022 13:45,Swedish Massage (60 min),Peter Murchie **
+860,Cancelled,10/21/2022 13:45,Swedish Massage (60 min),Peter Murchie **
+861,Paid/Complete,10/14/2022 13:45,Swedish Massage (60 min),Peter Murchie **
+862,Paid/Complete,9/30/2022 13:45,Swedish Massage (60 min),Peter Murchie **
+863,Paid/Complete,9/26/2022 13:00,Deep Tissue Massage (60 min),Sarah Wilson *
+864,Paid/Complete,10/31/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+865,Paid/Complete,10/24/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+866,Paid/Complete,10/17/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+867,Paid/Complete,10/10/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+868,Paid/Complete,10/3/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+869,Paid/Complete,9/26/2022 11:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+870,Cancelled,10/28/2022 10:30,Swedish Massage (90 min),Abigail Nix
+871,Cancelled,9/19/2022 11:15,100 Acres of Relaxation Cannabis Cure Massage,Cara Reinke
+872,Paid/Complete,10/7/2022 16:15,Deep Tissue Massage (90 min),Derek Stabeleldt
+873,Cancelled,9/26/2022 14:45,Deep Tissue Massage (60 min),Fran Moyer**
+874,Cancelled,9/26/2022 11:15,Deep Tissue Massage (60 min),Add Name
+875,Paid/Complete,9/19/2022 12:30,Deep Tissue Massage (90 min),Zoe Ottemiller
+876,Cancelled,9/26/2022 14:00,Deep Tissue Massage (90 min),Zoe Ottemiller
+877,Cancelled,12/2/2022 11:30,Hot Stone Massage,Darina Zlock
+878,Paid/Complete,9/23/2022 12:15,Deep Tissue Massage (90 min),Katey Owen
+879,Paid/Complete,9/19/2022 10:00,Deep Tissue Massage (60 min),Caitlin Kogan *
+880,Cancelled,10/7/2022 10:30,Swedish Massage (90 min),Genevieve Pritchard
+881,Paid/Complete,9/12/2022 10:00,Deep Tissue Massage (60 min),David Hawkins **
+882,Paid/Complete,8/22/2022 13:15,Back & Shoulder Massage,Susanne Furner
+883,Cancelled,9/23/2022 14:30,Signature Aromatherapy Massage,Sonja Fritts
+884,Cancelled,8/15/2022 15:15,Back & Shoulder Massage,Amy Niemann
+885,Paid/Complete,8/15/2022 10:00,Deep Tissue Massage (60 min),Heather Crawford
+886,Cancelled,8/22/2022 13:15,Back & Shoulder Massage,Jill Colley
+887,Paid/Complete,8/15/2022 14:30,Deep Tissue Massage (60 min),Amy Niemann
+888,Paid/Complete,8/12/2022 16:15,Deep Tissue Massage (90 min),Jessica Malouf *
+889,Paid/Complete,8/12/2022 14:15,Deep Tissue Massage (90 min),Brianna Schoeneman
+890,Paid/Complete,9/12/2022 11:15,Swedish Massage (60 min),McKenna Lang
+891,Paid/Complete,8/22/2022 14:00,Deep Tissue Massage (90 min),William Fletcher
+892,Paid/Complete,9/5/2022 14:00,Swedish Massage (90 min),Merilee Mostov *
+893,Paid/Complete,9/19/2022 14:15,Deep Tissue Massage (90 min),Kristina Oldani
+894,Cancelled,9/12/2022 15:00,Back & Shoulder Massage,Diana Ishak
+895,Cancelled,9/30/2022 15:00,Deep Tissue Massage (60 min),Brian Tinney
+896,Paid/Complete,9/30/2022 12:00,Warm Winter Glow CBD Massage,NIKKI WHEELER
+897,Paid/Complete,8/5/2022 10:30,Back & Shoulder Massage,Jackie Muth
+898,Paid/Complete,8/29/2022 11:15,Swedish Massage (60 min),Marta Gattis
+899,Paid/Complete,8/6/2022 10:15,Back & Shoulder Massage,Lizzie Berg
+900,Cancelled,8/5/2022 11:15,Back & Shoulder Massage,Lizzie Berg
+901,Paid/Complete,9/5/2022 10:00,Deep Tissue Massage (90 min),Mary Jensen*
+902,Paid/Complete,10/3/2022 13:00,Deep Tissue Massage (90 min),Rachel Evans *
+903,Paid/Complete,8/8/2022 12:45,Deep Tissue Massage (60 min),Claire Nitsche
+904,Paid/Complete,8/5/2022 11:45,Warm Winter Glow CBD Massage,Amy Niemann
+905,Paid/Complete,9/16/2022 10:30,Deep Tissue Massage (60 min),Autumn Salamack
+906,Paid/Complete,9/23/2022 16:15,Deep Tissue Massage (90 min),Lisa Wood
+907,Paid/Complete,8/6/2022 12:45,Swedish Massage (60 min),Joanne Croghan *
+908,Paid/Complete,8/6/2022 11:30,Prenatal Massage,Kayla Holbeck **
+909,Paid/Complete,8/6/2022 14:45,Deep Tissue Massage (60 min),Phyllis Carlyle
+910,Paid/Complete,8/6/2022 9:00,Swedish Massage (60 min),Theresa Jacobs
+911,Paid/Complete,9/5/2022 12:00,Deep Tissue Massage (90 min),Wendy Tyner
+912,Cancelled,8/26/2022 17:15,Back & Shoulder Massage,Christina Graves
+913,Paid/Complete,8/1/2022 11:15,Deep Tissue Massage (60 min),Angela Burkland
+914,Paid/Complete,7/29/2022 12:15,Deep Tissue Massage (90 min),Wendy Tyner
+915,Paid/Complete,7/29/2022 14:00,Swedish Massage (90 min),Chloe Angus-Tibbetts
+916,Cancelled,7/29/2022 14:15,Deep Tissue Massage (60 min),Laura Moses
+917,Cancelled,9/9/2022 15:45,Hot Stone Massage,Ella Magal
+918,Paid/Complete,7/29/2022 11:00,Swedish Massage (60 min),Katie Blaszkiewicz
+919,Paid/Complete,7/29/2022 15:45,Deep Tissue Massage (60 min),Anne Decker
+920,Paid/Complete,7/25/2022 14:45,Deep Tissue Massage (60 min),Xuan Vu
+921,Cancelled,9/16/2022 13:30,Swedish Massage (60 min),Suzanne Cates
+922,Paid/Complete,8/29/2022 14:15,Swedish Massage (90 min),Karen Booth
+923,Paid/Complete,8/22/2022 11:30,Swedish Massage (90 min),Stephanie Jackson
+924,Cancelled,9/9/2022 11:45,Deep Tissue Massage (90 min),Abigail Nix
+925,Paid/Complete,9/9/2022 10:30,Swedish Massage (60 min),Joanne Croghan *
+926,Paid/Complete,7/22/2022 13:30,Deep Tissue Massage (60 min),Pam Burdick
+927,Paid/Complete,7/15/2022 14:15,Deep Tissue Massage (60 min),Rebecca Pope
+928,Cancelled,8/26/2022 11:00,Swedish Massage (60 min),Peter Murchie **
+929,Paid/Complete,7/22/2022 15:15,Warm Winter Glow CBD Massage,Sterling Mackinnon
+930,Paid/Complete,7/18/2022 11:15,Back & Shoulder Massage,Deborah Weisman
+931,Paid/Complete,7/16/2022 13:30,Swedish Massage (60 min),Jenna McDonald ***
+932,Paid/Complete,7/15/2022 10:30,Back & Shoulder Massage,Caitlin Zuchero
+933,Paid/Complete,8/19/2022 15:00,Deep Tissue Massage (60 min),Caitlin Kogan *
+934,No Show,7/25/2022 11:15,Swedish Massage (60 min),Jen Wallerich*
+935,Cancelled,7/11/2022 14:00,Deep Tissue Massage (90 min),Lynda Fredrickson ***
+936,Cancelled,9/23/2022 10:30,Signature Aromatherapy Massage,Kelli Koontz *
+937,Paid/Complete,8/19/2022 10:30,Signature Aromatherapy Massage,Kelli Koontz *
+938,Cancelled,10/14/2022 15:00,Deep Tissue Massage (90 min),Brenda Bannon
+939,Cancelled,8/15/2022 14:15,Swedish Massage (60 min),Phyllis Carlyle
+940,Paid/Complete,7/9/2022 16:00,Swedish Massage (60 min),Annika Hughes
+941,Paid/Complete,7/9/2022 10:30,Swedish Massage (60 min),Stephen Huizing
+942,Paid/Complete,7/9/2022 13:00,Deep Tissue Massage (60 min),Phyllis Carlyle
+943,Cancelled,7/9/2022 11:45,Prenatal Massage,Kayla Holbeck **
+944,Cancelled,7/8/2022 16:15,Swedish Massage (60 min),Annika Hughes
+945,Paid/Complete,8/26/2022 14:45,Swedish Massage (60 min),Laura Quinn
+946,Cancelled,7/15/2022 16:45,Himalayan Hot Stone Massage ,Peggy Dewar
+947,Cancelled,7/29/2022 11:00,Warm Winter Glow CBD Massage,Kelly Shields
+948,Cancelled,8/8/2022 12:45,Prenatal Massage,Jena Winger **
+949,Cancelled,8/26/2022 16:00,Prenatal Massage,Hannah Oshin
+950,Paid/Complete,9/12/2022 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+951,Paid/Complete,8/29/2022 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+952,Paid/Complete,8/15/2022 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+953,Cancelled,11/11/2022 14:30,Deep Tissue Massage (90 min),Michelee Scott
+954,Cancelled,10/7/2022 14:30,Deep Tissue Massage (90 min),Michelee Scott
+955,Paid/Complete,8/12/2022 12:30,Hot Stone Massage,Marlen Allen *
+956,Cancelled,9/9/2022 14:00,Deep Tissue Massage (90 min),Michelee Scott
+957,Cancelled,8/1/2022 11:15,Deep Tissue Massage (60 min),Angela Burkland
+958,Cancelled,8/5/2022 11:30,Deep Tissue Massage (60 min),Autumn Salamack
+959,Paid/Complete,7/1/2022 10:15,Swedish Massage (60 min),Genevieve Pritchard
+960,Cancelled,7/29/2022 13:30,Back & Shoulder Massage,Dixie Moore**
+961,No Show,8/5/2022 13:00,Swedish Massage (60 min),David Hawkins **
+962,Paid/Complete,8/1/2022 14:15,Deep Tissue Massage (90 min),Mary Jensen*
+963,Cancelled,8/12/2022 14:30,Swedish Massage (90 min),Raymond Conners
+964,Cancelled,7/22/2022 15:15,Deep Tissue Massage (60 min),Randal Eckert
+965,Paid/Complete,6/24/2022 14:00,Deep Tissue Massage (60 min),DAWN Cole
+966,Paid/Complete,8/8/2022 11:30,Deep Tissue Massage (60 min),Susan Ottemiller
+967,Cancelled,7/15/2022 10:30,Back & Shoulder Massage,Diana Ishak
+968,Paid/Complete,6/24/2022 17:15,Back & Shoulder Massage,Diana Ishak
+969,Cancelled,7/29/2022 12:15,Swedish Massage (60 min),Andrea  Peck
+970,Paid/Complete,8/1/2022 12:30,Deep Tissue Massage (90 min),Rachel Evans *
+971,Paid/Complete,7/16/2022 11:45,Swedish Massage (90 min),Tiffany Thielman
+972,Paid/Complete,8/29/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+973,Cancelled,8/22/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+974,Paid/Complete,8/15/2022 11:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+975,No Show,8/8/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+976,Paid/Complete,8/1/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+977,Paid/Complete,6/17/2022 14:45,Deep Tissue Massage (90 min),Wiebke Lips
+978,Paid/Complete,7/18/2022 12:00,Swedish Massage (60 min),Mikel Durham **
+979,Paid/Complete,9/16/2022 15:00,Deep Tissue Massage (90 min),Brenda Bannon
+980,Cancelled,8/12/2022 16:15,Deep Tissue Massage (90 min),Brenda Bannon
+981,Paid/Complete,8/5/2022 14:15,Deep Tissue Massage (60 min),Brian Tinney
+982,Paid/Complete,7/16/2022 10:00,Swedish Massage (90 min),Tracey Langley
+983,Paid/Complete,8/8/2022 14:15,Swedish Massage (90 min),Kristina Oldani
+984,Paid/Complete,6/10/2022 14:15,Deep Tissue Massage (60 min),Cindy Shea
+985,Paid/Complete,6/11/2022 13:30,Deep Tissue Massage (60 min),Malea Brunner
+986,Paid/Complete,7/15/2022 11:15,Swedish Massage (90 min),Brooke Raynor
+987,Paid/Complete,8/26/2022 12:30,Deep Tissue Massage (60 min),Realm Lovejoy
+988,Cancelled,7/29/2022 14:15,Deep Tissue Massage (90 min),Jessica Anderson **
+989,Cancelled,7/22/2022 13:30,Deep Tissue Massage (90 min),Ariel Ehrlich
+990,Paid/Complete,6/3/2022 15:00,Deep Tissue Massage (60 min),Kellie Eickmeyer
+991,Cancelled,7/25/2022 11:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+992,Paid/Complete,7/18/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+993,Paid/Complete,7/16/2022 15:00,Back & Shoulder Massage,Marie Matty
+994,Cancelled,6/11/2022 13:30,Deep Tissue Massage (90 min),Wiebke Lips
+995,Cancelled,6/11/2022 13:15,Swedish Massage (60 min),JoAnn Cartwright
+996,Paid/Complete,7/25/2022 10:00,Deep Tissue Massage (60 min),Sherrill Conner
+997,No Show,6/3/2022 10:15,Swedish Massage (60 min),Jane Davis*
+998,Paid/Complete,10/28/2022 16:45,Deep Tissue Massage (60 min),Vivek Balakrishnan**
+999,Cancelled,10/14/2022 16:45,Deep Tissue Massage (60 min),Vivek Balakrishnan**
+1000,No Show,9/30/2022 16:45,Deep Tissue Massage (60 min),Vivek Balakrishnan**
+1001,Cancelled,9/16/2022 16:45,Deep Tissue Massage (60 min),Vivek Balakrishnan**
+1002,Cancelled,9/2/2022 16:45,Deep Tissue Massage (60 min),Vivek Balakrishnan**
+1003,Cancelled,8/5/2022 15:30,Deep Tissue Massage (60 min),Vivek Balakrishnan**
+1004,Paid/Complete,7/22/2022 16:45,Deep Tissue Massage (60 min),Vivek Balakrishnan**
+1005,Paid/Complete,7/22/2022 11:45,Deep Tissue Massage (90 min),Dean Nance
+1006,Cancelled,7/29/2022 10:30,Prenatal Massage,Jena Winger **
+1007,Paid/Complete,7/22/2022 10:30,Prenatal Massage,Jena Winger **
+1008,Paid/Complete,5/21/2022 10:00,Deep Tissue Massage (90 min),Dean Nance
+1009,Paid/Complete,7/11/2022 10:00,Swedish Massage (60 min),Caitlin Kogan *
+1010,Paid/Complete,5/20/2022 16:30,Deep Tissue Massage (60 min),Melanie Smith
+1011,Paid/Complete,8/12/2022 10:45,Swedish Massage (90 min),Laurie Maltman
+1012,Paid/Complete,7/11/2022 12:15,Swedish Massage (90 min),Rachel Evans *
+1013,Cancelled,6/10/2022 17:15,Back & Shoulder Massage,Diana Ishak
+1014,Paid/Complete,7/18/2022 13:15,Warm Winter Glow CBD Massage,Marjorie Sherman
+1015,Paid/Complete,8/19/2022 16:15,Swedish Massage (90 min),Brooke Raynor
+1016,Paid/Complete,8/5/2022 15:30,Swedish Massage (60 min),Brooke Raynor
+1017,Cancelled,5/21/2022 11:15,Swedish Massage (60 min),Add Name
+1018,No Show,7/15/2022 13:00,Deep Tissue Massage (60 min),Peter Murchie **
+1019,Paid/Complete,6/3/2022 16:15,Deep Tissue Massage (60 min),Peter Murchie **
+1020,Cancelled,6/24/2022 14:00,Deep Tissue Massage (60 min),Jennifer Stockton **********
+1021,Paid/Complete,5/13/2022 13:15,Deep Tissue Massage (90 min),Wiebke Lips
+1022,Cancelled,7/18/2022 11:15,Deep Tissue Massage (60 min),Rebecca Smith
+1023,Paid/Complete,7/9/2022 14:15,Deep Tissue Massage (90 min),Brenda Bannon
+1024,Cancelled,7/18/2022 14:30,Swedish Massage (60 min),ziggy kopetti**
+1025,Cancelled,7/29/2022 16:00,Deep Tissue Massage (60 min),Lauren Yarberry
+1026,Paid/Complete,7/9/2022 11:45,Deep Tissue Massage (60 min),Lauren Yarberry
+1027,Paid/Complete,6/17/2022 10:30,Swedish Massage (60 min),Lauren Yarberry
+1028,Confirmed,7/8/2022 11:00,Deep Tissue Massage (90 min),Joanna Garritano Roger (dont use)
+1029,Cancelled,7/8/2022 16:15,Swedish Massage (60 min),Laura Quinn
+1030,Paid/Complete,8/19/2022 12:45,Deep Tissue Massage (90 min),Brenda Huson
+1031,Paid/Complete,7/25/2022 12:30,Deep Tissue Massage (90 min),Brenda Huson
+1032,Paid/Complete,6/24/2022 12:15,Deep Tissue Massage (90 min),Brenda Huson
+1033,Cancelled,4/30/2022 17:15,Swedish Massage (60 min),Add Name
+1034,Paid/Complete,5/7/2022 11:45,Foot and Leg Therapy,Abbey Lowry
+1035,Paid/Complete,6/24/2022 10:30,Deep Tissue Massage (90 min),Daniel McKeon
+1036,Paid/Complete,4/30/2022 10:00,Foot and Leg Therapy,Jenny Hudak
+1037,Cancelled,8/22/2022 14:15,Deep Tissue Massage (90 min),Ty Cramer
+1038,Cancelled,7/25/2022 14:15,Deep Tissue Massage (90 min),Ty Cramer
+1039,Paid/Complete,7/15/2022 15:30,Deep Tissue Massage (90 min),Ty Cramer
+1040,Cancelled,6/24/2022 14:00,Swedish Massage (60 min),Jennifer Waldron
+1041,Cancelled,6/17/2022 10:30,Deep Tissue Massage (60 min),Alexandra  Costin
+1042,Paid/Complete,6/17/2022 13:30,Prenatal Massage,Angela Burkland
+1043,Paid/Complete,4/23/2022 14:30,Prenatal Massage,Laura Morgan
+1044,Paid/Complete,4/22/2022 11:45,Swedish Massage (60 min),Leann Mullender
+1045,Paid/Complete,4/23/2022 10:00,Foot and Leg Therapy,Kevin Flanagan
+1046,Cancelled,7/25/2022 17:00,Swedish Massage (60 min),Rebecca Strejc*
+1047,Paid/Complete,6/17/2022 12:00,Swedish Massage (60 min),Rebecca Strejc*
+1048,Paid/Complete,5/7/2022 15:15,Back & Shoulder Massage,Casey DeGolia *
+1049,Paid/Complete,4/23/2022 13:45,Back & Shoulder Massage,Kimberly Peraltra
+1050,No Show,4/25/2022 12:30,Back & Shoulder Massage,Erin Phillips**
+1051,Cancelled,6/17/2022 14:45,Deep Tissue Massage (90 min),Ella Irwin
+1052,Paid/Complete,4/29/2022 13:15,Deep Tissue Massage (90 min),Sue Bailey
+1053,Cancelled,4/23/2022 14:30,Deep Tissue Massage (90 min),Ryan Moore
+1054,Cancelled,5/28/2022 14:15,Swedish Massage (90 min),Meredyth Yund
+1055,Paid/Complete,4/22/2022 13:15,Deep Tissue Massage (60 min),Carey Olson-Findley
+1056,Cancelled,4/23/2022 13:45,Back & Shoulder Massage,Dana Myers*
+1057,Cancelled,7/1/2022 13:15,Deep Tissue Massage (60 min),Vivek Balakrishnan**
+1058,No Show,6/17/2022 16:30,Deep Tissue Massage (60 min),Vivek Balakrishnan**
+1059,Paid/Complete,6/11/2022 14:45,Deep Tissue Massage (60 min),Vivek Balakrishnan**
+1060,Paid/Complete,4/23/2022 11:00,Deep Tissue Massage (60 min),Vivek Balakrishnan**
+1061,Paid/Complete,4/23/2022 12:30,100 Acres of Relaxation Cannabis Cure Massage,Al Pascual
+1062,Paid/Complete,4/15/2022 14:15,Deep Tissue Massage (60 min),Sathya R
+1063,Paid/Complete,4/22/2022 10:30,Deep Tissue Massage (60 min),Emily Wooton
+1064,Paid/Complete,4/16/2022 15:15,Back & Shoulder Massage,Diana Ishak
+1065,Paid/Complete,4/18/2022 10:00,Swedish Massage (60 min),Kindra Brownlee
+1066,Paid/Complete,4/18/2022 13:30,Himalayan Hot Stone Massage ,Stephanie Tuttle
+1067,Paid/Complete,4/18/2022 11:30,Himalayan Hot Stone Massage ,Laura Frazier
+1068,Paid/Complete,4/22/2022 14:30,Deep Tissue Massage (60 min),Erin Richmond
+1069,Paid/Complete,4/22/2022 15:45,Deep Tissue Massage (90 min),Pontea Smithson
+1070,Paid/Complete,6/10/2022 16:00,Deep Tissue Massage (60 min),Brian Tinney
+1071,Cancelled,7/11/2022 14:00,Deep Tissue Massage (90 min),Susan Ottemiller
+1072,Paid/Complete,7/1/2022 16:15,Deep Tissue Massage (90 min),Mary Jensen*
+1073,Paid/Complete,6/3/2022 11:30,Deep Tissue Massage (90 min),Mary Jensen*
+1074,Cancelled,4/11/2022 10:00,Deep Tissue Massage.,Diane Baldi
+1075,Cancelled,8/8/2022 10:00,Swedish Massage (90 min),Diana Cohen
+1076,Paid/Complete,6/10/2022 10:30,Deep Tissue Massage (90 min),Kristina Oldani
+1077,Paid/Complete,4/9/2022 14:00,Deep Tissue Massage (90 min),Susan Ottemiller
+1078,Paid/Complete,4/16/2022 10:00,Swedish Massage (90 min),Jessica Trujillo
+1079,Paid/Complete,6/3/2022 13:15,Deep Tissue Massage (60 min),Realm Lovejoy
+1080,Cancelled,7/15/2022 11:00,Swedish Massage (90 min),Add Name
+1081,Paid/Complete,7/1/2022 11:30,Swedish Massage (90 min),April Musselman
+1082,Cancelled,5/21/2022 11:15,Deep Tissue Massage (60 min),Leah Williams
+1083,Paid/Complete,6/10/2022 12:30,Hot Stone Massage,Amy Heyneman
+1084,Paid/Complete,5/13/2022 10:30,Deep Tissue Massage (60 min),Jennifer Stockton **********
+1085,No Show,5/20/2022 15:15,100 Acres of Relaxation Cannabis Cure Massage,Isabelle Cloward**
+1086,Paid/Complete,6/24/2022 15:15,Swedish Massage (90 min),Raymond Conners
+1087,Paid/Complete,4/1/2022 12:00,Deep Tissue Massage (60 min),Stephanie Farquhar
+1088,Cancelled,6/10/2022 14:15,Deep Tissue Massage (90 min),Margaret Bushnell
+1089,Paid/Complete,4/8/2022 14:30,Deep Tissue Massage (90 min),Annalisa Sanchez
+1090,Paid/Complete,4/29/2022 10:30,Swedish Massage (60 min),Ashley Schumaucher
+1091,Cancelled,4/9/2022 14:00,Swedish Massage (60 min),Judith Scott
+1092,Cancelled,5/2/2022 11:15,Swedish Massage (90 min),Kathleen Calkins
+1093,Cancelled,5/9/2022 11:15,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1094,Cancelled,5/20/2022 16:30,Warm Winter Glow CBD Massage,Tara Moyer
+1095,Paid/Complete,5/20/2022 13:30,Deep Tissue Massage (90 min),Kimberly Peraltra
+1096,Paid/Complete,4/2/2022 13:30,Deep Tissue Massage (60 min),Jennifer Stockton **********
+1097,Paid/Complete,3/26/2022 14:00,Deep Tissue Massage (60 min),Gena Wellman
+1098,Paid/Complete,3/26/2022 12:45,Swedish Massage (60 min),Julia Fiorito
+1099,Paid/Complete,5/13/2022 16:15,Swedish Massage (90 min),Diane Pohl
+1100,Paid/Complete,3/25/2022 14:45,Back & Shoulder Massage,Elizabeth Barsotti
+1101,No Show,5/20/2022 10:30,Deep Tissue Massage (60 min),Shannon Admire**
+1102,Paid/Complete,4/4/2022 15:15,Back & Shoulder Massage,Susanne Lindsley
+1103,Paid/Complete,5/6/2022 10:45,Swedish Massage (60 min),Lara Sisco
+1104,Cancelled,4/29/2022 13:45,Deep Tissue Massage (60 min),Margaret Bushnell
+1105,Cancelled,5/21/2022 10:00,100 Acres of Relaxation Cannabis Cure Massage,Rajlaxmi Bais
+1106,Paid/Complete,6/11/2022 12:00,Swedish Massage (60 min),Mikel Durham **
+1107,Cancelled,5/9/2022 10:00,Swedish Massage (60 min),Mikel Durham **
+1108,Paid/Complete,4/25/2022 11:15,Swedish Massage (60 min),Mikel Durham **
+1109,Paid/Complete,4/30/2022 14:15,Swedish Massage (60 min),Ashley Moore
+1110,Cancelled,3/26/2022 14:00,Deep Tissue Massage (60 min),Dana Monson
+1111,Cancelled,3/19/2022 13:00,Deep Tissue Massage (60 min),Sathya R
+1112,Cancelled,5/27/2022 15:00,Deep Tissue Massage (60 min),Todd Vogel
+1113,Paid/Complete,5/13/2022 15:00,Deep Tissue Massage (60 min),Todd Vogel
+1114,Paid/Complete,4/29/2022 15:00,Deep Tissue Massage (60 min),Todd Vogel
+1115,Paid/Complete,3/28/2022 14:45,Deep Tissue Massage (60 min),Todd Vogel
+1116,Paid/Complete,4/29/2022 16:15,Swedish Massage (90 min),Karen Booth
+1117,Paid/Complete,4/15/2022 10:30,Deep Tissue Massage (60 min),Margaret Bushnell
+1118,Paid/Complete,3/21/2022 15:15,Back & Shoulder Massage,Jill Corral
+1119,Paid/Complete,3/28/2022 13:00,Deep Tissue Massage (60 min),Aaryn Olesen
+1120,Cancelled,3/26/2022 12:45,Deep Tissue Massage (60 min),Chelsea Kellogg
+1121,Cancelled,3/26/2022 14:00,Swedish Massage (60 min),Lisa Bono *
+1122,Paid/Complete,3/25/2022 10:30,Deep Tissue Massage (60 min),Julie Hanafin **
+1123,Paid/Complete,6/11/2022 10:00,Swedish Massage (90 min),Brenda Bannon
+1124,Paid/Complete,5/7/2022 13:30,Deep Tissue Massage (90 min),Brenda Bannon
+1125,Paid/Complete,4/8/2022 10:30,Swedish Massage (60 min),Brenda Bannon
+1126,Paid/Complete,3/14/2022 11:15,Deep Tissue Massage (90 min),Brenda Bannon
+1127,Paid/Complete,3/12/2022 12:00,Swedish Massage (90 min),Sonya Hubbard
+1128,Paid/Complete,3/12/2022 14:15,Deep Tissue Massage (90 min),Janel Bedell
+1129,Paid/Complete,4/1/2022 10:45,Swedish Massage (60 min),Gabe Kosowitz
+1130,Paid/Complete,3/11/2022 10:30,Deep Tissue Massage (90 min),Brianna Schoeneman
+1131,Paid/Complete,5/6/2022 14:00,Swedish Massage (90 min),Rebecca Strejc*
+1132,Cancelled,4/8/2022 13:45,Swedish Massage (90 min),Rebecca Strejc*
+1133,Paid/Complete,5/21/2022 12:30,Hot Stone Massage,Kari Wetzler
+1134,Paid/Complete,3/25/2022 16:45,100 Acres of Relaxation Cannabis Cure Massage,Marjorie Sherman
+1135,Paid/Complete,5/6/2022 16:00,Deep Tissue Massage (60 min),ziggy kopetti**
+1136,Paid/Complete,3/12/2022 10:00,Deep Tissue Massage (60 min),Janyce Fink **
+1137,Paid/Complete,3/5/2022 10:00,Deep Tissue Massage (90 min),Erin Isley **
+1138,Paid/Complete,4/25/2022 14:45,Swedish Massage (60 min),Megan Keaty
+1139,Paid/Complete,4/4/2022 13:15,Deep Tissue Massage (90 min),Susan Haines
+1140,Paid/Complete,4/4/2022 11:30,Swedish Massage (90 min),Liz Joss
+1141,Cancelled,6/11/2022 13:00,Swedish Massage (60 min),Add Name
+1142,Paid/Complete,4/30/2022 11:00,Hot Stone Massage,James Bigbee
+1143,No Show,4/15/2022 13:00,Swedish Massage (60 min),Shawna Ferrell
+1144,Cancelled,5/7/2022 12:45,Back & Shoulder Massage,Gabrielle Ruiz
+1145,Paid/Complete,3/26/2022 15:15,Back & Shoulder Massage,Gabrielle Ruiz
+1146,Paid/Complete,3/12/2022 11:15,Back & Shoulder Massage,Gabrielle Ruiz
+1147,Paid/Complete,2/25/2022 17:00,Deep Tissue Massage (60 min),Malea Brunner
+1148,Paid/Complete,4/15/2022 15:30,Deep Tissue Massage (90 min),Wiebke Lips
+1149,Paid/Complete,2/26/2022 10:00,Back & Shoulder Massage,Gabrielle Ruiz
+1150,Paid/Complete,2/25/2022 15:15,Deep Tissue Massage (90 min),Andrea Bernadt
+1151,Cancelled,4/15/2022 14:15,Deep Tissue Massage (60 min),Kate Dangers
+1152,Cancelled,3/14/2022 10:00,Swedish Massage (60 min),Janyce Fink **
+1153,Cancelled,5/7/2022 12:45,Swedish Massage (60 min),Add Name
+1154,Paid/Complete,4/1/2022 15:15,Swedish Massage (90 min),Raymond Conners
+1155,Cancelled,3/28/2022 14:15,Deep Tissue Massage (90 min),Susanne Lindsley
+1156,Paid/Complete,2/28/2022 11:45,Back & Shoulder Massage,Keith Laverty
+1157,Paid/Complete,3/28/2022 11:15,Swedish Massage (90 min),Kathleen Calkins
+1158,Cancelled,5/2/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1159,Paid/Complete,4/25/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1160,Paid/Complete,4/11/2022 12:30,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1161,Paid/Complete,4/4/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1162,Paid/Complete,3/21/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1163,Cancelled,4/16/2022 11:45,Deep Tissue Massage (60 min),Felicia Klabo
+1164,Cancelled,2/28/2022 11:15,Deep Tissue Massage (60 min),Stephanie Farquhar
+1165,Paid/Complete,4/2/2022 14:45,Swedish Massage (60 min),Jacqueline (jackie) Brasefield
+1166,Paid/Complete,3/21/2022 14:00,Prenatal Massage,Allison Brock
+1167,Cancelled,3/25/2022 13:45,Swedish Massage (90 min),Diane Pohl
+1168,Paid/Complete,3/25/2022 15:30,Swedish Massage (60 min),Todd Vogel
+1169,Paid/Complete,4/16/2022 11:45,Deep Tissue Massage (60 min),Melody Maleitzke
+1170,Paid/Complete,2/19/2022 13:00,Deep Tissue Massage (60 min),Erin Herman Kerwin
+1171,Paid/Complete,3/19/2022 14:45,Swedish Massage (60 min),Jennifer Spradling
+1172,No Show,3/21/2022 12:00,Swedish Massage (90 min),Tina Pujolar ***
+1173,Cancelled,2/28/2022 11:15,Deep Tissue Massage.,Diane Baldi
+1174,Paid/Complete,4/11/2022 11:15,Deep Tissue Massage (60 min),Brian Tinney
+1175,Paid/Complete,4/1/2022 13:15,Hot Stone Massage,Meghan McKnight
+1176,Paid/Complete,4/8/2022 12:00,Swedish Massage (90 min),Kristina Oldani
+1177,Paid/Complete,2/18/2022 13:15,100 Acres of Relaxation Cannabis Cure Massage,Lisa Bono *
+1178,Cancelled,4/1/2022 15:30,Swedish Massage (90 min),Lisa Bono *
+1179,Paid/Complete,4/8/2022 16:15,Deep Tissue Massage (90 min),Meredyth Yund
+1180,Cancelled,2/28/2022 12:30,Swedish Massage (60 min),Charlie Novak
+1181,Paid/Complete,6/4/2022 11:45,Swedish Massage (90 min),Brooke Raynor
+1182,Paid/Complete,5/14/2022 11:45,Swedish Massage (60 min),Brooke Raynor
+1183,Paid/Complete,4/30/2022 13:00,Swedish Massage (60 min),Brooke Raynor
+1184,Paid/Complete,4/9/2022 12:15,Swedish Massage (90 min),Brooke Raynor
+1185,Paid/Complete,3/26/2022 9:45,Swedish Massage (60 min),Brooke Raynor
+1186,Paid/Complete,2/12/2022 11:45,Back & Shoulder Massage,Ryan Hough
+1187,Cancelled,4/1/2022 13:15,Hot Stone Massage,Meghan McKnight
+1188,Cancelled,4/15/2022 17:15,Back & Shoulder Massage,Kathie Barbaro
+1189,Paid/Complete,4/1/2022 17:15,Back & Shoulder Massage,Kathie Barbaro
+1190,Paid/Complete,3/14/2022 15:15,Back & Shoulder Massage,Kathie Barbaro
+1191,Cancelled,2/11/2022 17:00,Back & Shoulder Massage,Kathie Barbaro
+1192,Paid/Complete,2/11/2022 15:30,Swedish Massage (60 min),Laura Quinn
+1193,Cancelled,3/26/2022 13:30,Deep Tissue Massage (90 min),Marie Gensler
+1194,Paid/Complete,3/18/2022 16:45,Deep Tissue Massage (60 min),Angie Emerson
+1195,Paid/Complete,4/9/2022 10:30,Deep Tissue Massage (90 min),Mary Jensen*
+1196,Cancelled,3/14/2022 14:00,Foot and Leg Therapy,Susan Barron
+1197,Paid/Complete,3/11/2022 15:45,Deep Tissue Massage (90 min),Erin Isley **
+1198,Paid/Complete,2/18/2022 10:30,Deep Tissue Massage (60 min),Erin Isley **
+1199,Paid/Complete,2/25/2022 10:30,Swedish Massage (90 min),Kristine Jimenez
+1200,Paid/Complete,5/14/2022 13:00,Swedish Massage (60 min),Ginny Genco
+1201,Paid/Complete,5/14/2022 14:15,Swedish Massage (60 min),Ginny Genco
+1202,Paid/Complete,2/7/2022 13:00,Deep Tissue Massage (60 min),Angie Funtanilla
+1203,Cancelled,3/14/2022 12:00,Deep Tissue Massage (90 min),Susan Ottemiller
+1204,Paid/Complete,2/12/2022 12:30,Deep Tissue Massage (60 min),Kate Hough
+1205,Paid/Complete,3/18/2022 10:30,100 Acres of Relaxation Cannabis Cure Massage,Alivia Wheaton
+1206,Cancelled,4/25/2022 13:30,Swedish Massage (60 min),April Avrain
+1207,Paid/Complete,3/7/2022 13:30,Back & Shoulder Massage,April Avrain
+1208,Cancelled,6/10/2022 13:00,Swedish Massage (90 min),Claire Oleary
+1209,Cancelled,5/16/2022 13:00,Deep Tissue Massage (60 min),Leann Mullender
+1210,Paid/Complete,2/11/2022 17:15,Back & Shoulder Massage,Kathie Barbaro
+1211,Paid/Complete,3/11/2022 12:15,Deep Tissue Massage (90 min),Dean Nance
+1212,Paid/Complete,3/26/2022 11:00,Deep Tissue Massage (90 min),Mary Jensen*
+1213,Paid/Complete,3/25/2022 12:00,Swedish Massage (90 min),Greta Stough
+1214,Paid/Complete,4/2/2022 11:45,Swedish Massage (90 min),Maggie Mae
+1215,Paid/Complete,3/7/2022 11:45,Swedish Massage (90 min),Rebecca Strejc*
+1216,Paid/Complete,1/28/2022 14:00,Deep Tissue Massage (60 min),Mary Jensen*
+1217,Paid/Complete,2/28/2022 14:15,Deep Tissue Massage (60 min),Larry Chin
+1218,Cancelled,6/4/2022 13:45,Swedish Massage (60 min),jennifer lynch
+1219,Paid/Complete,3/4/2022 14:45,Swedish Massage (60 min),Natalie Stephenson
+1220,Cancelled,2/18/2022 13:15,Warm Winter Glow CBD Massage,Diana Ishak
+1221,Cancelled,4/9/2022 10:00,Swedish Massage (60 min),Add Name
+1222,Paid/Complete,3/5/2022 11:45,Deep Tissue Massage (60 min),Karin Luvaas
+1223,Cancelled,2/7/2022 14:15,Deep Tissue Massage (90 min),Diana Wang
+1224,Paid/Complete,3/18/2022 14:30,Hot Stone Massage,Jane Smit ****
+1225,Paid/Complete,2/25/2022 12:45,Swedish Massage (60 min),Andrea  Peck
+1226,Paid/Complete,1/31/2022 15:15,Back & Shoulder Massage,Yuxin Bi
+1227,Cancelled,4/30/2022 14:15,Deep Tissue Massage (90 min),Kelly Warga
+1228,Cancelled,3/19/2022 13:00,Swedish Massage (90 min),Kelly Warga
+1229,Paid/Complete,3/19/2022 11:15,Deep Tissue Massage (90 min),Ingela Pezzolesi
+1230,Paid/Complete,2/21/2022 13:00,100 Acres of Relaxation Cannabis Cure Massage,Larissa Ramos
+1231,Paid/Complete,2/25/2022 14:00,Swedish Massage (60 min),Trina Tanner
+1232,Cancelled,3/12/2022 13:30,Deep Tissue Massage (90 min),Lori Marten
+1233,Cancelled,2/25/2022 16:15,Deep Tissue Massage (90 min),Katherine Iverson
+1234,Cancelled,5/27/2022 12:00,Deep Tissue Massage (60 min),Peter Murchie **
+1235,Paid/Complete,5/20/2022 12:00,Deep Tissue Massage (60 min),Peter Murchie **
+1236,Paid/Complete,5/13/2022 12:00,Deep Tissue Massage (60 min),Peter Murchie **
+1237,Paid/Complete,5/6/2022 12:45,Deep Tissue Massage (60 min),Peter Murchie **
+1238,Paid/Complete,4/29/2022 12:00,Deep Tissue Massage (60 min),Peter Murchie **
+1239,Cancelled,4/22/2022 12:00,Deep Tissue Massage (60 min),Peter Murchie **
+1240,Paid/Complete,4/15/2022 11:45,Deep Tissue Massage (60 min),Peter Murchie **
+1241,Paid/Complete,3/18/2022 12:00,Deep Tissue Massage (60 min),Peter Murchie **
+1242,Paid/Complete,3/4/2022 13:30,Deep Tissue Massage (60 min),Peter Murchie **
+1243,Paid/Complete,2/18/2022 12:00,Deep Tissue Massage (60 min),Peter Murchie **
+1244,Paid/Complete,2/18/2022 14:30,Signature Aromatherapy Massage,Patricia Robinson
+1245,Paid/Complete,1/21/2022 16:45,Deep Tissue Massage (60 min),Julie Gardner
+1246,Paid/Complete,2/18/2022 16:15,Deep Tissue Massage (90 min),Wiebke Lips
+1247,Cancelled,2/18/2022 14:15,Deep Tissue Massage (90 min),Julie Gardner
+1248,Cancelled,2/11/2022 15:45,Swedish Massage (60 min),Laura Quinn
+1249,Cancelled,2/12/2022 15:00,Foot and Leg Therapy,Susan Barron
+1250,Cancelled,2/11/2022 13:30,Signature Aromatherapy Massage,Susan Barron
+1251,Paid/Complete,1/31/2022 12:45,Swedish Massage (60 min),Sandra Earl
+1252,Paid/Complete,2/21/2022 14:15,Swedish Massage (90 min),Felicia Garrett
+1253,Paid/Complete,2/14/2022 10:15,Swedish Massage (90 min),Erin Walsh
+1254,No Show,2/7/2022 11:15,Deep Tissue Massage (90 min),Jennifer Stockton **********
+1255,Paid/Complete,2/21/2022 11:15,Deep Tissue Massage (90 min),Kathleen Calkins
+1256,Cancelled,2/7/2022 13:00,100 Acres of Relaxation Cannabis Cure Massage,Debbie McDonald
+1257,Cancelled,4/16/2022 10:00,Swedish Massage (90 min),Rajlaxmi Bais
+1258,Paid/Complete,3/19/2022 10:00,100 Acres of Relaxation Cannabis Cure Massage,Rajlaxmi Bais
+1259,Paid/Complete,5/21/2022 14:15,Swedish Massage (60 min),Patty Velasquez
+1260,Paid/Complete,3/11/2022 14:30,Swedish Massage (60 min),Brianna Schoeneman
+1261,Paid/Complete,1/21/2022 12:15,Back & Shoulder Massage,Stephanie Farquhar
+1262,Paid/Complete,2/4/2022 12:30,Back & Shoulder Massage,April Avrain
+1263,Paid/Complete,1/17/2022 11:45,Deep Tissue Massage (60 min),Diana Wang
+1264,Paid/Complete,2/11/2022 11:45,Swedish Massage (90 min),Jen Wallerich*
+1265,Paid/Complete,2/12/2022 10:00,Signature Aromatherapy Massage,Ashley Jackson
+1266,Paid/Complete,3/7/2022 10:00,Signature Aromatherapy Massage,Sarah Rieth
+1267,Paid/Complete,3/4/2022 12:15,Deep Tissue Massage (60 min),Erin Isley **
+1268,Paid/Complete,2/11/2022 13:30,Deep Tissue Massage (90 min),Erin Isley **
+1269,Paid/Complete,1/14/2022 17:15,Back & Shoulder Massage,Megan Dimotakis
+1270,Cancelled,2/12/2022 10:00,Deep Tissue Massage (60 min),Genevieve Pritchard
+1271,Paid/Complete,1/28/2022 15:15,Back & Shoulder Massage,Diana Ishak
+1272,Paid/Complete,3/4/2022 16:00,Deep Tissue Massage (90 min),ziggy kopetti**
+1273,Paid/Complete,1/10/2022 10:00,Deep Tissue Massage (60 min),Kelly MacDonald
+1274,Cancelled,2/26/2022 10:30,Swedish Massage (60 min),Christina Grazes
+1275,Cancelled,2/4/2022 13:15,Swedish Massage (60 min),Christina Grazes
+1276,Paid/Complete,2/11/2022 10:30,Swedish Massage (60 min),Andrew Metzler
+1277,Cancelled,2/4/2022 12:00,Swedish Massage (60 min),Andrew Metzler
+1278,Paid/Complete,1/7/2022 17:15,Back & Shoulder Massage,Diana Ishak
+1279,Cancelled,2/25/2022 11:00,Deep Tissue Massage (90 min),Amanda Sageser
+1280,Paid/Complete,3/28/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1281,Cancelled,3/14/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1282,Paid/Complete,2/28/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1283,Paid/Complete,2/26/2022 11:45,Hot Stone Massage,Kaley Elder
+1284,No Show,2/19/2022 14:15,Deep Tissue Massage (90 min),Catherine Gutowski**
+1285,Paid/Complete,1/8/2022 10:00,100 Acres of Relaxation Cannabis Cure Massage,Jacquelyn Knapp
+1286,Cancelled,2/7/2022 11:15,Deep Tissue Massage (90 min),Erin Isley **
+1287,Cancelled,2/4/2022 13:15,Swedish Massage (60 min),Wendy Wright
+1288,Paid/Complete,2/19/2022 11:45,Swedish Massage (60 min),Terra Claiborne
+1289,Paid/Complete,2/4/2022 14:30,100 Acres of Relaxation Cannabis Cure Massage,Kelly Shields
+1290,Paid/Complete,2/21/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1291,Paid/Complete,2/7/2022 10:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1292,Paid/Complete,1/31/2022 14:00,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1293,Paid/Complete,2/5/2022 11:45,Deep Tissue Massage (60 min),Mason Green
+1294,Paid/Complete,3/7/2022 14:15,Deep Tissue Massage (90 min),Chloe Dale *
+1295,Paid/Complete,1/24/2022 12:45,Deep Tissue Massage (60 min),Cheryl Gibson
+1296,Paid/Complete,2/4/2022 10:30,100 Acres of Relaxation Cannabis Cure Massage,Alivia Wheaton
+1297,Cancelled,1/17/2022 11:45,Deep Tissue Massage (60 min),Erin Isley **
+1298,Paid/Complete,1/7/2022 12:15,Signature Aromatherapy Massage,Claire Nitsche
+1299,Paid/Complete,2/14/2022 12:00,Deep Tissue Massage (90 min),Kristina Oldani
+1300,Paid/Complete,2/14/2022 14:00,Deep Tissue Massage (90 min),Brian Tinney
+1301,Paid/Complete,1/28/2022 12:45,Swedish Massage (60 min),Rebecca Strejc*
+1302,Cancelled,1/31/2022 12:45,Swedish Massage (60 min),Rachel Landwehr
+1303,Paid/Complete,1/21/2022 10:30,Deep Tissue Massage (90 min),Lindsay Legary
+1304,Paid/Complete,2/5/2022 14:15,Deep Tissue Massage (90 min),Marcia Collins
+1305,Paid/Complete,1/21/2022 13:00,Deep Tissue Massage (90 min),Katherine Iverson
+1306,Cancelled,1/10/2022 10:00,Deep Tissue Massage (60 min),Dixie Moore**
+1307,Paid/Complete,1/24/2022 14:15,Deep Tissue Massage (90 min),Diana Wang
+1308,Paid/Complete,1/17/2022 13:00,Deep Tissue Massage (60 min),Marcia Frew
+1309,Cancelled,6/4/2022 10:00,Deep Tissue Massage (90 min),Jessica Anderson **
+1310,Paid/Complete,5/7/2022 10:00,Deep Tissue Massage (90 min),Jessica Anderson **
+1311,Paid/Complete,4/2/2022 10:00,Deep Tissue Massage (90 min),Jessica Anderson **
+1312,Cancelled,3/12/2022 10:00,Deep Tissue Massage (90 min),Jessica Anderson **
+1313,Paid/Complete,2/4/2022 15:45,Deep Tissue Massage (90 min),Jessica Anderson **
+1314,Cancelled,6/27/2022 10:00,Deep Tissue Massage (60 min),Diane Baldi
+1315,Cancelled,12/19/2022 10:00,Deep Tissue Massage (60 min),Diane Baldi
+1316,Paid/Complete,11/7/2022 10:00,Deep Tissue Massage (60 min),Diane Baldi
+1317,Paid/Complete,9/26/2022 10:00,Deep Tissue Massage (60 min),Diane Baldi
+1318,Cancelled,8/15/2022 10:00,Deep Tissue Massage (60 min),Diane Baldi
+1319,Cancelled,5/23/2022 10:00,Deep Tissue Massage (60 min),Diane Baldi
+1320,Paid/Complete,1/14/2022 12:15,Back & Shoulder Massage,April Avrain
+1321,Paid/Complete,1/28/2022 11:00,Signature Aromatherapy Massage,JESSE CLINE
+1322,Paid/Complete,2/26/2022 13:45,Swedish Massage (90 min),Brooke Raynor
+1323,Paid/Complete,1/10/2022 14:45,Swedish Massage (60 min),Brooke Raynor
+1324,Paid/Complete,2/12/2022 13:45,Swedish Massage (60 min),Brooke Raynor
+1325,Paid/Complete,1/31/2022 16:00,Swedish Massage (90 min),Brooke Raynor
+1326,Paid/Complete,1/17/2022 10:00,Deep Tissue Massage (90 min),Kathleen Calkins
+1327,Cancelled,1/10/2022 14:45,Swedish Massage (60 min),Diana Wang
+1328,Cancelled,3/5/2022 10:00,Deep Tissue Massage (90 min),Brenda Bannon
+1329,Paid/Complete,2/5/2022 10:00,Deep Tissue Massage (90 min),Brenda Bannon
+1330,Paid/Complete,1/22/2022 11:15,Deep Tissue Massage (90 min),Nedenia Kennedy
+1331,Paid/Complete,1/21/2022 15:00,Swedish Massage (90 min),McKenna Lang
+1332,Cancelled,1/28/2022 14:00,Swedish Massage (60 min),Joanne Croghan *
+1333,Paid/Complete,1/31/2022 11:00,Swedish Massage (90 min),Danielle Cheung
+1334,Paid/Complete,1/28/2022 16:15,Deep Tissue Massage (90 min),Margaret Bushnell
+1335,Paid/Complete,3/4/2022 10:30,Swedish Massage (90 min),Tina Pujolar ***
+1336,Paid/Complete,1/10/2022 11:15,Swedish Massage (90 min),Tina Pujolar ***
+1337,Cancelled,1/14/2022 13:00,Swedish Massage (60 min),Jenny Lange
+1338,Paid/Complete,1/14/2022 14:15,Warm Winter Glow CBD Massage,Amy Taylor
+1339,Paid/Complete,1/3/2022 14:15,Deep Tissue Massage (60 min),Katherine Hanson
+1340,Paid/Complete,1/17/2022 14:15,Deep Tissue Massage (90 min),Brianna Schoeneman
+1341,Cancelled,1/13/2022 12:15,Deep Tissue Massage (90 min),Jennifer Stockton **********
+1342,Paid/Complete,1/3/2022 13:00,Deep Tissue Massage (60 min),Zan Merriman
+1343,Cancelled,1/20/2022 10:00,Swedish Massage (90 min),Robin Dietl
+1344,Paid/Complete,4/16/2022 13:30,Swedish Massage (90 min),Mia Cromarty
+1345,Guest Checked-in (In Service),2/19/2022 10:00,Signature Aromatherapy Massage,Rajlaxmi Bais
+1346,Cancelled,1/29/2022 13:30,Swedish Massage (60 min),Andrea Woodruff
+1347,Paid/Complete,1/10/2022 13:00,Deep Tissue Massage (90 min),Alexandria Mckeon
+1348,Cancelled,1/21/2022 16:45,Swedish Massage (60 min),Lauren Yarberry
+1349,Paid/Complete,1/3/2022 11:45,Warm Winter Glow CBD Massage,Ed Fontecha ****
+1350,Cancelled,6/3/2022 14:30,Deep Tissue Massage (90 min),Michelee Scott
+1351,Paid/Complete,7/1/2022 14:30,Deep Tissue Massage (90 min),Michelee Scott
+1352,Cancelled,5/2/2022 14:15,Deep Tissue Massage (90 min),Michelee Scott
+1353,Paid/Complete,4/11/2022 14:15,Deep Tissue Massage (90 min),Michelee Scott
+1354,Cancelled,1/29/2022 11:45,Hot Stone Massage,Reagan Bradshaw
+1355,Cancelled,1/29/2022 10:00,Hot Stone Massage,Reagan Bradshaw
+1356,Paid/Complete,1/14/2022 15:30,Swedish Massage (90 min),Lisa Bono *
+1357,Paid/Complete,1/8/2022 11:45,Swedish Massage (60 min),Tina Crawford
+1358,Paid/Complete,3/5/2022 14:15,Hot Stone Massage,Hayden Starkey
+1359,Paid/Complete,1/14/2022 10:30,Swedish Massage (90 min),Stephanie Jackson
+1360,Cancelled,1/24/2022 11:15,Swedish Massage (90 min),Ali Keys
+1361,Cancelled,1/24/2022 11:30,Swedish Massage (90 min),Ali Keys
+1362,Cancelled,1/24/2022 11:45,Warm Winter Glow CBD Massage,Ali Keys
+1363,Cancelled,1/7/2022 12:15,Deep Tissue Massage (90 min),Michele Muffoletto
+1364,Cancelled,1/22/2022 11:15,Swedish Massage (60 min),jennifer lynch
+1365,Cancelled,3/12/2022 11:45,Signature Aromatherapy Massage,Danis Morgan
+1366,Paid/Complete,1/7/2022 14:15,Swedish Massage (60 min),Kim Phillips- ingram
+1367,Paid/Complete,1/22/2022 14:15,Swedish Massage (90 min),Kelly Warga
+1368,Paid/Complete,1/15/2022 13:30,Hot Stone Massage,Allyson Johnson
+1369,Paid/Complete,1/15/2022 11:45,Hot Stone Massage,Allyson Johnson
+1370,Paid/Complete,1/15/2022 10:00,Hot Stone Massage,Allyson Johnson
+1371,Paid/Complete,1/7/2022 16:00,Deep Tissue Massage (60 min),ziggy kopetti**
+1372,Paid/Complete,1/24/2022 11:15,Deep Tissue Massage (90 min),Kathryn Black
+1373,Cancelled,1/8/2022 10:00,Deep Tissue Massage (90 min),Brenda Bannon
+1374,Cancelled,2/7/2022 14:15,Deep Tissue Massage (90 min),Chloe Dale *
+1375,Cancelled,1/3/2022 14:15,Deep Tissue Massage (90 min),Chloe Dale *
+1376,Paid/Complete,1/3/2022 10:00,Deep Tissue Massage (90 min),Susan Ottemiller
+1377,Cancelled,1/8/2022 14:15,Swedish Massage (90 min),Kelly Warga
+1378,Paid/Complete,3/5/2022 13:00,Swedish Massage (60 min),Mikel Durham **
+1379,Cancelled,2/19/2022 13:00,Swedish Massage (60 min),Mikel Durham **
+1380,No Show,2/5/2022 13:00,Swedish Massage (60 min),Mikel Durham **
+1381,No Show,1/22/2022 13:00,Swedish Massage (60 min),Mikel Durham **
+1382,Paid/Complete,1/8/2022 13:00,Swedish Massage (60 min),Mikel Durham **
+1383,Cancelled,1/22/2022 10:00,Swedish Massage (60 min),Leslie Torres **
+1384,Paid/Complete,1/24/2022 10:00,Deep Tissue Massage.,Diane Baldi

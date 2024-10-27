@@ -1,0 +1,1386 @@
+Status,Appointment On,Treatment Name,Customer Name,Duration,Price
+No Show,2023-12-22,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-12-29,Deep Tissue Massage,DANISE HUME,90.0,165
+Paid,2023-12-18,Swedish Massage,Hope Griffiths,60.0,105
+Paid,2023-12-22,Deep Tissue Massage,Joe Snapp,60.0,115
+Paid,2023-12-29,Swedish Massage,Robin Tremper,90.0,145
+Paid,2023-12-12,Swedish Massage,Emily Gonzales,60.0,105
+Paid,2023-12-22,Swedish Massage,Tracy McCarthy,60.0,105
+Paid,2023-12-12,Swedish Massage,Nancy McCaughey,60.0,105
+Paid,2023-12-22,Swedish Massage,Lauren Yarberry,60.0,105
+Paid,2023-12-11,Deep Tissue Massage,Hillary Scheer,60.0,115
+Paid,2023-12-08,Deep Tissue Massage,Anne Pomerantz,60.0,115
+Paid,2023-12-19,Hot Stone Massage,Saffronia Baldwin,90.0,165
+Paid,2023-12-08,Swedish Massage,Cathy Shattuck,60.0,105
+Paid,2023-12-11,Swedish Massage,Jen Wallerich,90.0,145
+Cancelled,2023-12-11,Swedish Massage,Jen Wallerich,60.0,0
+Cancelled,2023-12-08,Deep Tissue Massage,Shadi Araghi,60.0,0
+Cancelled,2023-12-12,Deep Tissue Massage,Alexandria Erps,90.0,0
+Paid,2023-12-19,Swedish Massage,Lauren Groves,60.0,105
+Paid,2023-12-05,Signature Aromatherapy Massage,Krysia Crabtree,60.0,160
+Paid,2023-12-15,Deep Tissue Massage,Mark Herrmann,60.0,115
+Paid,2023-12-05,Deep Tissue Massage,Jenn Herrmann ,90.0,165
+Paid,2023-12-01,Deep Tissue Massage,Jenn Herrmann ,60.0,115
+Cancelled,2023-12-29,Deep Tissue Massage,Lindsey Pehrson ,60.0,0
+Cancelled,2023-12-11,Deep Tissue Massage,Hillary Scheer,60.0,0
+Paid,2023-12-05,Back & Shoulder Massage,Rebecca 'Rayne' Lacko ,30.0,60
+Paid,2023-12-19,Swedish Massage,Stephanie Miller,60.0,105
+Cancelled,2023-12-15,Deep Tissue Massage,Lindsey Pehrson ,60.0,0
+Cancelled,2023-12-15,Back & Shoulder Massage,Daniel McKeon,30.0,0
+Paid,2023-11-28,Swedish Massage,Rachel Snelson,90.0,145
+Cancelled,2023-12-08,Deep Tissue Massage,Lindsey Pehrson ,60.0,0
+Cancelled,2023-12-08,Swedish Massage,Jenn Miranda,60.0,0
+Paid,2023-11-27,Back & Shoulder Massage,Daniel McKeon,30.0,60
+Paid,2023-11-28,Deep Tissue Massage,William marshall,90.0,165
+Paid,2023-11-21,Back & Shoulder Massage,Daniel McKeon,30.0,60
+Paid,2023-11-20,Cannabis Cure Massage,Maggie Messerly,60.0,100
+Paid,2023-11-17,Deep Tissue Massage,Audrey Flour,60.0,115
+Cancelled,2023-11-17,Deep Tissue Massage,Leela Riquelme,60.0,0
+Paid,2023-11-17,Deep Tissue Massage,Cori OBrien ,60.0,115
+Cancelled,2023-12-15,Deep Tissue Massage,Lindsey Pehrson ,90.0,0
+Paid,2023-11-27,Deep Tissue Massage,Shelby Welty,60.0,115
+,2023-11-21,Back & Shoulder Massage,Trisha Wolf ,30.0,60
+Paid,2023-11-27,Deep Tissue Massage,Jenna McDonald ,60.0,115
+Paid,2023-12-04,Swedish Massage,Lauren Groves,60.0,105
+Cancelled,2023-11-17,Signature Aromatherapy Massage,Evin Chanatry,60.0,0
+No Show,2023-12-04,Swedish Massage,Tina Pujolar ,60.0,0
+Cancelled,2023-11-20,Swedish Massage,Sara Siri,60.0,0
+Paid,2023-11-20,Deep Tissue Massage,Brian Strully,90.0,165
+Paid,2023-12-18,Swedish Massage,Pam Opalski,60.0,105
+Paid,2023-11-14,Deep Tissue Massage,Taryn Names,60.0,115
+Paid,2023-11-14,Swedish Massage,Lauren Groves,60.0,105
+Cancelled,2023-11-21,Deep Tissue Massage,Lindsey Pehrson ,90.0,0
+Paid,2023-11-21,Cannabis Cure Massage,Beth Donahoe,60.0,100
+Paid,2023-11-14,Swedish Massage,Christina Gould,90.0,145
+Paid,2023-11-10,Prenatal Massage,Tricia Becker ,60.0,110
+Paid,2023-11-28,Deep Tissue Massage,Kay Roach,60.0,115
+Paid,2023-11-14,Swedish Massage,Morgan Smart,90.0,145
+Paid,2023-11-07,Deep Tissue Massage,Kerry Schultz,90.0,165
+Paid,2023-11-10,Hot Stone Massage,Cindy Johnson,90.0,165
+Paid,2023-11-10,Deep Tissue Massage,Laura Quinn,60.0,115
+Paid,2023-11-04,Swedish Massage,Linda Winter,60.0,105
+Paid,2023-11-04,Hot Stone Massage,Linda Winter,90.0,165
+Paid,2023-11-17,Warm Winter Glow CBD Massage,Amy Neimann,60.0,110
+Cancelled,2023-11-07,Swedish Massage,Lori Blevins-Schilling,60.0,0
+Paid,2023-11-07,Swedish Massage,Lori Blevins-Schilling,60.0,105
+Paid,2023-12-08,Swedish Massage,Lauren Yarberry,60.0,105
+Paid,2023-12-01,Deep Tissue Massage,Micah Strom,90.0,165
+Cancelled,2023-11-21,Deep Tissue Massage,Erica Cooper,90.0,0
+Paid,2023-10-31,Deep Tissue Massage,Leah Williams,60.0,115
+Paid,2023-12-19,Swedish Massage,Margaret Bushnell,90.0,145
+Paid,2023-10-27,Swedish Massage,Christina Skoglund,60.0,105
+Cancelled,2023-11-06,Swedish Massage,Jen Wallerich,60.0,0
+Paid,2023-11-03,Swedish Massage,Lauren Yarberry,60.0,105
+Paid,2023-10-27,Warm Winter Glow CBD Massage,Dalah Ostara,60.0,110
+Paid,2023-10-31,Deep Tissue Massage,Kim Goerlitz,60.0,115
+Paid,2023-10-31,Warm Winter Glow CBD Massage,Jan Smiley,60.0,110
+Paid,2023-11-03,Deep Tissue Massage,Scar Monk,90.0,165
+Paid,2023-11-20,Swedish Massage,Makenzie Williamson,90.0,145
+Paid,2023-10-24,Deep Tissue Massage,Kathryn Koehn,90.0,165
+Paid,2023-10-30,Swedish Massage,Emma Spatz,60.0,105
+Cancelled,2023-10-24,Himalayan Hot Stone Massage ,Amber Litz,,0
+Paid,2023-10-24,Deep Tissue Massage,Claire Kayacik,60.0,115
+Paid,2023-12-05,Deep Tissue Massage,Elizabeth Zaroff,60.0,115
+Cancelled,2023-11-03,Swedish Massage,Patricia Hinds,60.0,0
+Paid,2023-10-30,Swedish Massage,Brooke Raynor,60.0,105
+Paid,2023-10-23,Swedish Massage,Makenzie Williamson,90.0,145
+Paid,2023-10-16,Swedish Massage,Kelly Zwicker,60.0,105
+,2023-10-16,Deep Tissue Massage,Jilliane Wygant,90.0,165
+Paid,2023-10-17,Back & Shoulder Massage,Sophia Kasper,30.0,60
+Paid,2023-10-31,Deep Tissue Massage,Jessica Anderson ,90.0,165
+Paid,2023-11-13,Swedish Massage,Pam Opalski,60.0,105
+Paid,2023-11-06,Deep Tissue Massage,Tessa Blumenthal,90.0,165
+Paid,2023-10-06,Swedish Massage,Kris Bjorklund,90.0,145
+Paid,2023-10-10,Deep Tissue Massage,Kris Rosentrater,90.0,165
+Paid,2023-10-27,Swedish Massage,Margaret Bushnell,60.0,105
+Cancelled,2023-10-10,Back & Shoulder Massage,Amelia Bates,30.0,0
+Paid,2023-10-27,Deep Tissue Massage,Drew Markham,60.0,115
+Paid,2023-10-10,Signature Aromatherapy Massage,Jennifer Poper,60.0,160
+Paid,2023-10-09,Back & Shoulder Massage,Joseph Olson,30.0,60
+Paid,2023-10-16,Deep Tissue Massage,Paul Ryder,60.0,115
+Paid,2023-10-03,Foot and Leg Therapy,Jody Truitt,30.0,75
+Paid,2023-10-03,Deep Tissue Massage,Lara Deits,90.0,165
+Paid,2023-12-29,Swedish Massage,Peter Murchie ,60.0,105
+Cancelled,2023-12-22,Swedish Massage,Peter Murchie ,60.0,0
+Paid,2023-12-15,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-12-08,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-12-01,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-11-17,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-11-10,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-10-27,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-11-03,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-10-13,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-10-03,Swedish Massage,Danielle Warman,60.0,105
+Paid,2023-10-03,Deep Tissue Massage,izzy antonino,90.0,165
+Cancelled,2023-11-17,Warm Winter Glow CBD Massage,Jill Cody,60.0,0
+Paid,2023-10-23,Swedish Massage,Rebecca Smith,90.0,145
+Paid,2023-09-29,Deep Tissue Massage,Stacy Hemingway ,60.0,115
+Paid,2023-12-11,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-12-18,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-09-29,Swedish Massage,Joseph Lacko,60.0,105
+Paid,2023-11-06,Deep Tissue Massage,Shirley Whitaker,60.0,115
+Paid,2023-09-26,Deep Tissue Massage,Anne Pomerantz,60.0,115
+Paid,2023-12-29,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-12-22,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-12-15,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-10-10,Swedish Massage,Katie Mann,90.0,145
+Paid,2023-09-25,Deep Tissue Massage,Hildja Saas,60.0,115
+Paid,2023-09-22,Deep Tissue Massage,Samantha Bloink,60.0,115
+Cancelled,2023-09-26,Deep Tissue Massage,Ingrid Pultz,90.0,0
+Paid,2023-10-09,Swedish Massage,Pam Opalski,60.0,105
+Paid,2023-09-26,Deep Tissue Massage,Jen Tanguay,60.0,115
+Paid,2023-09-26,Deep Tissue Massage,Sara Daubenberger,60.0,115
+Paid,2023-09-19,Back & Shoulder Massage,Kerry Alexander ,30.0,60
+Paid,2023-09-19,Deep Tissue Massage,Chloe Dale ,90.0,165
+Paid,2023-09-19,Deep Tissue Massage,Carrie Sellers,60.0,115
+Paid,2023-09-25,Deep Tissue Massage,Kari Siceloff,90.0,165
+Paid,2023-09-18,Deep Tissue Massage,Ticia Marie Stafford,60.0,115
+Paid,2023-09-15,Swedish Massage,Thomas Lowell,60.0,105
+Paid,2023-09-18,Swedish Massage,Margaret Bushnell,90.0,145
+Cancelled,2023-11-03,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Paid,2023-11-03,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-10-30,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-09-15,Back & Shoulder Massage,Danielle Ledbetter,30.0,60
+Paid,2023-09-19,Swedish Massage,Biz Dailey,90.0,145
+Paid,2023-09-15,Deep Tissue Massage,Sandra Kapral,60.0,115
+Paid,2023-10-24,Cannabis Cure Massage,Melody Maleitzke,60.0,100
+Paid,2023-09-22,Cannabis Cure Massage,Melody Maleitzke,60.0,100
+Paid,2023-09-11,Swedish Massage,Jen Wallerich,90.0,145
+Paid,2023-09-12,Prenatal Massage,Lucia Foster,60.0,110
+Paid,2023-09-12,Deep Tissue Massage,Chloe Dale ,90.0,165
+Paid,2023-09-11,Deep Tissue Massage,Paola Olivia  Veeder,60.0,115
+Paid,2023-09-11,Swedish Massage,Megan Keaty,90.0,145
+Cancelled,2023-10-17,Cannabis Cure Massage,Frankie Minore,60.0,0
+Cancelled,2023-09-15,Deep Tissue Massage,Geeta Vandemark,60.0,0
+Paid,2023-09-05,Swedish Massage,Yasmin Guggenheimer,90.0,145
+Paid,2023-10-06,Deep Tissue Massage,Tessa Blumenthal,90.0,165
+Paid,2023-09-05,Back & Shoulder Massage,Margaret Bushnell,30.0,60
+Paid,2023-08-29,Swedish Massage,Kendra Curtain,60.0,105
+Cancelled,2023-09-05,Deep Tissue Massage,Valeri Terentyeva,60.0,0
+Paid,2023-09-18,Swedish Massage,Pam Opalski,60.0,105
+Paid,2023-09-08,Deep Tissue Massage,Amy Pinker,90.0,165
+Paid,2023-08-25,Deep Tissue Massage,Amy Pinker,60.0,115
+Paid,2023-09-01,Cannabis Cure Massage,Lydia Deng,60.0,100
+Paid,2023-09-04,Swedish Massage,Allison Handy,60.0,105
+Paid,2023-09-08,Deep Tissue Massage,Caroline Halter,90.0,165
+Cancelled,2023-09-05,Deep Tissue Massage,Meredyth Yund,90.0,0
+Paid,2023-08-22,Deep Tissue Massage,Laura Francis,60.0,115
+Paid,2023-08-22,Back & Shoulder Massage,bryna ross,30.0,60
+Paid,2023-08-18,Swedish Massage,Brigette Yates,60.0,105
+Cancelled,2023-08-29,Deep Tissue Massage,Sandra Mehta,60.0,0
+Cancelled,2023-08-29,Deep Tissue Massage,Sandra Mehta,60.0,0
+Cancelled,2023-08-25,Cannabis Cure Massage,Jenean Brady,60.0,0
+Paid,2023-09-04,Warm Winter Glow CBD Massage,Marjorie Sherman,60.0,110
+Paid,2023-08-29,Swedish Massage,Hillary Scheer,90.0,145
+Paid,2023-10-13,Cannabis Cure Massage,Melody Maleitzke,60.0,100
+Paid,2023-09-12,Cannabis Cure Massage,Melody Maleitzke,60.0,100
+Paid,2023-12-18,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-12-04,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-11-13,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-11-06,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-10-09,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-09-25,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-09-25,Deep Tissue Massage,Shirley Whitaker,60.0,115
+Paid,2023-08-18,Deep Tissue Massage,Tricia Minnett,90.0,165
+Paid,2023-08-28,Swedish Massage,Kathy Dernbach,60.0,105
+Paid,2023-08-11,Deep Tissue Massage,Shelley Kilbourn ,60.0,115
+Paid,2023-09-08,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-08-25,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-08-18,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Cancelled,2023-08-28,Swedish Massage,Emily Gonzales,90.0,0
+Paid,2023-08-22,Deep Tissue Massage,Brenda Huson,90.0,165
+Paid,2023-08-22,Swedish Massage,Liz Joss,90.0,145
+Cancelled,2023-08-22,Deep Tissue Massage,Meloni Courtway,90.0,0
+Paid,2023-08-29,Deep Tissue Massage,Jori Maurer,60.0,115
+Cancelled,2023-08-21,Deep Tissue Massage,Joie Olsen ,60.0,0
+Cancelled,2023-08-29,Deep Tissue Massage,Andrea Hoskins,60.0,0
+Paid,2023-08-01,Deep Tissue Massage,Robin Tremper,90.0,165
+Paid,2023-09-01,Deep Tissue Massage,Tessa Blumenthal,60.0,115
+Cancelled,2023-09-22,Swedish Massage,Angela Burkland,60.0,0
+Paid,2023-07-31,Warm Winter Glow CBD Massage,Terra Claiborne,60.0,110
+Cancelled,2023-08-15,Deep Tissue Massage,Sandra Mehta,60.0,0
+Paid,2023-08-21,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-08-21,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-07-28,Deep Tissue Massage,Tessa Blumenthal,60.0,115
+Paid,2023-08-04,Swedish Massage,Sara Kuethe,60.0,105
+Cancelled,2023-09-22,Swedish Massage,Lindsey Allen,90.0,0
+Paid,2023-08-14,Deep Tissue Massage,Shirley Whitaker,60.0,115
+Paid,2023-08-01,Deep Tissue Massage,Brian Skare,60.0,115
+Cancelled,2023-07-24,Warm Winter Glow CBD Massage,Marjorie Sherman,60.0,0
+Paid,2023-07-31,Cannabis Cure Massage,Christina Segan,60.0,100
+Cancelled,2023-08-15,Deep Tissue Massage,Marlen Allen ,90.0,0
+Paid,2023-07-18,Back & Shoulder Massage,Kristy Sambor,30.0,60
+Paid,2023-07-18,Prenatal Massage,Margaret Bushnell,60.0,110
+Cancelled,2023-07-18,Prenatal Massage,Add Name,60.0,0
+Paid,2023-07-17,Back & Shoulder Massage,Shirley Whitaker,30.0,60
+Paid,2023-07-17,Deep Tissue Massage,Brian Skare,60.0,115
+Paid,2023-07-14,Deep Tissue Massage,Mollie Beal,60.0,115
+Cancelled,2023-07-25,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Cancelled,2023-07-21,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Paid,2023-07-17,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-07-18,Swedish Massage,Eling Chang,60.0,105
+Paid,2023-07-18,Swedish Massage,Leeanna Butcher,90.0,145
+Paid,2023-07-10,Back & Shoulder Massage,Sara Bantle,30.0,60
+Paid,2023-07-11,Swedish Massage,Malea Brunner,90.0,145
+Paid,2023-08-04,Himalayan Hot Stone Massage ,Patricia Robinson,,165
+Paid,2023-07-10,Deep Tissue Massage,Judy Kimelman,60.0,115
+Paid,2023-07-17,Swedish Massage,Deborah Day,60.0,105
+Paid,2023-08-25,Deep Tissue Massage,Lou Ventino,60.0,115
+Cancelled,2023-07-24,Deep Tissue Massage,Lou Ventino,60.0,0
+Paid,2023-07-31,Swedish Massage,Jane Ekstrand,60.0,105
+Paid,2023-08-01,Swedish Massage,Carolyn Burger,60.0,105
+Cancelled,2023-08-18,Warm Winter Glow CBD Massage,RACHAEL REESE,60.0,0
+Paid,2023-06-30,Deep Tissue Massage,Lou Ventino,60.0,115
+Paid,2023-06-27,Cannabis Cure Massage,Christina Segan,60.0,100
+Cancelled,2023-06-26,Back & Shoulder Massage,Brian Dutt,30.0,0
+Paid,2023-06-26,Deep Tissue Massage,Jessica Malouf ,60.0,115
+Cancelled,2023-07-24,Deep Tissue Massage,Nicole Wingfield,90.0,0
+Cancelled,2023-07-21,Swedish Massage,ROSEMARY HOLLINGER,60.0,0
+Cancelled,2023-07-21,Deep Tissue Massage,Tessa Blumenthal,90.0,0
+Paid,2023-06-26,Foot and Leg Therapy,Katherine Sloat ,30.0,75
+Paid,2023-06-19,Back & Shoulder Massage,Nick Schmitt,30.0,60
+Paid,2023-07-03,Swedish Massage,Rebecca Spears,60.0,105
+Paid,2023-08-29,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Cancelled,2023-08-22,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Cancelled,2023-08-15,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Paid,2023-09-05,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-09-01,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Cancelled,2023-09-08,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Cancelled,2023-08-25,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Cancelled,2023-08-18,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Cancelled,2023-09-15,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Paid,2023-06-26,Back & Shoulder Massage,Karen Fredrichs,30.0,60
+Paid,2023-06-16,Back & Shoulder Massage,Michael Dressler,30.0,60
+Paid,2023-06-27,Swedish Massage,Brooke Kim,90.0,145
+Paid,2023-06-27,Deep Tissue Massage,Samantha Olson,90.0,165
+Paid,2023-08-14,Cannabis Cure Massage,Melody Maleitzke,60.0,100
+Paid,2023-09-04,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-08-14,Deep Tissue Massage,Rachel Evans ,90.0,165
+Cancelled,2023-06-12,Deep Tissue Massage,Jilliane Wygant,90.0,0
+Paid,2023-07-11,Deep Tissue Massage,Winifred Perkins,60.0,115
+Paid,2023-07-07,Swedish Massage,Jen Wallerich,90.0,145
+Paid,2023-06-26,Himalayan Hot Stone Massage ,Justine Vega,,165
+Cancelled,2023-08-04,Cannabis Cure Massage,Kerry Alexander ,60.0,0
+Cancelled,2023-06-27,Foot and Leg Therapy,Add Name #2,30.0,0
+Cancelled,2023-06-27,Back & Shoulder Massage,Add Name #2,30.0,0
+Paid,2023-06-13,Back & Shoulder Massage,Karen Fredrichs,30.0,60
+Cancelled,2023-06-06,Back & Shoulder Massage,Karen Fredrichs,30.0,0
+Paid,2023-08-11,Swedish Massage,Brooke Raynor,60.0,105
+Paid,2023-07-28,Swedish Massage,Brooke Raynor,90.0,145
+Paid,2023-07-14,Swedish Massage,Brooke Raynor,90.0,145
+Paid,2023-06-30,Swedish Massage,Brooke Raynor,90.0,145
+Cancelled,2023-10-10,Deep Tissue Massage,Brenda Huson,90.0,0
+Paid,2023-09-05,Deep Tissue Massage,Brenda Huson,90.0,165
+Cancelled,2023-08-08,Deep Tissue Massage,Brenda Huson,90.0,0
+Paid,2023-07-11,Deep Tissue Massage,Brenda Huson,90.0,165
+Cancelled,2023-06-27,Deep Tissue Massage,Brenda Huson,90.0,0
+Paid,2023-06-02,Swedish Massage,Chelsie Bialkowsky,90.0,145
+Cancelled,2023-06-12,Back & Shoulder Massage,Marina Davis,30.0,0
+Paid,2023-06-20,Himalayan Hot Stone Massage ,Julie Evans,,165
+Paid,2023-06-02,Back & Shoulder Massage,Sarah Schachman,30.0,60
+Paid,2023-06-02,Swedish Massage,Jenn Herrmann ,60.0,105
+Paid,2023-07-10,Prenatal Massage,Amy Niemann,60.0,110
+Paid,2023-10-06,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-09-29,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-09-22,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-09-15,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-09-08,Swedish Massage,Peter Murchie ,60.0,105
+Cancelled,2023-09-01,Swedish Massage,Peter Murchie ,60.0,0
+Paid,2023-08-25,Swedish Massage,Pam Opalski,60.0,105
+Cancelled,2023-08-18,Swedish Massage,Peter Murchie ,60.0,0
+Paid,2023-08-11,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-07-28,Swedish Massage,Peter Murchie ,60.0,105
+Cancelled,2023-07-14,Swedish Massage,Peter Murchie ,60.0,0
+Paid,2023-07-07,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-06-30,Deep Tissue Massage,Peter Murchie ,60.0,115
+Paid,2023-06-06,Himalayan Hot Stone Massage ,Cheryl Davide,,165
+Paid,2023-06-16,Deep Tissue Massage,Meredyth Yund,90.0,165
+Paid,2023-06-20,Swedish Massage,Nicole Wingfield,90.0,145
+Paid,2023-06-19,Deep Tissue Massage,Tessa Blumenthal,90.0,165
+Cancelled,2023-07-24,Deep Tissue Massage,Rachel Evans ,90.0,0
+Paid,2023-06-20,Swedish Massage,ROSEMARY HOLLINGER,60.0,105
+Paid,2023-06-05,Deep Tissue Massage,Rachel Schaefer,90.0,165
+Paid,2023-06-06,Swedish Massage,Karen Booth,90.0,145
+Cancelled,2023-06-09,Swedish Massage,Angela Burkland,60.0,0
+Paid,2023-06-13,Deep Tissue Massage,Sarah Cash,60.0,115
+Paid,2023-05-19,Deep Tissue Massage,Olivia Vessenes,60.0,115
+Paid,2023-06-16,Deep Tissue Massage,Mairead Shutt,90.0,165
+Cancelled,2023-06-03,Deep Tissue Massage,Bri Schoeneman,60.0,0
+Cancelled,2023-06-26,Prenatal Massage,Chloe Dale ,60.0,0
+Cancelled,2023-06-19,Prenatal Massage,Chloe Dale ,60.0,0
+Cancelled,2023-06-05,Prenatal Massage,Chloe Dale ,60.0,0
+Paid,2023-06-03,Swedish Massage,Brooke Raynor,60.0,105
+Paid,2023-05-27,Swedish Massage,Andrea  Peck,60.0,105
+Paid,2023-05-15,Swedish Massage,Julia Bucy,60.0,105
+Paid,2023-05-13,Swedish Massage,Kristi Nelson ,60.0,105
+Cancelled,2023-05-13,Deep Tissue Massage,Angela Burkland,60.0,0
+Paid,2023-06-03,Deep Tissue Massage,Emily Murthy,90.0,165
+Paid,2023-05-13,Deep Tissue Massage,Wiebke Lips,60.0,115
+Paid,2023-05-19,Deep Tissue Massage,Bridger Cabe,90.0,165
+Paid,2023-05-20,Deep Tissue Massage,Wiebke Lips,90.0,165
+Paid,2023-05-27,Swedish Massage,Shannon Gates,90.0,145
+Cancelled,2023-07-14,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Paid,2023-07-10,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-07-07,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-07-03,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-06-06,Deep Tissue Massage,Sandra Mehta,60.0,115
+Paid,2023-05-06,Swedish Massage,Emily Marsden,60.0,105
+Cancelled,2023-05-26,Prenatal Massage,Jessie McGrath,60.0,0
+Paid,2023-05-13,Prenatal Massage,Jessie McGrath,60.0,110
+Paid,2023-05-27,Deep Tissue Massage,Zachary Gregory,60.0,115
+Cancelled,2023-08-08,Cannabis Cure Massage,Kerry Alexander ,60.0,0
+Paid,2023-05-26,Foot and Leg Therapy,Meghan Carpenito,30.0,75
+Paid,2023-05-08,Deep Tissue Massage,Sandra Mehta,90.0,165
+Paid,2023-07-03,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-06-13,Cannabis Cure Massage,Melody Maleitzke,60.0,100
+Paid,2023-05-27,Warm Winter Glow CBD Massage,Frankie Minore,60.0,110
+Paid,2023-05-05,Back & Shoulder Massage,Amy Niemann,30.0,60
+Cancelled,2023-05-08,Deep Tissue Massage,Carolyn OBrien,60.0,0
+Paid,2023-05-20,Swedish Massage,Karen Booth,90.0,145
+Paid,2023-05-22,Swedish Massage,Christina Reiher,90.0,145
+Paid,2023-05-27,Deep Tissue Massage,Josh Traver,90.0,165
+Paid,2023-05-19,Deep Tissue Massage,Katherine Baals,60.0,115
+Paid,2023-04-28,Back & Shoulder Massage,Karen Fredrichs,30.0,60
+Paid,2023-05-22,Swedish Massage,ROSEMARY HOLLINGER,60.0,105
+Paid,2023-05-22,Deep Tissue Massage,Tessa Blumenthal,60.0,115
+Paid,2023-06-19,Deep Tissue Massage,Michelee Scott,90.0,165
+Cancelled,2023-07-21,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-07-07,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-06-23,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-06-09,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-12-29,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-12-22,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-12-18,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-12-15,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-12-11,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-12-08,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-12-04,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-12-01,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-11-27,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-11-24,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-11-20,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-11-17,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-11-13,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-11-10,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-11-06,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-11-03,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-10-30,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-10-27,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-10-23,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-10-20,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-10-16,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-10-13,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-10-09,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-10-06,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-10-02,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-09-29,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-09-25,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-09-22,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-09-18,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-09-15,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-09-11,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-09-08,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-09-04,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-09-01,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-08-28,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-08-25,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-08-21,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-08-18,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-08-14,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-08-04,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-05-20,Swedish Massage,Add Name #2,90.0,0
+Paid,2023-06-20,Back & Shoulder Massage,Ryan Hume,30.0,60
+Paid,2023-04-22,Back & Shoulder Massage,Jennifer Kim,30.0,60
+Paid,2023-05-08,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-05-20,Deep Tissue Massage,Megan Lindsay,60.0,115
+Paid,2023-05-13,Swedish Massage,Sydney Tooze,60.0,105
+Paid,2023-04-24,Deep Tissue Massage,Erin Isley ,60.0,115
+Cancelled,2023-05-06,Swedish Massage,Emily Marsden,60.0,0
+Paid,2023-06-03,Deep Tissue Massage,Brenda Huson,90.0,165
+Paid,2023-06-09,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-04-21,Back & Shoulder Massage,Ryan Hume,30.0,60
+Paid,2023-06-09,Swedish Massage,Jen Wallerich,90.0,145
+Paid,2023-05-05,Deep Tissue Massage,Jen Wallerich,60.0,115
+Paid,2023-08-04,Cannabis Cure Massage,Kerry Alexander ,60.0,100
+Cancelled,2023-08-04,Cannabis Cure Massage,Kerry Alexander ,60.0,0
+Paid,2023-04-17,Swedish Massage,John Neigel,60.0,105
+Cancelled,2023-04-17,Back & Shoulder Massage,Ryan Hume,30.0,0
+Paid,2023-05-22,Swedish Massage,Nicole Wingfield,90.0,145
+Cancelled,2023-04-17,Deep Tissue Massage,Barbara Zaroff,60.0,0
+Paid,2023-05-01,Cannabis Cure Massage,Melody Maleitzke,60.0,100
+Paid,2023-04-22,Deep Tissue Massage,Mary Jensen,90.0,165
+Paid,2023-04-14,Warm Winter Glow CBD Massage,Janet Ferguson Hart,60.0,110
+Paid,2023-04-24,Deep Tissue Massage,Michelee Scott,90.0,165
+Paid,2023-05-06,Swedish Massage,Sharon Noble,60.0,105
+No Show,2023-06-03,Swedish Massage,Tyler Nix,90.0,0
+Paid,2023-04-24,Deep Tissue Massage,Tessa Blumenthal,60.0,115
+Paid,2023-06-12,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-05-22,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-04-24,Deep Tissue Massage,Lara Deits,90.0,165
+Paid,2023-04-24,Swedish Massage,Jenn Herrmann ,90.0,145
+Paid,2023-05-20,Cannabis Cure Massage,Abby Hawley,60.0,100
+Paid,2023-04-21,Deep Tissue Massage,tim Shaffer,60.0,115
+Paid,2023-04-28,Swedish Massage,Taylor Wheeler,90.0,145
+Paid,2023-04-07,Deep Tissue Massage,tim Shaffer,60.0,115
+Paid,2023-05-08,Deep Tissue Massage,Jeremiah Aden,60.0,115
+Paid,2023-04-21,Swedish Massage,Keely Sawyer,90.0,145
+Cancelled,2023-06-12,Warm Winter Glow CBD Massage,Rebecca Strejc,60.0,0
+Cancelled,2023-05-26,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-05-12,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-04-17,Cannabis Cure Massage,Anne Ruud,60.0,100
+Cancelled,2023-04-14,Cannabis Cure Massage,Shelley Kilbourn ,60.0,0
+Cancelled,2023-05-12,Swedish Massage,Aubri Margason,60.0,0
+Paid,2023-04-17,Swedish Massage,Kaye Bjur,60.0,105
+Paid,2023-04-07,Deep Tissue Massage,Annette Maxson,90.0,165
+Paid,2023-04-08,Swedish Massage,Brooke Raynor,60.0,105
+Cancelled,2023-05-06,Swedish Massage,Peggy Warnock,60.0,0
+Cancelled,2023-07-17,Prenatal Massage,Chloe Dale ,60.0,0
+Cancelled,2023-07-10,Prenatal Massage,Chloe Dale ,60.0,0
+Paid,2023-05-15,Prenatal Massage,Chloe Dale ,60.0,110
+Paid,2023-05-08,Prenatal Massage,Chloe Dale ,60.0,110
+Paid,2023-04-28,Prenatal Massage,Chloe Dale ,60.0,110
+Paid,2023-04-03,Prenatal Massage,Chloe Dale ,60.0,110
+Paid,2023-04-08,Cannabis Cure Massage,Kerry Alexander ,60.0,100
+Paid,2023-04-08,Deep Tissue Massage,Abigail Nix,90.0,165
+Cancelled,2023-03-24,Back & Shoulder Massage,Karen Fredrichs,30.0,0
+Paid,2023-03-31,Swedish Massage,Wes Kim,60.0,105
+Paid,2023-04-08,Deep Tissue Massage,Wiebke Lips,90.0,165
+Paid,2023-05-06,Swedish Massage,Tessa Steranko,60.0,105
+Paid,2023-03-27,Deep Tissue Massage,Katherine Baals,60.0,115
+Cancelled,2023-03-24,Deep Tissue Massage,Gigi Michaels,60.0,0
+Paid,2023-04-22,Warm Winter Glow CBD Massage,Terra Claiborne,60.0,110
+Paid,2023-03-27,Himalayan Hot Stone Massage ,Ralph Derrickson,,165
+Cancelled,2023-03-24,Cannabis Cure Massage,Anne Ruud,60.0,0
+Paid,2023-04-08,Deep Tissue Massage,Monica Bernhard,90.0,165
+Paid,2023-04-22,Deep Tissue Massage,Mallory Hall,90.0,165
+Paid,2023-04-14,Back & Shoulder Massage,Chelsea Winer,30.0,60
+Paid,2023-05-01,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-06-13,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-06-05,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-04-18,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-05-06,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-04-22,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2023-05-15,Cannabis Cure Massage,Melody Maleitzke,60.0,100
+Paid,2023-04-10,Cannabis Cure Massage,Melody Maleitzke,60.0,100
+Paid,2023-05-15,Deep Tissue Massage,Sue Bailey,90.0,165
+Cancelled,2023-06-12,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Cancelled,2023-06-05,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Paid,2023-04-22,Swedish Massage,Emily Browne,60.0,105
+Paid,2023-03-17,Back & Shoulder Massage,Chelsea Winer,30.0,60
+Cancelled,2023-03-13,Deep Tissue Massage,Jilliane Wygant,90.0,0
+Paid,2023-03-17,Himalayan Hot Stone Massage ,Patricia Robinson,,165
+Paid,2023-03-17,Deep Tissue Massage,Mallory Hall,60.0,115
+Paid,2023-04-14,Swedish Massage,Nicole Wingfield,90.0,145
+Paid,2023-04-03,Warm Winter Glow CBD Massage,Rebecca Strejc,60.0,110
+Cancelled,2023-05-05,Back & Shoulder Massage,Amy Niemann,30.0,0
+Cancelled,2023-04-28,Back & Shoulder Massage,Amy Niemann,30.0,0
+Cancelled,2023-04-21,Back & Shoulder Massage,Amy Niemann,30.0,0
+Paid,2023-04-10,Warm Winter Glow CBD Massage,Marjorie Sherman,60.0,110
+Paid,2023-03-10,Back & Shoulder Massage,Karen Fredrichs,30.0,60
+Paid,2023-03-31,Back & Shoulder Massage,Jess Henderson,30.0,60
+No Show,2023-03-31,Hot Stone Massage,Tara Graf ,90.0,0
+Cancelled,2023-04-14,Swedish Massage,Add Name,90.0,0
+Paid,2023-03-03,Back & Shoulder Massage,Karen Fredrichs,30.0,60
+Paid,2023-05-01,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-04-10,Deep Tissue Massage,Rachel Evans ,90.0,165
+Cancelled,2023-03-20,Deep Tissue Massage,Rachel Evans ,90.0,0
+Paid,2023-03-06,Himalayan Hot Stone Massage ,Jennifer Poper,,165
+Paid,2023-04-28,Swedish Massage,Karen Booth,90.0,145
+Paid,2023-03-06,Swedish Massage,Karen Booth,90.0,145
+Cancelled,2023-03-20,Cannabis Cure Massage,Anne Ruud,60.0,0
+Cancelled,2023-04-21,Swedish Massage,Add Name,60.0,0
+Paid,2023-02-24,Prenatal Massage,Chloe Dale ,60.0,110
+Paid,2023-02-24,Deep Tissue Massage,Martha Greenawalt,60.0,115
+Paid,2023-03-31,Deep Tissue Massage,Joseph McLaughlin,60.0,115
+Paid,2023-03-10,Warm Winter Glow CBD Massage,Anne Pomerantz,60.0,110
+Cancelled,2023-03-10,Warm Winter Glow CBD Massage,Add Name,60.0,0
+Paid,2023-02-17,Back & Shoulder Massage,Emily Norman,30.0,60
+Paid,2023-03-13,Deep Tissue Massage,Sue Bailey,90.0,165
+Paid,2023-02-17,Deep Tissue Massage,Lauren DeStefano,60.0,115
+Paid,2023-02-17,Swedish Massage,Kathy Pisarcik,60.0,105
+Paid,2023-02-17,Back & Shoulder Massage,Patricia Hennessy,30.0,60
+Paid,2023-03-10,Swedish Massage,Nicole Wingfield,90.0,145
+Paid,2023-02-10,Swedish Massage,Nicole Wingfield,90.0,145
+Paid,2023-04-07,Deep Tissue Massage,Jenn Fosnot,60.0,115
+Paid,2023-03-03,Swedish Massage,Katie Mann,90.0,145
+Paid,2023-02-06,Deep Tissue Massage,Lindsay Smith,60.0,115
+Paid,2023-02-17,Foot and Leg Therapy,Stephanie Gottesman,30.0,75
+Paid,2023-02-13,Back & Shoulder Massage,Bob Moore,30.0,60
+Paid,2023-02-27,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-02-10,Swedish Massage,John Neigel,60.0,105
+Paid,2023-02-03,Deep Tissue Massage,Debbie Stroud,60.0,115
+Paid,2023-02-10,Swedish Massage,Tina Crawford,60.0,105
+Paid,2023-02-13,Deep Tissue Massage,Mary Najar,60.0,115
+Cancelled,2023-02-17,Deep Tissue Massage,Diane Baldi,60.0,0
+Paid,2023-02-20,Deep Tissue Massage,Robyn Howisey,60.0,115
+Paid,2023-02-27,Deep Tissue Massage,Emily Wooton,60.0,115
+Paid,2023-02-20,Warm Winter Glow CBD Massage,Marjorie Sherman,60.0,110
+Paid,2023-01-26,Hot Stone Massage,Claire Kayacik,90.0,165
+Paid,2023-01-26,Hot Stone Massage,Claire Kayacik,90.0,165
+Cancelled,2023-01-27,Back & Shoulder Massage,Add Name,30.0,0
+Paid,2023-01-27,Swedish Massage,Danielle Ledbetter,60.0,105
+Paid,2023-02-13,Swedish Massage,Shae Daberkow,90.0,145
+Paid,2023-04-14,Swedish Massage,Diana Cohen,60.0,105
+Cancelled,2023-02-17,Himalayan Hot Stone Massage ,Marie Gensler,,0
+Paid,2023-01-27,Deep Tissue Massage,Elizabeth Hogger,60.0,115
+Cancelled,2023-02-17,Swedish Massage,Sarah Martin,60.0,0
+Cancelled,2023-08-07,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-07-31,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-08-11,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-07-28,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-07-14,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-06-30,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-06-16,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-06-02,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-05-19,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-05-05,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-04-21,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-04-07,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-03-24,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-07-24,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-07-03,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-06-26,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-07-17,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-06-12,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-07-10,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-05-29,Warm Winter Glow CBD Massage,Add Name #2,60.0,0
+Cancelled,2023-05-22,Warm Winter Glow CBD Massage,Add Name,60.0,0
+Cancelled,2023-05-15,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-05-08,Warm Winter Glow CBD Massage,Add Name,60.0,0
+Paid,2023-05-01,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-04-03,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-03-20,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-03-06,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-02-20,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-06-19,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-06-05,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-05-22,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2023-05-08,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-04-17,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-04-10,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-03-27,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-03-13,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-02-27,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-02-13,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-01-27,Back & Shoulder Massage,Joseph Spitz,30.0,60
+Cancelled,2023-02-06,Back & Shoulder Massage,Wendy Tyner,30.0,0
+Cancelled,2023-02-03,Swedish Massage,Lauren Yarberry,60.0,0
+Paid,2023-01-20,Deep Tissue Massage,Ann Lachenbruch,90.0,165
+Cancelled,2023-01-20,Swedish Massage,Madeline Reeves ,60.0,0
+Paid,2023-01-26,Foot and Leg Therapy,Kathy Myers,30.0,75
+Paid,2023-01-24,Swedish Massage,Sherry Pariser,90.0,145
+Cancelled,2023-02-10,Deep Tissue Massage,Annette Maxson,90.0,0
+Paid,2023-01-30,Swedish Massage,Andrew Peters,90.0,145
+Paid,2023-01-24,Deep Tissue Massage,Valerie Tweiten,90.0,165
+Cancelled,2023-03-13,Deep Tissue Massage,Sue Bailey,90.0,0
+Paid,2023-01-23,Cannabis Cure Massage,Sarah Quainton,60.0,100
+Cancelled,2023-01-30,Himalayan Hot Stone Massage ,Sarah Quainton,,0
+Paid,2023-01-24,Signature Aromatherapy Massage,Margaret Jackson,60.0,160
+Paid,2023-01-30,Deep Tissue Massage,Katie Pearson,60.0,115
+Paid,2023-01-17,Swedish Massage,Kathleen Peters,90.0,145
+Paid,2023-05-26,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-05-19,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-05-12,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-05-05,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-04-28,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-04-21,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-04-14,Swedish Massage,Peter Murchie ,60.0,105
+Cancelled,2023-04-07,Swedish Massage,Peter Murchie ,60.0,0
+Paid,2023-03-31,Swedish Massage,Peter Murchie ,60.0,105
+Cancelled,2023-03-24,Swedish Massage,Peter Murchie ,60.0,0
+Paid,2023-03-17,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-03-10,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2023-03-03,Swedish Massage,Peter Murchie ,60.0,105
+Cancelled,2023-02-24,Swedish Massage,Peter Murchie ,60.0,0
+Cancelled,2023-02-17,Swedish Massage,Peter Murchie ,60.0,0
+Paid,2023-02-10,Deep Tissue Massage,Stephanie Farquhar,60.0,115
+Paid,2023-01-30,Deep Tissue Massage,Mary Jensen,90.0,165
+Paid,2023-02-06,Deep Tissue Massage,Rima Mehta,60.0,115
+Paid,2023-01-20,Foot and Leg Therapy,Carol Nakhuda,30.0,75
+Paid,2023-01-20,Deep Tissue Massage,Holly Rohrbacher,60.0,115
+Paid,2023-01-13,Swedish Massage,Jen Wallerich,60.0,105
+Paid,2023-01-12,Deep Tissue Massage,Ericha Oberg,90.0,165
+Paid,2023-01-12,Swedish Massage,Leslie Torres ,60.0,105
+Paid,2023-01-17,Deep Tissue Massage,Tessa Blumenthal,60.0,115
+Cancelled,2023-01-12,Swedish Massage,Danielle Ledbetter,60.0,0
+Paid,2023-01-17,Deep Tissue Massage,Suzanna Anderson,90.0,165
+Paid,2023-01-12,Deep Tissue Massage,Shaun Morber,60.0,115
+Paid,2023-01-20,Swedish Massage,Lauren Yarberry,60.0,105
+Paid,2023-01-10,Deep Tissue Massage,Theona Jundanian,60.0,115
+Cancelled,2023-01-09,,Lori Gatto ,,0
+Cancelled,2023-01-12,Swedish Massage,Mary Tolbert,60.0,0
+No Show,2023-02-03,Deep Tissue Massage,Amanda Kasuboski ,60.0,0
+Paid,2023-01-09,Himalayan Hot Stone Massage ,Bonnie Harrison,,165
+Cancelled,2023-01-12,Swedish Massage,Leslie Torres ,60.0,0
+Paid,2023-01-06,Deep Tissue Massage,Sarah Cash,60.0,115
+Paid,2023-01-26,Swedish Massage,Brooke Raynor,60.0,105
+Paid,2023-01-12,Swedish Massage,Brooke Raynor,60.0,105
+Paid,2023-01-10,Swedish Massage,John Neigel,90.0,145
+Paid,2023-01-20,Back & Shoulder Massage,Sarah Fitch,30.0,60
+,2023-01-05,Back & Shoulder Massage,Emily Norman,30.0,60
+Paid,2023-01-26,Deep Tissue Massage,Meghan Carpenito,60.0,115
+Paid,2023-01-10,Warm Winter Glow CBD Massage,Kelly Shields,60.0,110
+Paid,2023-01-10,Deep Tissue Massage,Stephanie Page,90.0,165
+Cancelled,2023-01-05,Back & Shoulder Massage,Dixie Moore,30.0,0
+Paid,2023-01-23,Deep Tissue Massage,Kim Thomas,60.0,115
+Paid,2023-01-16,Prenatal Massage,Elizabeth Zaroff,60.0,110
+Cancelled,2023-01-10,Deep Tissue Massage,Daniel Borg,60.0,0
+,2023-01-05,Deep Tissue Massage,Ryan Montecucco,60.0,115
+Cancelled,2023-02-06,Deep Tissue Massage,Sean Halligan,90.0,0
+Paid,2023-01-06,Deep Tissue Massage,Rebecca Smith,90.0,165
+Cancelled,2023-01-05,Swedish Massage,Abby Miske,60.0,0
+Paid,2023-01-09,Hot Stone Massage,Melinda Iler,90.0,165
+Cancelled,2023-02-13,Back & Shoulder Massage,Kathie Barbaro,30.0,0
+Cancelled,2023-01-16,Back & Shoulder Massage,Kathie Barbaro,30.0,0
+No Show,2023-02-03,Back & Shoulder Massage,Kathie Barbaro,30.0,0
+Paid,2023-01-24,Back & Shoulder Massage,Kathie Barbaro,30.0,60
+Paid,2023-01-09,Back & Shoulder Massage,Kathie Barbaro,30.0,60
+Paid,2023-01-03,Warm Winter Glow CBD Massage,Jenean Brady,60.0,110
+Cancelled,2023-01-12,Swedish Massage,Add Name,60.0,0
+Paid,2023-01-27,Prenatal Massage,Stephanie Hecht,60.0,110
+Cancelled,2023-02-24,Warm Winter Glow CBD Massage,Diana Ishak,60.0,0
+Cancelled,2023-01-27,Warm Winter Glow CBD Massage,Diana Ishak,60.0,0
+Cancelled,2023-01-13,Warm Winter Glow CBD Massage,Diana Ishak,60.0,0
+Paid,2023-01-03,Deep Tissue Massage,Lisbet Halvorsen,90.0,165
+Paid,2023-01-03,Swedish Massage,Katie Weed,60.0,105
+Paid,2023-01-03,Deep Tissue Massage,Anna Martin,90.0,165
+Paid,2023-02-03,Deep Tissue Massage,Emily Neer,60.0,115
+Paid,2023-02-03,Hot Stone Massage,Paula Beadle,90.0,165
+Cancelled,2023-01-06,Deep Tissue Massage,Paula Beadle,60.0,0
+Paid,2023-01-06,Deep Tissue Massage,Amanda Kasuboski ,60.0,115
+Cancelled,2023-01-23,Hot Stone Massage,Charlie Novak,90.0,0
+,2023-01-05,Swedish Massage,Sherry Pariser,90.0,145
+,2023-01-05,Foot and Leg Therapy,Sherry Pariser,30.0,75
+Paid,2023-03-03,Swedish Massage,Amy Niemann,90.0,145
+Paid,2023-02-27,Swedish Massage,Amy Niemann,60.0,105
+Paid,2023-02-24,Swedish Massage,Amy Niemann,60.0,105
+Paid,2023-02-20,Swedish Massage,Amy Niemann,60.0,105
+Paid,2023-03-03,Swedish Massage,Emily Smiley,90.0,145
+,2023-01-05,Swedish Massage,Leslie Torres ,60.0,105
+Paid,2023-01-02,Deep Tissue Massage,Jeni Hawkes,60.0,115
+Paid,2023-01-16,Deep Tissue Massage,Sue Bailey,90.0,165
+Cancelled,2023-01-13,Warm Winter Glow CBD Massage,Rebecca Strejc,60.0,0
+Paid,2023-01-23,Deep Tissue Massage,Theona Jundanian,90.0,165
+Paid,2023-01-02,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-01-16,Swedish Massage,Anita Bennett,60.0,105
+Paid,2023-01-06,Himalayan Hot Stone Massage ,Alice Levisay,,165
+Cancelled,2023-03-02,Deep Tissue Massage,Claire Oleary,90.0,0
+Paid,2023-03-10,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-02-24,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-02-10,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-01-27,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-01-13,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-01-16,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2023-01-09,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2023-01-02,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-02-06,Deep Tissue Massage,Chloe Dale ,90.0,0
+Paid,2023-01-02,Deep Tissue Massage,Chloe Dale ,90.0,165
+Cancelled,2023-01-12,Deep Tissue Massage,Abigail Nix,90.0,0
+Paid,2023-01-13,Swedish Massage,Peter Murchie ,60.0,105
+Cancelled,2023-01-06,Swedish Massage,Peter Murchie ,60.0,0
+Cancelled,2023-01-12,Swedish Massage,Add Name,90.0,0
+Paid,2023-01-30,Deep Tissue Massage,Diane Baldi,60.0,115
+Cancelled,2023-04-24,Deep Tissue Massage,Diane Baldi,60.0,0
+Paid,2023-03-13,Deep Tissue Massage,Diane Baldi,60.0,115
+Paid,2022-12-27,Swedish Massage,Carrie Greer,60.0,105
+Paid,2022-12-30,Warm Winter Glow CBD Massage,Diana Ishak,60.0,110
+Paid,2022-12-30,Deep Tissue Massage,Laura Quinn,60.0,115
+,2022-12-23,Back & Shoulder Massage,Erin Walsh,30.0,60
+Paid,2022-12-19,Back & Shoulder Massage,Jeff Trabucco,30.0,60
+Paid,2022-12-27,Swedish Massage,Cynti Oshin,60.0,105
+Cancelled,2022-12-27,Swedish Massage,Cynti Oshin,60.0,0
+Cancelled,2022-12-27,Deep Tissue Massage,Katelyn Simon,60.0,0
+Paid,2022-12-27,Back & Shoulder Massage,Katelyn Simon,30.0,60
+Paid,2022-12-27,Hot Stone Massage,Cheryl Johnson,90.0,165
+Paid,2022-12-15,Swedish Massage,Jenn Nelson,60.0,105
+Cancelled,2022-12-15,Deep Tissue Massage,Kathleen Calkins,90.0,0
+Paid,2022-12-12,Back & Shoulder Massage,Teagan Shepardson,30.0,60
+Paid,2022-12-15,Deep Tissue Massage,Iliana Pacheco,90.0,165
+Paid,2022-12-16,Back & Shoulder Massage,Amanda Kasuboski ,30.0,60
+Paid,2022-12-09,Prenatal Massage,Katie Vreedenburgh,60.0,110
+No Show,2022-12-12,Deep Tissue Massage,Caitlin Kogan ,60.0,0
+Paid,2022-12-08,Swedish Massage,Barbara Michael,60.0,105
+,2022-12-20,Deep Tissue Massage,Kili Jones,90.0,165
+Paid,2022-12-30,Deep Tissue Massage,Jeni Hawkes,60.0,115
+Paid,2022-12-30,Deep Tissue Massage,Jeni Hawkes,60.0,115
+Paid,2023-01-02,Deep Tissue Massage,Jeni Hawkes,60.0,115
+Paid,2022-12-01,Swedish Massage,Natalie Phelps,60.0,105
+Paid,2022-12-15,Deep Tissue Massage,Alexander Riley,60.0,115
+Paid,2022-12-16,Back & Shoulder Massage,Dixie Moore,30.0,60
+Paid,2022-12-09,Back & Shoulder Massage,Dixie Moore,30.0,60
+Paid,2022-12-01,Back & Shoulder Massage,Dixie Moore,30.0,60
+Cancelled,2022-12-08,Warm Winter Glow CBD Massage,Shirley Whitaker,60.0,0
+Cancelled,2022-12-30,Swedish Massage,Nicole Wingfield,90.0,0
+Paid,2022-12-08,Swedish Massage,Brooke Raynor,90.0,145
+Paid,2022-12-15,Deep Tissue Massage,Samantha Olson,60.0,115
+Paid,2022-11-21,Swedish Massage,Stacy Marchesano,90.0,145
+Paid,2022-12-02,Foot and Leg Therapy,Amy Niemann,30.0,75
+Paid,2022-11-28,Warm Winter Glow CBD Massage,Karen Fredrichs,60.0,110
+Cancelled,2022-12-01,Deep Tissue Massage,Alexander Riley,60.0,0
+Paid,2022-12-02,Deep Tissue Massage,Kim Jage,90.0,165
+Cancelled,2022-11-28,Deep Tissue Massage,Alexander Riley,60.0,0
+Paid,2022-12-05,Swedish Massage,Eva Grenier,60.0,105
+Cancelled,2022-12-09,Deep Tissue Massage,Amanda Kasuboski ,90.0,0
+Paid,2022-11-15,Deep Tissue Massage,Amanda Kasuboski ,60.0,115
+Paid,2022-12-20,Swedish Massage,McKenzie Zajonc,60.0,105
+Paid,2022-12-16,Deep Tissue Massage,Diana Ishak,60.0,115
+Cancelled,2022-12-15,Deep Tissue Massage,Emma Sellers,60.0,0
+Paid,2022-11-15,Back & Shoulder Massage,Lia Uhrin,30.0,60
+Paid,2022-12-16,Deep Tissue Massage,Sarah McGee,90.0,165
+Paid,2022-12-05,Swedish Massage,Emily Smiley,90.0,145
+Paid,2022-12-19,Hot Stone Massage,Natalie Gaggini,90.0,165
+Paid,2022-11-21,Swedish Massage,Ashley Wellington Bieschke,60.0,105
+Paid,2022-12-08,Hot Stone Massage,Ella Magal,90.0,165
+Paid,2023-01-02,Deep Tissue Massage,Rachel Evans ,90.0,165
+No Show,2022-12-12,Deep Tissue Massage,Rachel Evans ,90.0,0
+Paid,2022-12-12,Swedish Massage,David Deckers,60.0,105
+Paid,2022-11-15,Deep Tissue Massage,Sean Ambrose,90.0,165
+Paid,2022-11-08,Back & Shoulder Massage,David Simpson,30.0,60
+Paid,2022-11-22,Swedish Massage,Lisa Deen,60.0,105
+Paid,2022-11-22,Swedish Massage,Lisa Deen,60.0,105
+Paid,2022-11-01,Deep Tissue Massage,Angela Stapleton,60.0,115
+Cancelled,2022-12-09,Swedish Massage,MacKenna Lang,90.0,0
+Cancelled,2022-11-15,Signature Aromatherapy Massage,Alicia van Thiel,60.0,0
+Paid,2022-12-05,Swedish Massage,Amy Niemann,90.0,145
+Paid,2022-12-02,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Cancelled,2022-12-01,Warm Winter Glow CBD Massage,Amy Niemann,60.0,0
+Paid,2022-12-01,Swedish Massage,Leslie Torres ,60.0,105
+Paid,2022-11-14,Warm Winter Glow CBD Massage,Alexa Sinclair,60.0,110
+Paid,2022-11-28,Swedish Massage,Nicole Wingfield,90.0,145
+Paid,2022-12-19,Signature Aromatherapy Massage,Kelly Warga,60.0,160
+,2022-12-23,Himalayan Hot Stone Massage ,Mindy Iler,,165
+Paid,2022-12-16,Swedish Massage,Lauren Yarberry,60.0,105
+Paid,2022-12-09,Deep Tissue Massage,Natalie Stephenson,60.0,115
+Cancelled,2022-11-01,Deep Tissue Massage,Ericha Oberg,90.0,0
+Paid,2022-11-11,Swedish Massage,Jen Wallerich,90.0,145
+Paid,2022-11-14,Deep Tissue Massage,Katja Hord,60.0,115
+,2022-12-23,Hot Stone Massage,Sara McCulloch,90.0,165
+Cancelled,2022-12-09,Warm Winter Glow CBD Massage,Shirley Whitaker,60.0,0
+Paid,2022-10-24,Swedish Massage,Eva Grenier,90.0,145
+Cancelled,2022-11-15,Deep Tissue Massage,Diana Ishak,60.0,0
+Paid,2022-10-24,Swedish Massage,Richard Mitchell,60.0,105
+Paid,2022-10-22,Swedish Massage,Jill Trekell,60.0,105
+Paid,2022-10-22,Signature Aromatherapy Massage,Cynthia Adams,60.0,160
+Paid,2022-10-22,Swedish Massage,Kirsten Martel,90.0,145
+Paid,2022-11-14,Swedish Massage,Joan Severson,90.0,145
+Paid,2022-11-22,Deep Tissue Massage,Sue Bailey,90.0,165
+Paid,2022-11-21,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2022-10-21,Back & Shoulder Massage,Jessica Malouf ,30.0,60
+Cancelled,2022-10-14,Deep Tissue Massage,Sarah McGee,60.0,0
+Cancelled,2022-11-21,Back & Shoulder Massage,Laura Hall,30.0,0
+Cancelled,2022-11-08,Deep Tissue Massage,Claire Oleary,60.0,0
+Cancelled,2022-11-08,Signature Aromatherapy Massage,Kelsey Bernert,60.0,0
+Paid,2022-11-08,Swedish Massage,Emily Smiley,90.0,145
+Cancelled,2022-11-08,Deep Tissue Massage,Cindy Law ,90.0,0
+Paid,2022-12-01,Deep Tissue Massage,Jeni Hawkes,90.0,165
+Paid,2022-11-08,Deep Tissue Massage,Jeni Hawkes,90.0,165
+Paid,2022-11-18,Warm Winter Glow CBD Massage,Rebecca Strejc,60.0,110
+Paid,2022-11-01,Swedish Massage,Margaret Bushnell,90.0,145
+Cancelled,2022-11-21,Swedish Massage,Anne Sehm,60.0,0
+Paid,2022-11-18,Swedish Massage,MacKenna Lang,90.0,145
+Paid,2022-11-11,Prenatal Massage,Elizabeth Zaroff,60.0,110
+Paid,2022-10-07,Warm Winter Glow CBD Massage,Rebecca Strejc,60.0,110
+Paid,2022-10-07,Swedish Massage,Margaret Bushnell,90.0,145
+Paid,2022-10-08,Deep Tissue Massage,Karin Luvaas,60.0,115
+Paid,2022-10-31,Cannabis Cure Massage,Cathy Shattuck,60.0,100
+Paid,2022-10-31,Signature Aromatherapy Massage,MacKenna Lang,60.0,160
+Paid,2022-10-08,Deep Tissue Massage,Jeni Hawkes,60.0,115
+Paid,2022-10-08,Cannabis Cure Massage,Marjorie Sherman,60.0,100
+Paid,2022-10-28,Swedish Massage,Nicole Wingfield,90.0,145
+Paid,2022-12-02,Signature Aromatherapy Massage,Sarah Archibald,60.0,160
+Paid,2022-10-28,Deep Tissue Massage,Sarah Archibald,60.0,115
+Cancelled,2022-10-24,Swedish Massage,Kate Cressall,60.0,0
+Paid,2022-11-04,Prenatal Massage,Mallory Hall,60.0,110
+Paid,2022-11-04,Deep Tissue Massage,Amy Niemann,90.0,165
+Paid,2022-10-31,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Cancelled,2022-10-10,Swedish Massage,Diane Henry,60.0,0
+Cancelled,2022-10-24,Swedish Massage,Sarah Wilson ,90.0,0
+Paid,2022-09-26,Swedish Massage,Fran Moyer,60.0,105
+Cancelled,2022-12-30,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2022-12-16,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2022-12-02,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-11-18,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-11-04,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+No Show,2022-12-19,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2022-12-12,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2023-01-02,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2022-12-05,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-11-28,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-11-21,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-11-14,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-11-07,Swedish Massage,Ed Fontecha ,60.0,105
+Paid,2022-10-21,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-10-17,Cannabis Cure Massage,Jeni Hawkes,60.0,100
+Paid,2022-11-11,Deep Tissue Massage,Katherine Baals,60.0,115
+Paid,2022-10-03,Deep Tissue Massage,Michelee Scott,60.0,115
+Paid,2022-09-23,Swedish Massage,Ken Skrien,60.0,105
+Paid,2022-09-30,Deep Tissue Massage,Amanda Kasuboski ,60.0,115
+Cancelled,2022-10-07,Deep Tissue Massage,Margaret Bushnell,60.0,0
+Paid,2022-09-23,Swedish Massage,Joanne Hebert,60.0,105
+Paid,2022-10-17,Hot Stone Massage,Sandra Mehta,90.0,165
+Paid,2022-10-14,Swedish Massage,Ann Morford,60.0,105
+Cancelled,2022-10-14,Swedish Massage,Dana Fisher ,60.0,0
+Cancelled,2022-10-10,Swedish Massage,Add Name,60.0,0
+Cancelled,2022-11-01,Deep Tissue Massage,Kristina Oldani,90.0,0
+Paid,2022-10-14,Deep Tissue Massage,Caitlin Kogan ,60.0,115
+Paid,2022-10-21,Himalayan Hot Stone Massage ,Kelli Koontz ,,165
+Paid,2022-09-16,Deep Tissue Massage,Angela Burkland,60.0,115
+Paid,2022-10-10,Deep Tissue Massage,Emily Smiley,90.0,165
+Cancelled,2022-12-23,Signature Aromatherapy Massage,michelle larson,60.0,0
+Paid,2022-11-28,Signature Aromatherapy Massage,michelle larson,60.0,160
+Cancelled,2022-10-24,Signature Aromatherapy Massage,michelle larson,60.0,0
+Paid,2022-11-07,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2022-10-17,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2023-01-02,Deep Tissue Massage,Chloe Dale ,90.0,165
+Paid,2022-12-12,Prenatal Massage,Chloe Dale ,60.0,110
+Cancelled,2022-11-07,Swedish Massage,Joanne Croghan ,60.0,0
+Paid,2022-10-03,Swedish Massage,Joanne Croghan ,60.0,105
+Paid,2022-09-09,Deep Tissue Massage,Leah Williams,60.0,115
+Paid,2022-09-09,Swedish Massage,Brooke Raynor,90.0,145
+Cancelled,2022-12-30,Hot Stone Massage,Add Name,90.0,0
+Cancelled,2022-12-15,Swedish Massage,Linda Weiss,60.0,0
+Paid,2022-09-09,Deep Tissue Massage,Jeremy Walker,90.0,165
+Paid,2022-09-09,Warm Winter Glow CBD Massage,Linda Marcus,60.0,110
+Paid,2022-09-12,Deep Tissue Massage,Kristina Durickas,60.0,115
+No Show,2022-12-08,Deep Tissue Massage,Abigail Nix,90.0,0
+Paid,2022-10-07,Back & Shoulder Massage,Diana Ishak,30.0,60
+Paid,2022-10-10,Hot Stone Massage,Lia Uhrin,90.0,165
+Paid,2022-10-10,Back & Shoulder Massage,Lia Uhrin,30.0,60
+Paid,2022-09-30,Deep Tissue Massage,Amy Niemann,60.0,115
+Paid,2022-10-21,Deep Tissue Massage,Wiebke Lips,90.0,165
+Paid,2022-10-28,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2022-10-07,Swedish Massage,Peter Murchie ,60.0,105
+Cancelled,2022-12-30,Swedish Massage,Peter Murchie ,60.0,0
+Cancelled,2022-12-23,Swedish Massage,Peter Murchie ,60.0,0
+Cancelled,2022-12-16,Swedish Massage,Peter Murchie ,60.0,0
+Cancelled,2022-12-09,Swedish Massage,Peter Murchie ,60.0,0
+Cancelled,2022-12-02,Swedish Massage,Peter Murchie ,60.0,0
+Paid,2022-11-18,Swedish Massage,Peter Murchie ,60.0,105
+No Show,2022-11-08,Swedish Massage,Peter Murchie ,60.0,0
+Paid,2022-11-04,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2022-10-28,Swedish Massage,Peter Murchie ,60.0,105
+Cancelled,2022-10-21,Swedish Massage,Peter Murchie ,60.0,0
+Paid,2022-10-14,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2022-09-30,Swedish Massage,Peter Murchie ,60.0,105
+Paid,2022-09-26,Deep Tissue Massage,Sarah Wilson ,60.0,115
+Paid,2022-10-31,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-10-24,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-10-17,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-10-10,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-10-03,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-09-26,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2022-10-28,Swedish Massage,Abigail Nix,90.0,0
+Cancelled,2022-09-19,Cannabis Cure Massage,Cara Reinke,60.0,0
+Paid,2022-10-07,Deep Tissue Massage,Derek Stabeleldt,90.0,165
+Cancelled,2022-09-26,Deep Tissue Massage,Fran Moyer,60.0,0
+Cancelled,2022-09-26,Deep Tissue Massage,Add Name,60.0,0
+Paid,2022-09-19,Deep Tissue Massage,Zoe Ottemiller,90.0,165
+Cancelled,2022-09-26,Deep Tissue Massage,Zoe Ottemiller,90.0,0
+Cancelled,2022-12-02,Hot Stone Massage,Darina Zlock,90.0,0
+Paid,2022-09-23,Deep Tissue Massage,Katey Owen,90.0,165
+Paid,2022-09-19,Deep Tissue Massage,Caitlin Kogan ,60.0,115
+Cancelled,2022-10-07,Swedish Massage,Genevieve Pritchard,90.0,0
+Paid,2022-09-12,Deep Tissue Massage,David Hawkins ,60.0,115
+Paid,2022-08-22,Back & Shoulder Massage,Susanne Furner,30.0,60
+Cancelled,2022-09-23,Signature Aromatherapy Massage,Sonja Fritts,60.0,0
+Cancelled,2022-08-15,Back & Shoulder Massage,Amy Niemann,30.0,0
+Paid,2022-08-15,Deep Tissue Massage,Heather Crawford,60.0,115
+Cancelled,2022-08-22,Back & Shoulder Massage,Jill Colley,30.0,0
+Paid,2022-08-15,Deep Tissue Massage,Amy Niemann,60.0,115
+Paid,2022-08-12,Deep Tissue Massage,Jessica Malouf ,90.0,165
+Paid,2022-08-12,Deep Tissue Massage,Brianna Schoeneman,90.0,165
+Paid,2022-09-12,Swedish Massage,McKenna Lang,60.0,105
+Paid,2022-08-22,Deep Tissue Massage,William Fletcher,90.0,165
+Paid,2022-09-05,Swedish Massage,Merilee Mostov ,90.0,145
+Paid,2022-09-19,Deep Tissue Massage,Kristina Oldani,90.0,165
+Cancelled,2022-09-12,Back & Shoulder Massage,Diana Ishak,30.0,0
+Cancelled,2022-09-30,Deep Tissue Massage,Brian Tinney,60.0,0
+Paid,2022-09-30,Warm Winter Glow CBD Massage,NIKKI WHEELER,60.0,110
+Paid,2022-08-05,Back & Shoulder Massage,Jackie Muth,30.0,60
+Paid,2022-08-29,Swedish Massage,Marta Gattis,60.0,105
+Paid,2022-08-06,Back & Shoulder Massage,Lizzie Berg,30.0,60
+Cancelled,2022-08-05,Back & Shoulder Massage,Lizzie Berg,30.0,0
+Paid,2022-09-05,Deep Tissue Massage,Mary Jensen,90.0,165
+Paid,2022-10-03,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2022-08-08,Deep Tissue Massage,Claire Nitsche,60.0,115
+Paid,2022-08-05,Warm Winter Glow CBD Massage,Amy Niemann,60.0,110
+Paid,2022-09-16,Deep Tissue Massage,Autumn Salamack,60.0,115
+Paid,2022-09-23,Deep Tissue Massage,Lisa Wood,90.0,165
+Paid,2022-08-06,Swedish Massage,Joanne Croghan ,60.0,105
+Paid,2022-08-06,Prenatal Massage,Kayla Holbeck ,60.0,110
+Paid,2022-08-06,Deep Tissue Massage,Phyllis Carlyle,60.0,115
+Paid,2022-08-06,Swedish Massage,Theresa Jacobs,60.0,105
+Paid,2022-09-05,Deep Tissue Massage,Wendy Tyner,90.0,165
+Cancelled,2022-08-26,Back & Shoulder Massage,Christina Graves,30.0,0
+Paid,2022-08-01,Deep Tissue Massage,Angela Burkland,60.0,115
+Paid,2022-07-29,Deep Tissue Massage,Wendy Tyner,90.0,165
+Paid,2022-07-29,Swedish Massage,Chloe Angus-Tibbetts,90.0,145
+Cancelled,2022-07-29,Deep Tissue Massage,Laura Moses,60.0,0
+Cancelled,2022-09-09,Hot Stone Massage,Ella Magal,90.0,0
+Paid,2022-07-29,Swedish Massage,Katie Blaszkiewicz,60.0,105
+Paid,2022-07-29,Deep Tissue Massage,Anne Decker,60.0,115
+Paid,2022-07-25,Deep Tissue Massage,Xuan Vu,60.0,115
+Cancelled,2022-09-16,Swedish Massage,Suzanne Cates,60.0,0
+Paid,2022-08-29,Swedish Massage,Karen Booth,90.0,145
+Paid,2022-08-22,Swedish Massage,Stephanie Jackson,90.0,145
+Cancelled,2022-09-09,Deep Tissue Massage,Abigail Nix,90.0,0
+Paid,2022-09-09,Swedish Massage,Joanne Croghan ,60.0,105
+Paid,2022-07-22,Deep Tissue Massage,Pam Burdick,60.0,115
+Paid,2022-07-15,Deep Tissue Massage,Rebecca Pope,60.0,115
+Cancelled,2022-08-26,Swedish Massage,Peter Murchie ,60.0,0
+Paid,2022-07-22,Warm Winter Glow CBD Massage,Sterling Mackinnon,60.0,110
+Paid,2022-07-18,Back & Shoulder Massage,Deborah Weisman,30.0,60
+Paid,2022-07-16,Swedish Massage,Jenna McDonald ,60.0,105
+Paid,2022-07-15,Back & Shoulder Massage,Caitlin Zuchero,30.0,60
+Paid,2022-08-19,Deep Tissue Massage,Caitlin Kogan ,60.0,115
+No Show,2022-07-25,Swedish Massage,Jen Wallerich,60.0,0
+Cancelled,2022-07-11,Deep Tissue Massage,Lynda Fredrickson ,90.0,0
+Cancelled,2022-09-23,Signature Aromatherapy Massage,Kelli Koontz ,60.0,0
+Paid,2022-08-19,Signature Aromatherapy Massage,Kelli Koontz ,60.0,160
+Cancelled,2022-10-14,Deep Tissue Massage,Brenda Bannon,90.0,0
+Cancelled,2022-08-15,Swedish Massage,Phyllis Carlyle,60.0,0
+Paid,2022-07-09,Swedish Massage,Annika Hughes,60.0,105
+Paid,2022-07-09,Swedish Massage,Stephen Huizing,60.0,105
+Paid,2022-07-09,Deep Tissue Massage,Phyllis Carlyle,60.0,115
+Cancelled,2022-07-09,Prenatal Massage,Kayla Holbeck ,60.0,0
+Cancelled,2022-07-08,Swedish Massage,Annika Hughes,60.0,0
+Paid,2022-08-26,Swedish Massage,Laura Quinn,60.0,105
+Cancelled,2022-07-15,Himalayan Hot Stone Massage ,Peggy Dewar,,0
+Cancelled,2022-07-29,Warm Winter Glow CBD Massage,Kelly Shields,60.0,0
+Cancelled,2022-08-08,Prenatal Massage,Jena Winger ,60.0,0
+Cancelled,2022-08-26,Prenatal Massage,Hannah Oshin,60.0,0
+Paid,2022-09-12,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2022-08-29,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2022-08-15,Deep Tissue Massage,Rachel Evans ,90.0,165
+Cancelled,2022-11-11,Deep Tissue Massage,Michelee Scott,90.0,0
+Cancelled,2022-10-07,Deep Tissue Massage,Michelee Scott,90.0,0
+Paid,2022-08-12,Hot Stone Massage,Marlen Allen ,90.0,165
+Cancelled,2022-09-09,Deep Tissue Massage,Michelee Scott,90.0,0
+Cancelled,2022-08-01,Deep Tissue Massage,Angela Burkland,60.0,0
+Cancelled,2022-08-05,Deep Tissue Massage,Autumn Salamack,60.0,0
+Paid,2022-07-01,Swedish Massage,Genevieve Pritchard,60.0,105
+Cancelled,2022-07-29,Back & Shoulder Massage,Dixie Moore,30.0,0
+No Show,2022-08-05,Swedish Massage,David Hawkins ,60.0,0
+Paid,2022-08-01,Deep Tissue Massage,Mary Jensen,90.0,165
+Cancelled,2022-08-12,Swedish Massage,Raymond Conners,90.0,0
+Cancelled,2022-07-22,Deep Tissue Massage,Randal Eckert,60.0,0
+Paid,2022-06-24,Deep Tissue Massage,DAWN Cole,60.0,115
+Paid,2022-08-08,Deep Tissue Massage,Susan Ottemiller,60.0,115
+Cancelled,2022-07-15,Back & Shoulder Massage,Diana Ishak,30.0,0
+Paid,2022-06-24,Back & Shoulder Massage,Diana Ishak,30.0,60
+Cancelled,2022-07-29,Swedish Massage,Andrea  Peck,60.0,0
+Paid,2022-08-01,Deep Tissue Massage,Rachel Evans ,90.0,165
+Paid,2022-07-16,Swedish Massage,Tiffany Thielman,90.0,145
+Paid,2022-08-29,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2022-08-22,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2022-08-15,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+No Show,2022-08-08,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2022-08-01,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-06-17,Deep Tissue Massage,Wiebke Lips,90.0,165
+Paid,2022-07-18,Swedish Massage,Mikel Durham ,60.0,105
+Paid,2022-09-16,Deep Tissue Massage,Brenda Bannon,90.0,165
+Cancelled,2022-08-12,Deep Tissue Massage,Brenda Bannon,90.0,0
+Paid,2022-08-05,Deep Tissue Massage,Brian Tinney,60.0,115
+Paid,2022-07-16,Swedish Massage,Tracey Langley,90.0,145
+Paid,2022-08-08,Swedish Massage,Kristina Oldani,90.0,145
+Paid,2022-06-10,Deep Tissue Massage,Cindy Shea,60.0,115
+Paid,2022-06-11,Deep Tissue Massage,Malea Brunner,60.0,115
+Paid,2022-07-15,Swedish Massage,Brooke Raynor,90.0,145
+Paid,2022-08-26,Deep Tissue Massage,Realm Lovejoy,60.0,115
+Cancelled,2022-07-29,Deep Tissue Massage,Jessica Anderson ,90.0,0
+Cancelled,2022-07-22,Deep Tissue Massage,Ariel Ehrlich,90.0,0
+Paid,2022-06-03,Deep Tissue Massage,Kellie Eickmeyer,60.0,115
+Cancelled,2022-07-25,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2022-07-18,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-07-16,Back & Shoulder Massage,Marie Matty,30.0,60
+Cancelled,2022-06-11,Deep Tissue Massage,Wiebke Lips,90.0,0
+Cancelled,2022-06-11,Swedish Massage,JoAnn Cartwright,60.0,0
+Paid,2022-07-25,Deep Tissue Massage,Sherrill Conner,60.0,115
+No Show,2022-06-03,Swedish Massage,Jane Davis,60.0,0
+Paid,2022-10-28,Deep Tissue Massage,Vivek Balakrishnan,60.0,115
+Cancelled,2022-10-14,Deep Tissue Massage,Vivek Balakrishnan,60.0,0
+No Show,2022-09-30,Deep Tissue Massage,Vivek Balakrishnan,60.0,0
+Cancelled,2022-09-16,Deep Tissue Massage,Vivek Balakrishnan,60.0,0
+Cancelled,2022-09-02,Deep Tissue Massage,Vivek Balakrishnan,60.0,0
+Cancelled,2022-08-05,Deep Tissue Massage,Vivek Balakrishnan,60.0,0
+Paid,2022-07-22,Deep Tissue Massage,Vivek Balakrishnan,60.0,115
+Paid,2022-07-22,Deep Tissue Massage,Dean Nance,90.0,165
+Cancelled,2022-07-29,Prenatal Massage,Jena Winger ,60.0,0
+Paid,2022-07-22,Prenatal Massage,Jena Winger ,60.0,110
+Paid,2022-05-21,Deep Tissue Massage,Dean Nance,90.0,165
+Paid,2022-07-11,Swedish Massage,Caitlin Kogan ,60.0,105
+Paid,2022-05-20,Deep Tissue Massage,Melanie Smith,60.0,115
+Paid,2022-08-12,Swedish Massage,Laurie Maltman,90.0,145
+Paid,2022-07-11,Swedish Massage,Rachel Evans ,90.0,145
+Cancelled,2022-06-10,Back & Shoulder Massage,Diana Ishak,30.0,0
+Paid,2022-07-18,Warm Winter Glow CBD Massage,Marjorie Sherman,60.0,110
+Paid,2022-08-19,Swedish Massage,Brooke Raynor,90.0,145
+Paid,2022-08-05,Swedish Massage,Brooke Raynor,60.0,105
+Cancelled,2022-05-21,Swedish Massage,Add Name,60.0,0
+No Show,2022-07-15,Deep Tissue Massage,Peter Murchie ,60.0,0
+Paid,2022-06-03,Deep Tissue Massage,Peter Murchie ,60.0,115
+Cancelled,2022-06-24,Deep Tissue Massage,Jennifer Stockton ,60.0,0
+Paid,2022-05-13,Deep Tissue Massage,Wiebke Lips,90.0,165
+Cancelled,2022-07-18,Deep Tissue Massage,Rebecca Smith,60.0,0
+Paid,2022-07-09,Deep Tissue Massage,Brenda Bannon,90.0,165
+Cancelled,2022-07-18,Swedish Massage,ziggy kopetti,60.0,0
+Cancelled,2022-07-29,Deep Tissue Massage,Lauren Yarberry,60.0,0
+Paid,2022-07-09,Deep Tissue Massage,Lauren Yarberry,60.0,115
+Paid,2022-06-17,Swedish Massage,Lauren Yarberry,60.0,105
+,2022-07-08,Deep Tissue Massage,Joanna Garritano Roger (dont use),90.0,165
+Cancelled,2022-07-08,Swedish Massage,Laura Quinn,60.0,0
+Paid,2022-08-19,Deep Tissue Massage,Brenda Huson,90.0,165
+Paid,2022-07-25,Deep Tissue Massage,Brenda Huson,90.0,165
+Paid,2022-06-24,Deep Tissue Massage,Brenda Huson,90.0,165
+Cancelled,2022-04-30,Swedish Massage,Add Name,60.0,0
+Paid,2022-05-07,Foot and Leg Therapy,Abbey Lowry,30.0,75
+Paid,2022-06-24,Deep Tissue Massage,Daniel McKeon,90.0,165
+Paid,2022-04-30,Foot and Leg Therapy,Jenny Hudak,30.0,75
+Cancelled,2022-08-22,Deep Tissue Massage,Ty Cramer,90.0,0
+Cancelled,2022-07-25,Deep Tissue Massage,Ty Cramer,90.0,0
+Paid,2022-07-15,Deep Tissue Massage,Ty Cramer,90.0,165
+Cancelled,2022-06-24,Swedish Massage,Jennifer Waldron,60.0,0
+Cancelled,2022-06-17,Deep Tissue Massage,Alexandra  Costin,60.0,0
+Paid,2022-06-17,Prenatal Massage,Angela Burkland,60.0,110
+Paid,2022-04-23,Prenatal Massage,Laura Morgan,60.0,110
+Paid,2022-04-22,Swedish Massage,Leann Mullender,60.0,105
+Paid,2022-04-23,Foot and Leg Therapy,Kevin Flanagan,30.0,75
+Cancelled,2022-07-25,Swedish Massage,Rebecca Strejc,60.0,0
+Paid,2022-06-17,Swedish Massage,Rebecca Strejc,60.0,105
+Paid,2022-05-07,Back & Shoulder Massage,Casey DeGolia ,30.0,60
+Paid,2022-04-23,Back & Shoulder Massage,Kimberly Peraltra,30.0,60
+No Show,2022-04-25,Back & Shoulder Massage,Erin Phillips,30.0,0
+Cancelled,2022-06-17,Deep Tissue Massage,Ella Irwin,90.0,0
+Paid,2022-04-29,Deep Tissue Massage,Sue Bailey,90.0,165
+Cancelled,2022-04-23,Deep Tissue Massage,Ryan Moore,90.0,0
+Cancelled,2022-05-28,Swedish Massage,Meredyth Yund,90.0,0
+Paid,2022-04-22,Deep Tissue Massage,Carey Olson-Findley,60.0,115
+Cancelled,2022-04-23,Back & Shoulder Massage,Dana Myers,30.0,0
+Cancelled,2022-07-01,Deep Tissue Massage,Vivek Balakrishnan,60.0,0
+No Show,2022-06-17,Deep Tissue Massage,Vivek Balakrishnan,60.0,0
+Paid,2022-06-11,Deep Tissue Massage,Vivek Balakrishnan,60.0,115
+Paid,2022-04-23,Deep Tissue Massage,Vivek Balakrishnan,60.0,115
+Paid,2022-04-23,Cannabis Cure Massage,Al Pascual,60.0,100
+Paid,2022-04-15,Deep Tissue Massage,Sathya R,60.0,115
+Paid,2022-04-22,Deep Tissue Massage,Emily Wooton,60.0,115
+Paid,2022-04-16,Back & Shoulder Massage,Diana Ishak,30.0,60
+Paid,2022-04-18,Swedish Massage,Kindra Brownlee,60.0,105
+Paid,2022-04-18,Himalayan Hot Stone Massage ,Stephanie Tuttle,,165
+Paid,2022-04-18,Himalayan Hot Stone Massage ,Laura Frazier,,165
+Paid,2022-04-22,Deep Tissue Massage,Erin Richmond,60.0,115
+Paid,2022-04-22,Deep Tissue Massage,Pontea Smithson,90.0,165
+Paid,2022-06-10,Deep Tissue Massage,Brian Tinney,60.0,115
+Cancelled,2022-07-11,Deep Tissue Massage,Susan Ottemiller,90.0,0
+Paid,2022-07-01,Deep Tissue Massage,Mary Jensen,90.0,165
+Paid,2022-06-03,Deep Tissue Massage,Mary Jensen,90.0,165
+Cancelled,2022-04-11,Deep Tissue Massage,Diane Baldi,,0
+Cancelled,2022-08-08,Swedish Massage,Diana Cohen,90.0,0
+Paid,2022-06-10,Deep Tissue Massage,Kristina Oldani,90.0,165
+Paid,2022-04-09,Deep Tissue Massage,Susan Ottemiller,90.0,165
+Paid,2022-04-16,Swedish Massage,Jessica Trujillo,90.0,145
+Paid,2022-06-03,Deep Tissue Massage,Realm Lovejoy,60.0,115
+Cancelled,2022-07-15,Swedish Massage,Add Name,90.0,0
+Paid,2022-07-01,Swedish Massage,April Musselman,90.0,145
+Cancelled,2022-05-21,Deep Tissue Massage,Leah Williams,60.0,0
+Paid,2022-06-10,Hot Stone Massage,Amy Heyneman,90.0,165
+Paid,2022-05-13,Deep Tissue Massage,Jennifer Stockton ,60.0,115
+No Show,2022-05-20,Cannabis Cure Massage,Isabelle Cloward,60.0,0
+Paid,2022-06-24,Swedish Massage,Raymond Conners,90.0,145
+Paid,2022-04-01,Deep Tissue Massage,Stephanie Farquhar,60.0,115
+Cancelled,2022-06-10,Deep Tissue Massage,Margaret Bushnell,90.0,0
+Paid,2022-04-08,Deep Tissue Massage,Annalisa Sanchez,90.0,165
+Paid,2022-04-29,Swedish Massage,Ashley Schumaucher,60.0,105
+Cancelled,2022-04-09,Swedish Massage,Judith Scott,60.0,0
+Cancelled,2022-05-02,Swedish Massage,Kathleen Calkins,90.0,0
+Cancelled,2022-05-09,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Cancelled,2022-05-20,Warm Winter Glow CBD Massage,Tara Moyer,60.0,0
+Paid,2022-05-20,Deep Tissue Massage,Kimberly Peraltra,90.0,165
+Paid,2022-04-02,Deep Tissue Massage,Jennifer Stockton ,60.0,115
+Paid,2022-03-26,Deep Tissue Massage,Gena Wellman,60.0,115
+Paid,2022-03-26,Swedish Massage,Julia Fiorito,60.0,105
+Paid,2022-05-13,Swedish Massage,Diane Pohl,90.0,145
+Paid,2022-03-25,Back & Shoulder Massage,Elizabeth Barsotti,30.0,60
+No Show,2022-05-20,Deep Tissue Massage,Shannon Admire,60.0,0
+Paid,2022-04-04,Back & Shoulder Massage,Susanne Lindsley,30.0,60
+Paid,2022-05-06,Swedish Massage,Lara Sisco,60.0,105
+Cancelled,2022-04-29,Deep Tissue Massage,Margaret Bushnell,60.0,0
+Cancelled,2022-05-21,Cannabis Cure Massage,Rajlaxmi Bais,60.0,0
+Paid,2022-06-11,Swedish Massage,Mikel Durham ,60.0,105
+Cancelled,2022-05-09,Swedish Massage,Mikel Durham ,60.0,0
+Paid,2022-04-25,Swedish Massage,Mikel Durham ,60.0,105
+Paid,2022-04-30,Swedish Massage,Ashley Moore,60.0,105
+Cancelled,2022-03-26,Deep Tissue Massage,Dana Monson,60.0,0
+Cancelled,2022-03-19,Deep Tissue Massage,Sathya R,60.0,0
+Cancelled,2022-05-27,Deep Tissue Massage,Todd Vogel,60.0,0
+Paid,2022-05-13,Deep Tissue Massage,Todd Vogel,60.0,115
+Paid,2022-04-29,Deep Tissue Massage,Todd Vogel,60.0,115
+Paid,2022-03-28,Deep Tissue Massage,Todd Vogel,60.0,115
+Paid,2022-04-29,Swedish Massage,Karen Booth,90.0,145
+Paid,2022-04-15,Deep Tissue Massage,Margaret Bushnell,60.0,115
+Paid,2022-03-21,Back & Shoulder Massage,Jill Corral,30.0,60
+Paid,2022-03-28,Deep Tissue Massage,Aaryn Olesen,60.0,115
+Cancelled,2022-03-26,Deep Tissue Massage,Chelsea Kellogg,60.0,0
+Cancelled,2022-03-26,Swedish Massage,Lisa Bono ,60.0,0
+Paid,2022-03-25,Deep Tissue Massage,Julie Hanafin ,60.0,115
+Paid,2022-06-11,Swedish Massage,Brenda Bannon,90.0,145
+Paid,2022-05-07,Deep Tissue Massage,Brenda Bannon,90.0,165
+Paid,2022-04-08,Swedish Massage,Brenda Bannon,60.0,105
+Paid,2022-03-14,Deep Tissue Massage,Brenda Bannon,90.0,165
+Paid,2022-03-12,Swedish Massage,Sonya Hubbard,90.0,145
+Paid,2022-03-12,Deep Tissue Massage,Janel Bedell,90.0,165
+Paid,2022-04-01,Swedish Massage,Gabe Kosowitz,60.0,105
+Paid,2022-03-11,Deep Tissue Massage,Brianna Schoeneman,90.0,165
+Paid,2022-05-06,Swedish Massage,Rebecca Strejc,90.0,145
+Cancelled,2022-04-08,Swedish Massage,Rebecca Strejc,90.0,0
+Paid,2022-05-21,Hot Stone Massage,Kari Wetzler,90.0,165
+Paid,2022-03-25,Cannabis Cure Massage,Marjorie Sherman,60.0,100
+Paid,2022-05-06,Deep Tissue Massage,ziggy kopetti,60.0,115
+Paid,2022-03-12,Deep Tissue Massage,Janyce Fink ,60.0,115
+Paid,2022-03-05,Deep Tissue Massage,Erin Isley ,90.0,165
+Paid,2022-04-25,Swedish Massage,Megan Keaty,60.0,105
+Paid,2022-04-04,Deep Tissue Massage,Susan Haines,90.0,165
+Paid,2022-04-04,Swedish Massage,Liz Joss,90.0,145
+Cancelled,2022-06-11,Swedish Massage,Add Name,60.0,0
+Paid,2022-04-30,Hot Stone Massage,James Bigbee,90.0,165
+No Show,2022-04-15,Swedish Massage,Shawna Ferrell,60.0,0
+Cancelled,2022-05-07,Back & Shoulder Massage,Gabrielle Ruiz,30.0,0
+Paid,2022-03-26,Back & Shoulder Massage,Gabrielle Ruiz,30.0,60
+Paid,2022-03-12,Back & Shoulder Massage,Gabrielle Ruiz,30.0,60
+Paid,2022-02-25,Deep Tissue Massage,Malea Brunner,60.0,115
+Paid,2022-04-15,Deep Tissue Massage,Wiebke Lips,90.0,165
+Paid,2022-02-26,Back & Shoulder Massage,Gabrielle Ruiz,30.0,60
+Paid,2022-02-25,Deep Tissue Massage,Andrea Bernadt,90.0,165
+Cancelled,2022-04-15,Deep Tissue Massage,Kate Dangers,60.0,0
+Cancelled,2022-03-14,Swedish Massage,Janyce Fink ,60.0,0
+Cancelled,2022-05-07,Swedish Massage,Add Name,60.0,0
+Paid,2022-04-01,Swedish Massage,Raymond Conners,90.0,145
+Cancelled,2022-03-28,Deep Tissue Massage,Susanne Lindsley,90.0,0
+Paid,2022-02-28,Back & Shoulder Massage,Keith Laverty,30.0,60
+Paid,2022-03-28,Swedish Massage,Kathleen Calkins,90.0,145
+Cancelled,2022-05-02,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2022-04-25,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-04-11,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-04-04,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-03-21,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2022-04-16,Deep Tissue Massage,Felicia Klabo,60.0,0
+Cancelled,2022-02-28,Deep Tissue Massage,Stephanie Farquhar,60.0,0
+Paid,2022-04-02,Swedish Massage,Jacqueline (jackie) Brasefield,60.0,105
+Paid,2022-03-21,Prenatal Massage,Allison Brock,60.0,110
+Cancelled,2022-03-25,Swedish Massage,Diane Pohl,90.0,0
+Paid,2022-03-25,Swedish Massage,Todd Vogel,60.0,105
+Paid,2022-04-16,Deep Tissue Massage,Melody Maleitzke,60.0,115
+Paid,2022-02-19,Deep Tissue Massage,Erin Herman Kerwin,60.0,115
+Paid,2022-03-19,Swedish Massage,Jennifer Spradling,60.0,105
+No Show,2022-03-21,Swedish Massage,Tina Pujolar ,90.0,0
+Cancelled,2022-02-28,Deep Tissue Massage,Diane Baldi,,0
+Paid,2022-04-11,Deep Tissue Massage,Brian Tinney,60.0,115
+Paid,2022-04-01,Hot Stone Massage,Meghan McKnight,90.0,165
+Paid,2022-04-08,Swedish Massage,Kristina Oldani,90.0,145
+Paid,2022-02-18,Cannabis Cure Massage,Lisa Bono ,60.0,100
+Cancelled,2022-04-01,Swedish Massage,Lisa Bono ,90.0,0
+Paid,2022-04-08,Deep Tissue Massage,Meredyth Yund,90.0,165
+Cancelled,2022-02-28,Swedish Massage,Charlie Novak,60.0,0
+Paid,2022-06-04,Swedish Massage,Brooke Raynor,90.0,145
+Paid,2022-05-14,Swedish Massage,Brooke Raynor,60.0,105
+Paid,2022-04-30,Swedish Massage,Brooke Raynor,60.0,105
+Paid,2022-04-09,Swedish Massage,Brooke Raynor,90.0,145
+Paid,2022-03-26,Swedish Massage,Brooke Raynor,60.0,105
+Paid,2022-02-12,Back & Shoulder Massage,Ryan Hough,30.0,60
+Cancelled,2022-04-01,Hot Stone Massage,Meghan McKnight,90.0,0
+Cancelled,2022-04-15,Back & Shoulder Massage,Kathie Barbaro,30.0,0
+Paid,2022-04-01,Back & Shoulder Massage,Kathie Barbaro,30.0,60
+Paid,2022-03-14,Back & Shoulder Massage,Kathie Barbaro,30.0,60
+Cancelled,2022-02-11,Back & Shoulder Massage,Kathie Barbaro,30.0,0
+Paid,2022-02-11,Swedish Massage,Laura Quinn,60.0,105
+Cancelled,2022-03-26,Deep Tissue Massage,Marie Gensler,90.0,0
+Paid,2022-03-18,Deep Tissue Massage,Angie Emerson,60.0,115
+Paid,2022-04-09,Deep Tissue Massage,Mary Jensen,90.0,165
+Cancelled,2022-03-14,Foot and Leg Therapy,Susan Barron,30.0,0
+Paid,2022-03-11,Deep Tissue Massage,Erin Isley ,90.0,165
+Paid,2022-02-18,Deep Tissue Massage,Erin Isley ,60.0,115
+Paid,2022-02-25,Swedish Massage,Kristine Jimenez,90.0,145
+Paid,2022-05-14,Swedish Massage,Ginny Genco,60.0,105
+Paid,2022-05-14,Swedish Massage,Ginny Genco,60.0,105
+Paid,2022-02-07,Deep Tissue Massage,Angie Funtanilla,60.0,115
+Cancelled,2022-03-14,Deep Tissue Massage,Susan Ottemiller,90.0,0
+Paid,2022-02-12,Deep Tissue Massage,Kate Hough,60.0,115
+Paid,2022-03-18,Cannabis Cure Massage,Alivia Wheaton,60.0,100
+Cancelled,2022-04-25,Swedish Massage,April Avrain,60.0,0
+Paid,2022-03-07,Back & Shoulder Massage,April Avrain,30.0,60
+Cancelled,2022-06-10,Swedish Massage,Claire Oleary,90.0,0
+Cancelled,2022-05-16,Deep Tissue Massage,Leann Mullender,60.0,0
+Paid,2022-02-11,Back & Shoulder Massage,Kathie Barbaro,30.0,60
+Paid,2022-03-11,Deep Tissue Massage,Dean Nance,90.0,165
+Paid,2022-03-26,Deep Tissue Massage,Mary Jensen,90.0,165
+Paid,2022-03-25,Swedish Massage,Greta Stough,90.0,145
+Paid,2022-04-02,Swedish Massage,Maggie Mae,90.0,145
+Paid,2022-03-07,Swedish Massage,Rebecca Strejc,90.0,145
+Paid,2022-01-28,Deep Tissue Massage,Mary Jensen,60.0,115
+Paid,2022-02-28,Deep Tissue Massage,Larry Chin,60.0,115
+Cancelled,2022-06-04,Swedish Massage,jennifer lynch,60.0,0
+Paid,2022-03-04,Swedish Massage,Natalie Stephenson,60.0,105
+Cancelled,2022-02-18,Warm Winter Glow CBD Massage,Diana Ishak,60.0,0
+Cancelled,2022-04-09,Swedish Massage,Add Name,60.0,0
+Paid,2022-03-05,Deep Tissue Massage,Karin Luvaas,60.0,115
+Cancelled,2022-02-07,Deep Tissue Massage,Diana Wang,90.0,0
+Paid,2022-03-18,Hot Stone Massage,Jane Smit ,90.0,165
+Paid,2022-02-25,Swedish Massage,Andrea  Peck,60.0,105
+Paid,2022-01-31,Back & Shoulder Massage,Yuxin Bi,30.0,60
+Cancelled,2022-04-30,Deep Tissue Massage,Kelly Warga,90.0,0
+Cancelled,2022-03-19,Swedish Massage,Kelly Warga,90.0,0
+Paid,2022-03-19,Deep Tissue Massage,Ingela Pezzolesi,90.0,165
+Paid,2022-02-21,Cannabis Cure Massage,Larissa Ramos,60.0,100
+Paid,2022-02-25,Swedish Massage,Trina Tanner,60.0,105
+Cancelled,2022-03-12,Deep Tissue Massage,Lori Marten,90.0,0
+Cancelled,2022-02-25,Deep Tissue Massage,Katherine Iverson,90.0,0
+Cancelled,2022-05-27,Deep Tissue Massage,Peter Murchie ,60.0,0
+Paid,2022-05-20,Deep Tissue Massage,Peter Murchie ,60.0,115
+Paid,2022-05-13,Deep Tissue Massage,Peter Murchie ,60.0,115
+Paid,2022-05-06,Deep Tissue Massage,Peter Murchie ,60.0,115
+Paid,2022-04-29,Deep Tissue Massage,Peter Murchie ,60.0,115
+Cancelled,2022-04-22,Deep Tissue Massage,Peter Murchie ,60.0,0
+Paid,2022-04-15,Deep Tissue Massage,Peter Murchie ,60.0,115
+Paid,2022-03-18,Deep Tissue Massage,Peter Murchie ,60.0,115
+Paid,2022-03-04,Deep Tissue Massage,Peter Murchie ,60.0,115
+Paid,2022-02-18,Deep Tissue Massage,Peter Murchie ,60.0,115
+Paid,2022-02-18,Signature Aromatherapy Massage,Patricia Robinson,60.0,160
+Paid,2022-01-21,Deep Tissue Massage,Julie Gardner,60.0,115
+Paid,2022-02-18,Deep Tissue Massage,Wiebke Lips,90.0,165
+Cancelled,2022-02-18,Deep Tissue Massage,Julie Gardner,90.0,0
+Cancelled,2022-02-11,Swedish Massage,Laura Quinn,60.0,0
+Cancelled,2022-02-12,Foot and Leg Therapy,Susan Barron,30.0,0
+Cancelled,2022-02-11,Signature Aromatherapy Massage,Susan Barron,60.0,0
+Paid,2022-01-31,Swedish Massage,Sandra Earl,60.0,105
+Paid,2022-02-21,Swedish Massage,Felicia Garrett,90.0,145
+Paid,2022-02-14,Swedish Massage,Erin Walsh,90.0,145
+No Show,2022-02-07,Deep Tissue Massage,Jennifer Stockton ,90.0,0
+Paid,2022-02-21,Deep Tissue Massage,Kathleen Calkins,90.0,165
+Cancelled,2022-02-07,Cannabis Cure Massage,Debbie McDonald,60.0,0
+Cancelled,2022-04-16,Swedish Massage,Rajlaxmi Bais,90.0,0
+Paid,2022-03-19,Cannabis Cure Massage,Rajlaxmi Bais,60.0,100
+Paid,2022-05-21,Swedish Massage,Patty Velasquez,60.0,105
+Paid,2022-03-11,Swedish Massage,Brianna Schoeneman,60.0,105
+Paid,2022-01-21,Back & Shoulder Massage,Stephanie Farquhar,30.0,60
+Paid,2022-02-04,Back & Shoulder Massage,April Avrain,30.0,60
+Paid,2022-01-17,Deep Tissue Massage,Diana Wang,60.0,115
+Paid,2022-02-11,Swedish Massage,Jen Wallerich,90.0,145
+Paid,2022-02-12,Signature Aromatherapy Massage,Ashley Jackson,60.0,160
+Paid,2022-03-07,Signature Aromatherapy Massage,Sarah Rieth,60.0,160
+Paid,2022-03-04,Deep Tissue Massage,Erin Isley ,60.0,115
+Paid,2022-02-11,Deep Tissue Massage,Erin Isley ,90.0,165
+Paid,2022-01-14,Back & Shoulder Massage,Megan Dimotakis,30.0,60
+Cancelled,2022-02-12,Deep Tissue Massage,Genevieve Pritchard,60.0,0
+Paid,2022-01-28,Back & Shoulder Massage,Diana Ishak,30.0,60
+Paid,2022-03-04,Deep Tissue Massage,ziggy kopetti,90.0,165
+Paid,2022-01-10,Deep Tissue Massage,Kelly MacDonald,60.0,115
+Cancelled,2022-02-26,Swedish Massage,Christina Grazes,60.0,0
+Cancelled,2022-02-04,Swedish Massage,Christina Grazes,60.0,0
+Paid,2022-02-11,Swedish Massage,Andrew Metzler,60.0,105
+Cancelled,2022-02-04,Swedish Massage,Andrew Metzler,60.0,0
+Paid,2022-01-07,Back & Shoulder Massage,Diana Ishak,30.0,60
+Cancelled,2022-02-25,Deep Tissue Massage,Amanda Sageser,90.0,0
+Paid,2022-03-28,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2022-03-14,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,0
+Paid,2022-02-28,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-02-26,Hot Stone Massage,Kaley Elder,90.0,165
+No Show,2022-02-19,Deep Tissue Massage,Catherine Gutowski,90.0,0
+Paid,2022-01-08,Cannabis Cure Massage,Jacquelyn Knapp,60.0,100
+Cancelled,2022-02-07,Deep Tissue Massage,Erin Isley ,90.0,0
+Cancelled,2022-02-04,Swedish Massage,Wendy Wright,60.0,0
+Paid,2022-02-19,Swedish Massage,Terra Claiborne,60.0,105
+Paid,2022-02-04,Cannabis Cure Massage,Kelly Shields,60.0,100
+Paid,2022-02-21,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-02-07,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-01-31,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Paid,2022-02-05,Deep Tissue Massage,Mason Green,60.0,115
+Paid,2022-03-07,Deep Tissue Massage,Chloe Dale ,90.0,165
+Paid,2022-01-24,Deep Tissue Massage,Cheryl Gibson,60.0,115
+Paid,2022-02-04,Cannabis Cure Massage,Alivia Wheaton,60.0,100
+Cancelled,2022-01-17,Deep Tissue Massage,Erin Isley ,60.0,0
+Paid,2022-01-07,Signature Aromatherapy Massage,Claire Nitsche,60.0,160
+Paid,2022-02-14,Deep Tissue Massage,Kristina Oldani,90.0,165
+Paid,2022-02-14,Deep Tissue Massage,Brian Tinney,90.0,165
+Paid,2022-01-28,Swedish Massage,Rebecca Strejc,60.0,105
+Cancelled,2022-01-31,Swedish Massage,Rachel Landwehr,60.0,0
+Paid,2022-01-21,Deep Tissue Massage,Lindsay Legary,90.0,165
+Paid,2022-02-05,Deep Tissue Massage,Marcia Collins,90.0,165
+Paid,2022-01-21,Deep Tissue Massage,Katherine Iverson,90.0,165
+Cancelled,2022-01-10,Deep Tissue Massage,Dixie Moore,60.0,0
+Paid,2022-01-24,Deep Tissue Massage,Diana Wang,90.0,165
+Paid,2022-01-17,Deep Tissue Massage,Marcia Frew,60.0,115
+Cancelled,2022-06-04,Deep Tissue Massage,Jessica Anderson ,90.0,0
+Paid,2022-05-07,Deep Tissue Massage,Jessica Anderson ,90.0,165
+Paid,2022-04-02,Deep Tissue Massage,Jessica Anderson ,90.0,165
+Cancelled,2022-03-12,Deep Tissue Massage,Jessica Anderson ,90.0,0
+Paid,2022-02-04,Deep Tissue Massage,Jessica Anderson ,90.0,165
+Cancelled,2022-06-27,Deep Tissue Massage,Diane Baldi,60.0,0
+Cancelled,2022-12-19,Deep Tissue Massage,Diane Baldi,60.0,0
+Paid,2022-11-07,Deep Tissue Massage,Diane Baldi,60.0,115
+Paid,2022-09-26,Deep Tissue Massage,Diane Baldi,60.0,115
+Cancelled,2022-08-15,Deep Tissue Massage,Diane Baldi,60.0,0
+Cancelled,2022-05-23,Deep Tissue Massage,Diane Baldi,60.0,0
+Paid,2022-01-14,Back & Shoulder Massage,April Avrain,30.0,60
+Paid,2022-01-28,Signature Aromatherapy Massage,JESSE CLINE,60.0,160
+Paid,2022-02-26,Swedish Massage,Brooke Raynor,90.0,145
+Paid,2022-01-10,Swedish Massage,Brooke Raynor,60.0,105
+Paid,2022-02-12,Swedish Massage,Brooke Raynor,60.0,105
+Paid,2022-01-31,Swedish Massage,Brooke Raynor,90.0,145
+Paid,2022-01-17,Deep Tissue Massage,Kathleen Calkins,90.0,165
+Cancelled,2022-01-10,Swedish Massage,Diana Wang,60.0,0
+Cancelled,2022-03-05,Deep Tissue Massage,Brenda Bannon,90.0,0
+Paid,2022-02-05,Deep Tissue Massage,Brenda Bannon,90.0,165
+Paid,2022-01-22,Deep Tissue Massage,Nedenia Kennedy,90.0,165
+Paid,2022-01-21,Swedish Massage,McKenna Lang,90.0,145
+Cancelled,2022-01-28,Swedish Massage,Joanne Croghan ,60.0,0
+Paid,2022-01-31,Swedish Massage,Danielle Cheung,90.0,145
+Paid,2022-01-28,Deep Tissue Massage,Margaret Bushnell,90.0,165
+Paid,2022-03-04,Swedish Massage,Tina Pujolar ,90.0,145
+Paid,2022-01-10,Swedish Massage,Tina Pujolar ,90.0,145
+Cancelled,2022-01-14,Swedish Massage,Jenny Lange,60.0,0
+Paid,2022-01-14,Warm Winter Glow CBD Massage,Amy Taylor,60.0,110
+Paid,2022-01-03,Deep Tissue Massage,Katherine Hanson,60.0,115
+Paid,2022-01-17,Deep Tissue Massage,Brianna Schoeneman,90.0,165
+Cancelled,2022-01-13,Deep Tissue Massage,Jennifer Stockton ,90.0,0
+Paid,2022-01-03,Deep Tissue Massage,Zan Merriman,60.0,115
+Cancelled,2022-01-20,Swedish Massage,Robin Dietl,90.0,0
+Paid,2022-04-16,Swedish Massage,Mia Cromarty,90.0,145
+Paid,2022-02-19,Signature Aromatherapy Massage,Rajlaxmi Bais,60.0,160
+Cancelled,2022-01-29,Swedish Massage,Andrea Woodruff,60.0,0
+Paid,2022-01-10,Deep Tissue Massage,Alexandria Mckeon,90.0,165
+Cancelled,2022-01-21,Swedish Massage,Lauren Yarberry,60.0,0
+Paid,2022-01-03,Warm Winter Glow CBD Massage,Ed Fontecha ,60.0,110
+Cancelled,2022-06-03,Deep Tissue Massage,Michelee Scott,90.0,0
+Paid,2022-07-01,Deep Tissue Massage,Michelee Scott,90.0,165
+Cancelled,2022-05-02,Deep Tissue Massage,Michelee Scott,90.0,0
+Paid,2022-04-11,Deep Tissue Massage,Michelee Scott,90.0,165
+Cancelled,2022-01-29,Hot Stone Massage,Reagan Bradshaw,90.0,0
+Cancelled,2022-01-29,Hot Stone Massage,Reagan Bradshaw,90.0,0
+Paid,2022-01-14,Swedish Massage,Lisa Bono ,90.0,145
+Paid,2022-01-08,Swedish Massage,Tina Crawford,60.0,105
+Paid,2022-03-05,Hot Stone Massage,Hayden Starkey,90.0,165
+Paid,2022-01-14,Swedish Massage,Stephanie Jackson,90.0,145
+Cancelled,2022-01-24,Swedish Massage,Ali Keys,90.0,0
+Cancelled,2022-01-24,Swedish Massage,Ali Keys,90.0,0
+Cancelled,2022-01-24,Warm Winter Glow CBD Massage,Ali Keys,60.0,0
+Cancelled,2022-01-07,Deep Tissue Massage,Michele Muffoletto,90.0,0
+Cancelled,2022-01-22,Swedish Massage,jennifer lynch,60.0,0
+Cancelled,2022-03-12,Signature Aromatherapy Massage,Danis Morgan,60.0,0
+Paid,2022-01-07,Swedish Massage,Kim Phillips- ingram,60.0,105
+Paid,2022-01-22,Swedish Massage,Kelly Warga,90.0,145
+Paid,2022-01-15,Hot Stone Massage,Allyson Johnson,90.0,165
+Paid,2022-01-15,Hot Stone Massage,Allyson Johnson,90.0,165
+Paid,2022-01-15,Hot Stone Massage,Allyson Johnson,90.0,165
+Paid,2022-01-07,Deep Tissue Massage,ziggy kopetti,60.0,115
+Paid,2022-01-24,Deep Tissue Massage,Kathryn Black,90.0,165
+Cancelled,2022-01-08,Deep Tissue Massage,Brenda Bannon,90.0,0
+Cancelled,2022-02-07,Deep Tissue Massage,Chloe Dale ,90.0,0
+Cancelled,2022-01-03,Deep Tissue Massage,Chloe Dale ,90.0,0
+Paid,2022-01-03,Deep Tissue Massage,Susan Ottemiller,90.0,165
+Cancelled,2022-01-08,Swedish Massage,Kelly Warga,90.0,0
+Paid,2022-03-05,Swedish Massage,Mikel Durham ,60.0,105
+Cancelled,2022-02-19,Swedish Massage,Mikel Durham ,60.0,0
+No Show,2022-02-05,Swedish Massage,Mikel Durham ,60.0,0
+No Show,2022-01-22,Swedish Massage,Mikel Durham ,60.0,0
+Paid,2022-01-08,Swedish Massage,Mikel Durham ,60.0,105
+Cancelled,2022-01-22,Swedish Massage,Leslie Torres ,60.0,0
+Paid,2022-01-24,Deep Tissue Massage,Diane Baldi,,165
