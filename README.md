@@ -38,6 +38,9 @@ The **Appointment Trends and Optimization** project aims to analyze historical a
 - Created interactive dashboards in Power BI to visualize key metrics:
   - Developed visual representations of appointment trends, service popularity, and client demographics.
   - Presented insights in an easily digestible format for stakeholders.
+ 
+  ![massage_optimization](https://github.com/user-attachments/assets/4d16ea8b-0660-495c-ab42-cb754ee62542)
+
 
 ## Results and Impact
 - Implemented recommendations that led to:
