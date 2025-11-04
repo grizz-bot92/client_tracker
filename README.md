@@ -40,8 +40,6 @@ The **Appointment Trends and Optimization** project aims to analyze historical a
   - Presented insights in an easily digestible format for stakeholders.
  
 
-  ![massage_info](https://github.com/user-attachments/assets/bdc6966d-2cf2-45ff-8590-f1dd7754c693)
-
 
 
 ## Results and Impact
